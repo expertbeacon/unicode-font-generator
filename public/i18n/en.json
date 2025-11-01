@@ -1,0 +1,343 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "style": {
+      "h1": "Font & Text Generator",
+      "sidebar": {
+        "all": "ALL"
+      },
+      "bold": {
+        "name": "Bold",
+        "meta": {
+          "title": "Bold Text Generators | 𝐁𝐨𝐥𝐝 𝐓𝐞𝐱𝐭",
+          "description": "A Bold Text Generator is an online tool designed to convert your standard text into bold characters. Unlike simply changing the font style, this tool generates bold text using a specific set of Unicode symbols that mimic bold letters. These symbols can then be copied and pasted into various digital platforms, making your content more noticeable and impactful."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Cool Font Symbol Personal Style",
+          "description": "The Cool Text Generator isn’t just about pre-set fonts; it also offers a degree of customization. You can experiment with different styles to create a text that aligns perfectly with your brand or personal style. Whether you’re looking for something bold, elegant, or quirky, there’s a font in the generator that can meet your needs. "
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Fancy Font Generator (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Fancy fonts are essentially a collection of Unicode symbols that resemble stylized versions of standard letters and numbers. While they appear as different fonts, they are, in fact, distinct characters within the Unicode standard. This means they can be copied and pasted across various platforms, from social media profiles to messaging apps, making your content stand out in the crowd."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "Italic text has a rich history in typography, originally used in print to emphasize certain words or phrases. In the digital age, italic text continues to serve this purpose, but it also offers much more. Italics can indicate a tone of voice, distinguish foreign words or phrases, or denote titles of works. In creative writing, italics can convey thoughts, internal dialogue, or subtle nuances, adding depth to the text. Essentially, italic text is a powerful tool for enhancing readability and adding meaning to your words.",
+          "title": "Italic Text Generator [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Tiny Text Generator (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "Small text, often referred to as tiny text, isn't just about making your text smaller in size. It involves converting your text into a specific subset of Unicode characters that are naturally smaller in appearance. These characters are not merely scaled-down versions of regular letters; they are distinct symbols within the Unicode standard, designed to occupy less vertical space. This distinction is important because it means that small text can be copied and pasted across different platforms without losing its formatting, unlike text that is simply resized in a word processor."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "Bold italic text is a hybrid style that merges the impact of bold with the emphasis of italics. Historically, bold text has been used to highlight important words or phrases, making them stand out, while italic text adds a subtle emphasis or indicates a shift in tone. By combining these two styles, bold italic text achieves both, making it an excellent choice for drawing attention to critical content without overwhelming the reader.",
+          "title": "Bold and Italic Text Generators (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Underline Text Generator | 𝓤𝓷𝓭𝓮𝓻𝓵𝓲𝓷𝓮 𝓣𝓮𝔁𝓽",
+          "description": "Underline italic text is a combination of two traditional text styles: underlining, which is often used to emphasize key points or indicate hyperlinks, and italics, which adds a subtle emphasis or distinguishes titles, foreign phrases, or thoughts. By merging these two styles, underline italic text provides a distinct way to highlight important information, making it more visually appealing and easier for readers to notice."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Bubble font Generator | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "Bubble text is a unique way of presenting text that encloses each character in a rounded or square shape, resembling a bubble. This effect is achieved by using specific Unicode characters that were originally intended for use as numbered and lettered bullets in ordered lists. Over time, these characters have been repurposed for creative applications, giving rise to the popular bubble text style."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Serif Font Generator (𝐜𝐨𝐩𝘆 & 𝐩𝐚𝘀𝘁𝐞)",
+          "description": "Serif fonts have a long history rooted in the earliest forms of written communication. The use of serifs in typefaces helps to guide the reader's eye from one letter to the next, improving the flow of reading and making long blocks of text easier to digest. This is why serif fonts have remained a staple in print media and are still widely used in both digital and print formats today.\n"
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Square Text Generator | 🅂🅀🅄🄰🅁🄴",
+          "description": "Square text is a creative way to present text by enclosing each character within a square or rectangular shape. This style is achieved using specific Unicode characters that were originally intended for use in lists, tables, or as stylized bullets. However, these characters have been creatively repurposed to give text a distinct, blocky look that resembles bricks, windows, or pixelated elements. "
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Sans Serif Text Generator | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Sans serif fonts have a rich history in typography, evolving from their origins in the 19th century to become a staple of modern design. Unlike serif fonts, which have decorative strokes at the ends of letters, sans serif fonts are characterized by their simplicity and lack of adornment. This minimalist design makes them highly legible, especially on screens, where clarity and readability are paramount."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "Cursive Font Generator | Create Elegant Handwriting Fonts Online",
+          "description": "Transform your text into beautiful cursive fonts with our free Cursive Font Generator. Create unique, handwriting-style text for social media, designs, and more. Try it now!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Alternating Font Generator",
+          "description": "Create eye-catching alternating text styles that alternate between different fonts with our free generator."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Exotic Font Generator | 🌍 Unique Unicode Fonts",
+          "description": "Transform your text into exotic and unique font styles using special Unicode characters from various writing systems. Perfect for standing out on social media."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Mathematical Font Generator | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Generate mathematical and scientific text styles including double-struck, script, and fraktur fonts perfect for equations and academic content."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Decorative Font Generator | ✨ Stylish Text",
+          "description": "Create beautiful decorative text with bubbles, squares, and unique Unicode characters that make your content stand out."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Vintage Font Generator | 📜 Classic Text Styles",
+          "description": "Generate vintage and classic font styles including fraktur, script, and traditional serif fonts for a timeless look."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Modern Font Generator | 🎯 Clean Contemporary Fonts",
+          "description": "Create sleek, modern text styles with clean sans-serif and monospace fonts perfect for professional and contemporary content."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Artistic Font Generator | 🎨 Creative Text Styles",
+          "description": "Transform your text into artistic and creative font styles with script, fraktur, and unique letterlike characters."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Rounded Font Generator | ⭕ Soft Bubble Fonts",
+          "description": "Generate rounded and soft text styles with bubble letters and curved fonts that give your text a friendly, approachable look."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Sharp Font Generator | ⚡ Angular Text Styles",
+          "description": "Create sharp, angular text with square and bold fonts perfect for tech-savvy and modern designs."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Handwritten Font Generator | ✍️ Script Text",
+          "description": "Generate authentic handwritten-style text with script and cursive fonts that add a personal, human touch to your content."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Gaming Font Generator | 🎮 Game-Style Text",
+          "description": "Create gaming-style text with pixelated, retro, and bold fonts perfect for gamers and gaming content."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Retro Font Generator | 🕹️ 8-bit Style Text",
+          "description": "Generate retro and vintage 8-bit style text with monospace and pixelated fonts reminiscent of classic computing."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Elegant Font Generator | 💎 Sophisticated Text",
+          "description": "Create elegant and sophisticated text with script, serif italic, and refined fonts for a classy, upscale appearance."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Playful Font Generator | 🎪 Fun Text Styles",
+          "description": "Generate fun and playful text with bubbles, rotated characters, and whimsical fonts that add joy and energy to your content."
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "bold": "Bold",
+        "fancy": "Fancy",
+        "italic": "Italic",
+        "cool": "Cool",
+        "bold-italic": "Bold Italic",
+        "small": "Small",
+        "normal": "Normal",
+        "underline": "Underline",
+        "bubble-text": "Bubble Text",
+        "square-text": "Square Text",
+        "cursive": "Cursive",
+        "alternating": "Alternating",
+        "exotic": "Exotic",
+        "mathematical": "Mathematical",
+        "decorative": "Decorative",
+        "vintage": "Vintage",
+        "modern": "Modern",
+        "artistic": "Artistic",
+        "rounded": "Rounded",
+        "sharp": "Sharp",
+        "handwritten": "Handwritten",
+        "gaming": "Gaming",
+        "retro": "Retro",
+        "elegant": "Elegant",
+        "playful": "Playful"
+      },
+      "topic": {
+        "handwriting": "Handwriting"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Stylish Text Generator for Facebook, X (Twitter) & Social Media",
+        "description": "Easily generate stylish text for Facebook, X (formerly Twitter), and other social media platforms. Customize fonts with bold, italic, fancy, and cool styles to make your posts stand out."
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Transform Your Text Into Stunning Fonts",
+        "subtitle": "Generate stylish Unicode fonts instantly for social media, messaging, and creative projects",
+        "stats": "Used by 100,000+ content creators worldwide"
+      },
+      "features": {
+        "title": "Why Choose Our Font Generator",
+        "subtitle": "Professional-grade text styling with features you won't find anywhere else",
+        "instant": {
+          "title": "Instant Generation",
+          "description": "Transform your text in real-time with our lightning-fast generator. See results as you type."
+        },
+        "unicode": {
+          "title": "True Unicode Fonts",
+          "description": "All fonts use genuine Unicode characters that work across all platforms without special apps."
+        },
+        "variety": {
+          "title": "100+ Font Styles",
+          "description": "From bold and italic to fancy and cool - find the perfect style for any occasion."
+        },
+        "copy": {
+          "title": "One-Click Copy",
+          "description": "Instantly copy styled text to your clipboard and paste anywhere you want."
+        },
+        "free": {
+          "title": "100% Free",
+          "description": "No registration, no hidden fees, no watermarks. Completely free to use forever."
+        },
+        "compatible": {
+          "title": "Universal Compatibility",
+          "description": "Works on Facebook, Twitter, Instagram, WhatsApp, Discord, and all major platforms."
+        }
+      },
+      "benefits": {
+        "title": "Why You Need a Font Generator",
+        "subtitle": "Stand out in the crowd with text that captures attention and expresses your unique style",
+        "visibility": {
+          "title": "Boost Your Visibility",
+          "description": "Stylish text grabs attention in crowded social feeds, increasing engagement on your posts by up to 300%.",
+          "tag": "More Engagement"
+        },
+        "expression": {
+          "title": "Express Your Personality",
+          "description": "Different fonts convey different emotions. Choose styles that match your brand or personal vibe perfectly.",
+          "tag": "Unique Identity"
+        },
+        "professional": {
+          "title": "Stand Out Professionally",
+          "description": "Make your business profiles, bios, and content more memorable with distinctive typography.",
+          "tag": "Brand Power"
+        },
+        "creative": {
+          "title": "Unleash Creativity",
+          "description": "Perfect for artists, designers, and content creators who want to add visual flair to their work.",
+          "tag": "Creative Freedom"
+        }
+      },
+      "howto": {
+        "title": "How to Use the Font Generator",
+        "subtitle": "Three simple steps to create stunning text",
+        "step1": {
+          "title": "Type Your Text",
+          "description": "Enter any text you want to style in the input box above"
+        },
+        "step2": {
+          "title": "Choose Your Style",
+          "description": "Browse through 100+ font styles and pick your favorite"
+        },
+        "step3": {
+          "title": "Copy & Paste",
+          "description": "Click the copy button and paste your styled text anywhere"
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": {
+          "question": "Are these real fonts or just images?",
+          "answer": "These are genuine Unicode characters, not images. They work as real text that you can copy, paste, edit, and use anywhere without special software."
+        },
+        "q2": {
+          "question": "Will these fonts work on all devices?",
+          "answer": "Yes! Because we use Unicode characters, these fonts work on all devices (iOS, Android, Windows, Mac, Linux) and all platforms (Facebook, Twitter, Instagram, WhatsApp, Discord, etc.) without any special apps."
+        },
+        "q3": {
+          "question": "Is this font generator really free?",
+          "answer": "Absolutely! Our font generator is 100% free to use with no registration required, no hidden fees, and no watermarks. Generate as many stylish texts as you want, whenever you want."
+        },
+        "q4": {
+          "question": "Can I use these fonts for commercial purposes?",
+          "answer": "Yes! The Unicode characters are part of the Unicode Standard, which means you can use them freely for both personal and commercial projects without any licensing restrictions."
+        },
+        "q5": {
+          "question": "Why do some fonts not display correctly?",
+          "answer": "While our fonts work on most platforms, some older devices or apps may not support all Unicode characters. The fonts should work perfectly on all modern devices and major social media platforms."
+        },
+        "q6": {
+          "question": "Can I suggest new font styles?",
+          "answer": "We love feedback! While we can only use Unicode characters that exist in the standard, we're always looking to add new and creative font combinations. Contact us with your suggestions!"
+        }
+      },
+      "popular": {
+        "title": "Trending Font Styles",
+        "subtitle": "Discover the most popular and creative font styles loved by our community",
+        "badge": "Popular Styles",
+        "try_now": "Try it now",
+        "explore_all": "Explore All Font Styles"
+      },
+      "tools": {
+        "title": "More Helpful Tools",
+        "subtitle": "Professional tools for web developers, designers, and content creators"
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "Enhance Your Facebook Posts with Our Font Generator! Transform your text into eye-catching fonts for Facebook, including bold, italic, cursive, and stylish symbols. Stand out in comments, posts, and bios with unique text styles that grab attention. Easy to use, free, and compatible with all devices. Elevate your social media presence today with our Facebook Font Generator!",
+          "title": "Facebook Font Generator"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Topics for font Generator"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "Handwriting Font Generator",
+          "description": "Free online handwriting font generator. Convert your text into stylish Unicode fonts and special characters. Create unique handwritten styles for social media and messaging."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Copy",
+      "copyed": "Copied!"
+    }
+  }
+}

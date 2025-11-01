@@ -1,0 +1,137 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "style": {
+      "h1": "Font",
+      "sidebar": {
+        "all": "ALLA"
+      },
+      "bold": {
+        "meta": {
+          "title": "Fet textgeneratorer | 𝗙𝗲𝘁 𝘁𝗲𝘅𝘁𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿𝗲𝗿",
+          "description": "En fet textgenerator är ett onlineverktyg utformat för att konvertera din standardtext till fetstilta tecken. \nTill skillnad från att bara ändra teckensnittsstilen genererar det här verktyget fet text med hjälp av en specifik uppsättning Unicode-symboler som efterliknar feta bokstäver. \nDessa symboler kan sedan kopieras och klistras in i olika digitala plattformar, vilket gör ditt innehåll mer märkbart och slagkraftigt."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Cool teckensnittssymbol personlig stil",
+          "description": "Cool Text Generator handlar inte bara om förinställda typsnitt; \ndet erbjuder också en viss grad av anpassning. \nDu kan experimentera med olika stilar för att skapa en text som passar perfekt med ditt varumärke eller personliga stil. \nOavsett om du letar efter något djärvt, elegant eller udda, finns det ett typsnitt i generatorn som kan möta dina behov."
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Fancy Font Generator (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Fancy typsnitt är i huvudsak en samling Unicode-symboler som liknar stiliserade versioner av standardbokstäver och siffror. \nÄven om de visas som olika typsnitt, är de i själva verket distinkta tecken inom Unicode-standarden. \nDet betyder att de kan kopieras och klistras in på olika plattformar, från sociala medieprofiler till meddelandeappar, vilket gör att ditt innehåll sticker ut i mängden."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "Kursiv text har en rik historia inom typografi, som ursprungligen användes i tryck för att betona vissa ord eller fraser. \nI den digitala tidsåldern fortsätter kursiv text att tjäna detta syfte, men den erbjuder också mycket mer. \nKursiv stil kan indikera ett tonfall, särskilja främmande ord eller fraser, eller beteckna titlar på verk. \nI kreativt skrivande kan kursiv stil förmedla tankar, intern dialog eller subtila nyanser, vilket ger djup till texten. \nKursiv text är i huvudsak ett kraftfullt verktyg för att förbättra läsbarheten och lägga till mening till dina ord.",
+          "title": "Kursiv textgenerator [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Tiny Text Generator (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "Liten text, ofta kallad liten text, handlar inte bara om att göra din text mindre i storlek. \nDet innebär att konvertera din text till en specifik delmängd av Unicode-tecken som är naturligt mindre till utseendet. \nDessa tecken är inte bara förminskade versioner av vanliga bokstäver; \nde är distinkta symboler inom Unicode-standarden, designade för att uppta mindre vertikalt utrymme. \nDenna distinktion är viktig eftersom den innebär att liten text kan kopieras och klistras in på olika plattformar utan att förlora sin formatering, till skillnad från text som helt enkelt ändras storlek i en ordbehandlare."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "Fet kursiv text är en hybridstil som kombinerar effekten av fet stil med betoningen av kursiv stil. \nHistoriskt sett har fet text använts för att markera viktiga ord eller fraser, vilket gör att de sticker ut, medan kursiv text lägger till en subtil betoning eller indikerar en förändring i ton. \nGenom att kombinera dessa två stilar uppnår fet kursiv text båda, vilket gör den till ett utmärkt val för att uppmärksamma kritiskt innehåll utan att överväldiga läsaren.",
+          "title": "Fet och kursiv textgeneratorer (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Understruken textgenerator | 𝐔̲𝐧̲𝐝̲𝐞̲𝐫̲𝐬̲𝐭̲𝐫̲𝐮̲𝐤̲𝐞̲𝐧̲ ̲𝐭̲𝐞̲𝐱̲𝐭̲𝐠̲𝐞̲𝐧̲𝐞̲𝐫̲𝐚̲𝐭̲𝐨̲𝐫̲",
+          "description": "Understruken kursiv text är en kombination av två traditionella textstilar: understrykning, som ofta används för att betona nyckelpunkter eller indikera hyperlänkar, och kursiv stil, som lägger till en subtil betoning eller särskiljer titlar, främmande fraser eller tankar. \nGenom att slå samman dessa två stilar ger understruken kursiv text ett distinkt sätt att markera viktig information, vilket gör den mer visuellt tilltalande och lättare för läsarna att lägga märke till."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Bubble font Generator | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "Bubbeltext är ett unikt sätt att presentera text som omsluter varje tecken i en rundad eller fyrkantig form, som liknar en bubbla. \nDenna effekt uppnås genom att använda specifika Unicode-tecken som ursprungligen var avsedda att användas som siffror och bokstäver i ordnade listor. \nMed tiden har dessa karaktärer återanvänts för kreativa applikationer, vilket har gett upphov till den populära bubbeltextstilen."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Serif Font Generator (𝐜𝐨𝐩𝘆",
+          "description": "Serif-teckensnitt har en lång historia med rötter i de tidigaste formerna av skriftlig kommunikation. \nAnvändningen av seriffer i typsnitt hjälper till att vägleda läsarens öga från en bokstav till nästa, vilket förbättrar läsflödet och gör långa textblock lättare att smälta. \nDet är därför serif-teckensnitt har förblivit en stapelvara i tryckta medier och används fortfarande i stor utsträckning i både digitala och tryckta format idag."
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Fyrkantig textgenerator | 🅂🅀🅄🄰🅁🄴",
+          "description": "Fyrkantig text är ett kreativt sätt att presentera text genom att omsluta varje tecken i en kvadratisk eller rektangulär form. \nDenna stil uppnås med hjälp av specifika Unicode-tecken som ursprungligen var avsedda att användas i listor, tabeller eller som stiliserade punkter. \nDessa karaktärer har dock återanvänts på ett kreativt sätt för att ge text ett distinkt, blockigt utseende som liknar tegelstenar, fönster eller pixlade element."
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Sans Serif Text Generator | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Sans serif-teckensnitt har en rik historia inom typografi, och har utvecklats från sitt ursprung på 1800-talet till att bli en stapelvara i modern design. \nTill skillnad från serif-teckensnitt, som har dekorativa streck i ändarna av bokstäver, kännetecknas sans serif-teckensnitt av sin enkelhet och brist på utsmyckning. \nDenna minimalistiska design gör dem mycket läsbara, särskilt på skärmar, där tydlighet och läsbarhet är av största vikt."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "Cursive Font Generator | \nSkapa eleganta handskriftsteckensnitt online",
+          "description": "Förvandla din text till vackra kursiva teckensnitt med vår gratis Cursive Font Generator. \nSkapa unik text i handstil för sociala medier, design och mer. \nProva nu!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Alternerande teckensnittsgenerator"
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "bold": "Djärv",
+        "fancy": "Lust",
+        "italic": "Kursiv",
+        "cool": "Sval",
+        "bold-italic": "Fet kursiv",
+        "small": "Små",
+        "normal": "Normal",
+        "underline": "Betona",
+        "bubble-text": "Bubbla text",
+        "square-text": "Fyrkantig text",
+        "cursive": "Kursiv",
+        "alternating": "Omväxlande"
+      },
+      "topic": {
+        "handwriting": "Handstil"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Snygg textgenerator för Facebook, X (Twitter)",
+        "description": "Skapa enkelt snygg text för Facebook, X (tidigare Twitter) och andra sociala medieplattformar. \nAnpassa typsnitt med fetstil, kursiv, snygg och cool stil för att få dina inlägg att sticka ut."
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "Förbättra dina Facebook-inlägg med vår teckensnittsgenerator! \nFörvandla din text till iögonfallande typsnitt för Facebook, inklusive fetstil, kursiv, kursiv och stilfulla symboler. \nStick ut i kommentarer, inlägg och bios med unika textstilar som fångar uppmärksamhet. \nLätt att använda, gratis och kompatibel med alla enheter. \nÖka din närvaro på sociala medier idag med vår Facebook Font Generator!",
+          "title": "Facebook Font Generator"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Ämnen för teckensnittsgenerator"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "Handskriftstypsnittsgenerator",
+          "description": "Gratis teckensnittsgenerator för handskrift online. \nKonvertera din text till snygga Unicode-teckensnitt och specialtecken. \nSkapa unika handskrivna stilar för sociala medier och meddelanden."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Kopiera",
+      "copyed": "Kopierade!"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "style": {
+      "h1": "Chrzcielnica",
+      "sidebar": {
+        "all": "WSZYSTKO"
+      },
+      "bold": {
+        "meta": {
+          "title": "Generatory pogrubionego tekstu | 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿𝘆 𝗽𝗼𝗴𝗿𝘂𝗯𝗶𝗼𝗻𝗲𝗴𝗼 𝘁𝗲𝗸𝘀𝘁𝘂",
+          "description": "Generator pogrubionego tekstu to narzędzie online zaprojektowane do konwersji standardowego tekstu na pogrubione znaki. \nW przeciwieństwie do zwykłej zmiany stylu czcionki, to narzędzie generuje pogrubiony tekst przy użyciu określonego zestawu symboli Unicode imitujących pogrubione litery. \nSymbole te można następnie kopiować i wklejać na różne platformy cyfrowe, dzięki czemu Twoje treści będą bardziej zauważalne i wywierają wpływ."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Fajny symbol czcionki, osobisty styl",
+          "description": "Generator fajnego tekstu to nie tylko wstępnie ustawione czcionki; \noferuje również pewien stopień dostosowania. \nMożesz eksperymentować z różnymi stylami, aby stworzyć tekst idealnie pasujący do Twojej marki lub osobistego stylu. \nNiezależnie od tego, czy szukasz czegoś odważnego, eleganckiego czy dziwacznego, w generatorze znajdziesz czcionkę, która spełni Twoje potrzeby."
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Generator fantazyjnych czcionek (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Fantazyjne czcionki to w zasadzie zbiór symboli Unicode, które przypominają stylizowane wersje standardowych liter i cyfr. \nChoć wyglądają jak różne czcionki, w rzeczywistości są to odrębne znaki w standardzie Unicode. \nOznacza to, że można je kopiować i wklejać na różnych platformach, od profili w mediach społecznościowych po aplikacje do przesyłania wiadomości, dzięki czemu Twoje treści będą wyróżniać się w tłumie."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "Tekst kursywą ma bogatą historię w typografii i pierwotnie był używany w druku w celu podkreślenia pewnych słów lub wyrażeń. \nW epoce cyfrowej kursywa nadal służy temu celowi, ale oferuje także znacznie więcej. \nKursywa może wskazywać ton głosu, rozróżniać obce słowa lub wyrażenia lub oznaczać tytuły dzieł. \nW kreatywnym pisaniu kursywa może przekazywać myśli, wewnętrzny dialog lub subtelne niuanse, dodając głębi tekstowi. \nZasadniczo kursywa jest potężnym narzędziem zwiększającym czytelność i dodającym znaczenia słowom.",
+          "title": "Generator tekstu kursywą [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Mały generator tekstu (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "Mały tekst, często nazywany drobnym tekstem, nie polega tylko na zmniejszeniu rozmiaru tekstu. \nPolega na konwersji tekstu na określony podzbiór znaków Unicode, które są naturalnie mniejsze. \nZnaki te nie są jedynie pomniejszonymi wersjami zwykłych liter; \nsą to odrębne symbole w standardzie Unicode, zaprojektowane tak, aby zajmowały mniej miejsca w pionie. \nTo rozróżnienie jest ważne, ponieważ oznacza, że ​​mały tekst można kopiować i wklejać na różnych platformach bez utraty formatowania, w przeciwieństwie do tekstu, którego rozmiar po prostu zmienia się w edytorze tekstu."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "Tekst pogrubiony kursywą to styl hybrydowy, który łączy wpływ pogrubienia z podkreśleniem kursywy. \nHistorycznie rzecz biorąc, pogrubiony tekst był używany do wyróżniania ważnych słów lub fraz, podczas gdy tekst kursywą subtelnie podkreślał lub wskazywał na zmianę tonu. \nŁącząc te dwa style, pogrubiony tekst kursywy pozwala osiągnąć oba te cele, co czyni go doskonałym wyborem do zwrócenia uwagi na krytyczne treści bez przytłaczania czytelnika.",
+          "title": "Generatory tekstu pogrubionego i kursywy (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Generator podkreślenia tekstu | 𝐆̲𝐞̲𝐧̲𝐞̲𝐫̲𝐚̲𝐭̲𝐨̲𝐫̲ ̲𝐩̲𝐨̲𝐝̲𝐤̲𝐫̲𝐞̲ś̲𝐥̲𝐞̲𝐧̲𝐢̲𝐚̲ ̲𝐭̲𝐞̲𝐤̲𝐬̲𝐭̲𝐮̲",
+          "description": "Tekst podkreślony kursywą to połączenie dwóch tradycyjnych stylów tekstu: podkreślenia, które jest często używane do podkreślenia kluczowych punktów lub wskazania hiperłączy, oraz kursywy, która dodaje subtelne podkreślenie lub wyróżnia tytuły, obce zwroty lub myśli. \nŁącząc te dwa style, podkreślenie tekstu kursywą zapewnia wyraźny sposób wyróżnienia ważnych informacji, czyniąc je bardziej atrakcyjnymi wizualnie i łatwiejszymi do zauważenia przez czytelników."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Generator czcionek bąbelkowych | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "Tekst bąbelkowy to unikalny sposób prezentacji tekstu, który otacza każdy znak w zaokrąglony lub kwadratowy kształt przypominający bąbelek. \nEfekt ten osiąga się poprzez użycie określonych znaków Unicode, które pierwotnie były przeznaczone do stosowania jako punktory numerowane i literowane na uporządkowanych listach. \nZ biegiem czasu znaki te zostały ponownie wykorzystane do zastosowań kreatywnych, dając początek popularnemu stylowi tekstu bąbelkowego."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Generator czcionek szeryfowych (𝐜𝐨𝐩𝘆",
+          "description": "Czcionki szeryfowe mają długą historię zakorzenioną w najwcześniejszych formach komunikacji pisemnej. \nStosowanie szeryfów w krojach pisma pomaga poprowadzić wzrok czytelnika od jednej litery do drugiej, poprawiając płynność czytania i ułatwiając przyswajanie długich bloków tekstu. \nWłaśnie dlatego czcionki szeryfowe pozostają podstawą w mediach drukowanych i nadal są szeroko stosowane zarówno w formatach cyfrowych, jak i drukowanych."
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Generator tekstu kwadratowego | 🅂🅀🅄🄰🅁🄴",
+          "description": "Tekst kwadratowy to kreatywny sposób prezentacji tekstu poprzez umieszczenie każdego znaku w kształcie kwadratu lub prostokąta. \nTen styl osiąga się za pomocą określonych znaków Unicode, które pierwotnie były przeznaczone do stosowania na listach, tabelach lub jako stylizowane punktory. \nJednakże znaki te zostały twórczo przekształcone, aby nadać tekstowi wyraźny, blokowy wygląd przypominający cegły, okna lub elementy pikselowane."
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Generator tekstu bezszeryfowego  | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Czcionki bezszeryfowe mają bogatą historię w typografii, ewoluując od XIX wieku, aby stać się podstawą nowoczesnego designu. \nW odróżnieniu od czcionek szeryfowych, które posiadają ozdobne kreski na końcach liter, czcionki bezszeryfowe charakteryzują się prostotą i brakiem ozdób. \nMinimalistyczny design sprawia, że ​​są one bardzo czytelne, zwłaszcza na ekranach, gdzie przejrzystość i czytelność są najważniejsze."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "Generator czcionek kursywnych | \nTwórz eleganckie czcionki pisma ręcznego online",
+          "description": "Przekształć swój tekst w piękne kursywne czcionki za pomocą naszego bezpłatnego generatora czcionek kursywnych. \nTwórz unikalny tekst w stylu pisma odręcznego na potrzeby mediów społecznościowych, projektów i nie tylko. \nWypróbuj teraz!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Generator czcionek przemiennych"
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "bold": "Pogrubiony",
+        "fancy": "Wymyślny",
+        "italic": "italski",
+        "cool": "Fajny",
+        "bold-italic": "Pogrubiona kursywa",
+        "small": "Mały",
+        "normal": "Normalna",
+        "underline": "Podkreślać",
+        "bubble-text": "Tekst bąbelkowy",
+        "square-text": "Kwadratowy tekst",
+        "cursive": "Kursywny",
+        "alternating": "Zmienny"
+      },
+      "topic": {
+        "handwriting": "Pismo"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Stylowy generator tekstu dla Facebooka, X (Twitter)",
+        "description": "Z łatwością generuj stylowy tekst dla Facebooka, X (dawniej Twittera) i innych platform mediów społecznościowych. \nDostosuj czcionki za pomocą pogrubienia, kursywy, fantazyjnych i fajnych stylów, aby Twoje posty wyróżniały się."
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "Ulepsz swoje posty na Facebooku za pomocą naszego generatora czcionek! \nZamień swój tekst w przyciągające wzrok czcionki na Facebooku, w tym pogrubienie, kursywę, kursywę i stylowe symbole. \nWyróżnij się w komentarzach, postach i biografiach dzięki unikalnym stylom tekstu, które przyciągają uwagę. \nŁatwy w użyciu, bezpłatny i kompatybilny ze wszystkimi urządzeniami. \nZwiększ swoją obecność w mediach społecznościowych już dziś dzięki naszemu generatorowi czcionek na Facebooku!",
+          "title": "Generator czcionek na Facebooku"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Tematy dla generatora czcionek"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "Generator czcionek pisma ręcznego",
+          "description": "Darmowy generator czcionek pisma ręcznego online. \nKonwertuj swój tekst na stylowe czcionki Unicode i znaki specjalne. \nTwórz unikalne style pisma odręcznego na potrzeby mediów społecznościowych i wiadomości."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Kopia",
+      "copyed": "Skopiowano!"
+    }
+  }
+}

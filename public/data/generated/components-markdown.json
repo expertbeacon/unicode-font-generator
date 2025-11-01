@@ -1,0 +1,620 @@
+{
+  "empty": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "home/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "home/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/alternating/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/bold-italic/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/bold-italic/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/bold-text/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/bold-text/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/bubble-text/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/bubble-text/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/cool/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/cool/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/cursive-font/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/fancy/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/fancy/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/italic/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/italic/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/sans-serif/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/sans-serif/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/serif/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/serif/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/small-text/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/small-text/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/square-text/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/square-text/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "style/underline/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/underline/block2": {
+    "locales": [
+      "en"
+    ]
+  },
+  "topic/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "topic/facebook/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "topic/handwriting/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/vintage/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/exotic/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/mathematical/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/decorative/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/modern/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/artistic/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/rounded/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/sharp/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/handwritten/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/gaming/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/retro/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/elegant/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  "style/playful/block1": {
+    "locales": [
+      "de_DE",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  }
+}

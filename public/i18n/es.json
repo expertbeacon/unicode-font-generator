@@ -1,0 +1,137 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "style": {
+      "h1": "Fuente",
+      "sidebar": {
+        "all": "TODO"
+      },
+      "bold": {
+        "meta": {
+          "title": "Generadores de texto en negrita | 𝗚𝗲𝗻𝗲𝗿𝗮𝗱𝗼𝗿𝗲𝘀 𝗱𝗲 𝘁𝗲𝘅𝘁𝗼",
+          "description": "Un generador de texto en negrita es una herramienta en línea diseñada para convertir su texto estándar en caracteres en negrita. \nA diferencia de simplemente cambiar el estilo de fuente, esta herramienta genera texto en negrita utilizando un conjunto específico de símbolos Unicode que imitan letras en negrita. \nLuego, estos símbolos se pueden copiar y pegar en varias plataformas digitales, lo que hace que su contenido sea más notorio e impactante."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Estilo personal de símbolo de fuente genial",
+          "description": "Cool Text Generator no se trata solo de fuentes preestablecidas; \ntambién ofrece un grado de personalización. \nPuedes experimentar con diferentes estilos para crear un texto que se alinee perfectamente con tu marca o estilo personal. \nYa sea que estés buscando algo atrevido, elegante o peculiar, hay una fuente en el generador que puede satisfacer tus necesidades."
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Generador de fuentes elegantes (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Las fuentes elegantes son esencialmente una colección de símbolos Unicode que se asemejan a versiones estilizadas de letras y números estándar. \nSi bien aparecen como fuentes diferentes, en realidad son caracteres distintos dentro del estándar Unicode. \nEsto significa que se pueden copiar y pegar en varias plataformas, desde perfiles de redes sociales hasta aplicaciones de mensajería, haciendo que su contenido se destaque entre la multitud."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "El texto en cursiva tiene una rica historia en tipografía y se utilizó originalmente en forma impresa para enfatizar ciertas palabras o frases. \nEn la era digital, el texto en cursiva sigue cumpliendo este propósito, pero también ofrece mucho más. \nLa cursiva puede indicar un tono de voz, distinguir palabras o frases extranjeras o indicar títulos de obras. \nEn la escritura creativa, la cursiva puede transmitir pensamientos, diálogos internos o matices sutiles, añadiendo profundidad al texto. \nBásicamente, el texto en cursiva es una herramienta poderosa para mejorar la legibilidad y agregar significado a sus palabras.",
+          "title": "Generador de texto en cursiva [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Pequeño generador de texto (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "El texto pequeño, a menudo denominado texto pequeño, no se trata solo de reducir el tamaño del texto. \nImplica convertir su texto en un subconjunto específico de caracteres Unicode que son naturalmente más pequeños en apariencia. \nEstos caracteres no son simplemente versiones reducidas de letras normales; \nson símbolos distintos dentro del estándar Unicode, diseñados para ocupar menos espacio vertical. \nEsta distinción es importante porque significa que el texto pequeño se puede copiar y pegar en diferentes plataformas sin perder su formato, a diferencia del texto al que simplemente se le cambia el tamaño en un procesador de textos."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "El texto en negrita y cursiva es un estilo híbrido que combina el impacto de la negrita con el énfasis de la cursiva. \nHistóricamente, el texto en negrita se ha utilizado para resaltar palabras o frases importantes, haciéndolas resaltar, mientras que el texto en cursiva agrega un énfasis sutil o indica un cambio de tono. \nAl combinar estos dos estilos, el texto en negrita y cursiva logra ambos, lo que lo convierte en una excelente opción para llamar la atención sobre contenido crítico sin abrumar al lector.",
+          "title": "Generadores de texto en negrita y cursiva (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Generador de texto subrayado | 𝗚̲𝗲̲𝗻̲𝗲̲𝗿̲𝗮̲𝗱̲𝗼̲𝗿̲ ̲𝗱̲𝗲̲ ̲𝘁̲𝗲̲𝘅̲𝘁̲𝗼̲",
+          "description": "El subrayado de texto en cursiva es una combinación de dos estilos de texto tradicionales: subrayado, que a menudo se usa para enfatizar puntos clave o indicar hipervínculos, y cursiva, que agrega un énfasis sutil o distingue títulos, frases extranjeras o pensamientos. \nAl fusionar estos dos estilos, el texto subrayado en cursiva proporciona una forma distinta de resaltar información importante, haciéndolo más atractivo visualmente y más fácil de notar para los lectores."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Generador de fuentes de burbujas | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "El texto de burbuja es una forma única de presentar texto que encierra cada carácter en una forma redondeada o cuadrada, parecida a una burbuja. \nEste efecto se logra mediante el uso de caracteres Unicode específicos que originalmente estaban destinados a usarse como viñetas numeradas y con letras en listas ordenadas. \nCon el tiempo, estos caracteres se han reutilizado para aplicaciones creativas, dando lugar al popular estilo de texto de burbujas."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Generador de fuentes Serif (𝐜𝐨𝐩𝘆",
+          "description": "Las fuentes serif tienen una larga historia arraigada en las primeras formas de comunicación escrita. \nEl uso de serifas en tipos de letra ayuda a guiar la vista del lector de una letra a la siguiente, mejorando el flujo de lectura y haciendo que los bloques largos de texto sean más fáciles de digerir. \nEsta es la razón por la que las fuentes serif siguen siendo un elemento básico en los medios impresos y todavía se utilizan ampliamente en formatos digitales e impresos en la actualidad."
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Generador de texto cuadrado | 🅂🅀🅄🄰🅁🄴",
+          "description": "El texto cuadrado es una forma creativa de presentar texto encerrando cada carácter dentro de una forma cuadrada o rectangular. \nEste estilo se logra utilizando caracteres Unicode específicos que originalmente fueron pensados ​​para usarse en listas, tablas o como viñetas estilizadas. \nSin embargo, estos caracteres se han reutilizado creativamente para darle al texto una apariencia distintiva de bloques que se asemeja a ladrillos, ventanas o elementos pixelados."
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Generador de texto Sans Serif | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Las fuentes sans serif tienen una rica historia en tipografía, evolucionando desde sus orígenes en el siglo XIX hasta convertirse en un elemento básico del diseño moderno. \nA diferencia de las fuentes serif, que tienen trazos decorativos al final de las letras, las fuentes sans serif se caracterizan por su sencillez y falta de adornos. \nEste diseño minimalista los hace muy legibles, especialmente en pantallas, donde la claridad y la legibilidad son primordiales."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "Generador de fuentes cursivas | \nCree fuentes elegantes para escribir a mano en línea",
+          "description": "Transforme su texto en hermosas fuentes cursivas con nuestro generador de fuentes cursivas gratuito. \nCree texto único con estilo de escritura a mano para redes sociales, diseños y más. \n¡Pruébalo ahora!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Generador de fuentes alternas"
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "bold": "Atrevido",
+        "fancy": "Elegante",
+        "italic": "Itálico",
+        "cool": "Fresco",
+        "bold-italic": "Negrita cursiva",
+        "small": "Pequeño",
+        "normal": "Normal",
+        "underline": "Subrayar",
+        "bubble-text": "Texto de burbuja",
+        "square-text": "Texto cuadrado",
+        "cursive": "Cursivo",
+        "alternating": "Alterno"
+      },
+      "topic": {
+        "handwriting": "Escritura"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Generador de texto con estilo para Facebook, X (Twitter)",
+        "description": "Genere fácilmente texto elegante para Facebook, X (anteriormente Twitter) y otras plataformas de redes sociales. \nPersonaliza fuentes con estilos en negrita, cursiva, elegantes y atractivos para que tus publicaciones se destaquen."
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "¡Mejora tus publicaciones de Facebook con nuestro generador de fuentes! \nTransforme su texto en fuentes llamativas para Facebook, incluidos símbolos en negrita, cursiva, cursiva y elegantes. \nDestaca en comentarios, publicaciones y biografías con estilos de texto únicos que llamen la atención. \nFácil de usar, gratuito y compatible con todos los dispositivos. \n¡Eleva tu presencia en las redes sociales hoy con nuestro generador de fuentes de Facebook!",
+          "title": "Generador de fuentes de Facebook"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Temas para el generador de fuentes"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "Generador de fuentes de escritura a mano",
+          "description": "Generador de fuentes de escritura a mano en línea gratuito. \nConvierta su texto en elegantes fuentes Unicode y caracteres especiales. \nCree estilos escritos a mano únicos para redes sociales y mensajería."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Copiar",
+      "copyed": "¡Copiado!"
+    }
+  }
+}

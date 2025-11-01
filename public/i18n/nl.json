@@ -1,0 +1,137 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "style": {
+      "h1": "Lettertype",
+      "sidebar": {
+        "all": "ALLE"
+      },
+      "bold": {
+        "meta": {
+          "title": "Vetgedrukte tekstgeneratoren | 𝗩𝗲𝘁𝗴𝗲𝗱𝗿𝘂𝗸𝘁𝗲 𝘁𝗲𝗸𝘀𝘁𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿𝗲𝗻",
+          "description": "Een Bold Text Generator is een online tool die is ontworpen om uw standaardtekst om te zetten in vetgedrukte tekens. \nIn tegenstelling tot het simpelweg wijzigen van de lettertypestijl, genereert deze tool vetgedrukte tekst met behulp van een specifieke set Unicode-symbolen die vetgedrukte letters nabootsen. \nDeze symbolen kunnen vervolgens in verschillende digitale platforms worden gekopieerd en geplakt, waardoor uw inhoud opvallender en impactvoller wordt."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Cool lettertype symbool persoonlijke stijl",
+          "description": "De Cool Text Generator gaat niet alleen over vooraf ingestelde lettertypen; \nhet biedt ook een zekere mate van maatwerk. \nJe kunt experimenteren met verschillende stijlen om een ​​tekst te creëren die perfect aansluit bij jouw merk of persoonlijke stijl. \nOf u nu op zoek bent naar iets gewaagds, elegants of eigenzinnigs, er is altijd een lettertype in de generator dat aan uw behoeften kan voldoen."
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Fancy Font Generator (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Fancy-lettertypen zijn in wezen een verzameling Unicode-symbolen die lijken op gestileerde versies van standaardletters en cijfers. \nHoewel ze als verschillende lettertypen verschijnen, zijn het in feite verschillende tekens binnen de Unicode-standaard. \nDit betekent dat ze op verschillende platforms kunnen worden gekopieerd en geplakt, van socialemediaprofielen tot berichtenapps, waardoor uw inhoud opvalt in de massa."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "Cursieve tekst heeft een rijke geschiedenis in de typografie en werd oorspronkelijk in druk gebruikt om bepaalde woorden of zinsneden te benadrukken. \nIn het digitale tijdperk blijft cursieve tekst dit doel dienen, maar het biedt ook veel meer. \nCursief kan de toon van de stem aangeven, vreemde woorden of zinsneden onderscheiden, of titels van werken aanduiden. \nBij creatief schrijven kan cursief gedachten, een interne dialoog of subtiele nuances overbrengen, waardoor diepte aan de tekst wordt toegevoegd. \nIn wezen is cursieve tekst een krachtig hulpmiddel om de leesbaarheid te verbeteren en betekenis aan uw woorden toe te voegen.",
+          "title": "Cursieve tekstgenerator [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Kleine tekstgenerator (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "Kleine tekst, ook wel kleine tekst genoemd, gaat niet alleen over het kleiner maken van uw tekst. \nHet gaat om het converteren van uw tekst naar een specifieke subset van Unicode-tekens die van nature kleiner van uiterlijk zijn. \nDeze karakters zijn niet slechts verkleinde versies van gewone letters; \nhet zijn afzonderlijke symbolen binnen de Unicode-standaard, ontworpen om minder verticale ruimte in beslag te nemen. \nDit onderscheid is belangrijk omdat het betekent dat kleine tekst op verschillende platforms kan worden gekopieerd en geplakt zonder de opmaak te verliezen, in tegenstelling tot tekst die eenvoudigweg wordt vergroot of verkleind in een tekstverwerker."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "Vetgedrukte, cursieve tekst is een hybride stijl die de impact van vetgedrukte tekst combineert met de nadruk van cursief. \nHistorisch gezien werd vetgedrukte tekst gebruikt om belangrijke woorden of zinsneden te benadrukken, waardoor ze opvallen, terwijl cursieve tekst een subtiele nadruk legt of een verschuiving in toon aangeeft. \nDoor deze twee stijlen te combineren, bereikt vetgedrukte cursieve tekst beide, waardoor het een uitstekende keuze is om de aandacht te vestigen op kritische inhoud zonder de lezer te overweldigen.",
+          "title": "Vetgedrukte en cursieve tekstgeneratoren (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Onderstreep tekstgenerator | 𝑶̲𝒏̲𝒅̲𝒆̲𝒓̲𝒔̲𝒕̲𝒓̲𝒆̲𝒆̲𝒑̲ ̲𝒕̲𝒆̲𝒌̲𝒔̲𝒕̲𝒈̲𝒆̲𝒏̲𝒆̲𝒓̲𝒂̲𝒕̲𝒐̲𝒓̲",
+          "description": "Cursieve tekst onderstrepen is een combinatie van twee traditionele tekststijlen: onderstrepen, wat vaak wordt gebruikt om belangrijke punten te benadrukken of hyperlinks aan te geven, en cursief, wat een subtiele nadruk legt of titels, vreemde zinsneden of gedachten onderscheidt. \nDoor deze twee stijlen samen te voegen, biedt cursieve tekst onderstrepen een duidelijke manier om belangrijke informatie te benadrukken, waardoor deze visueel aantrekkelijker wordt en gemakkelijker op te merken is voor de lezers."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Bubble-lettertypegenerator | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "Bellentekst is een unieke manier om tekst weer te geven, waarbij elk teken in een ronde of vierkante vorm wordt omsloten, wat lijkt op een bel. \nDit effect wordt bereikt door specifieke Unicode-tekens te gebruiken die oorspronkelijk bedoeld waren voor gebruik als opsommingstekens met cijfers en letters in geordende lijsten. \nIn de loop van de tijd zijn deze karakters hergebruikt voor creatieve toepassingen, waardoor de populaire bubbeltekststijl is ontstaan."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Serif-lettertypegenerator (𝐜𝐨𝐩𝘆",
+          "description": "Serif-lettertypen hebben een lange geschiedenis, geworteld in de vroegste vormen van schriftelijke communicatie. \nHet gebruik van schreefletters in lettertypen helpt het oog van de lezer van de ene letter naar de andere te leiden, waardoor de leesstroom wordt verbeterd en lange blokken tekst gemakkelijker verteerbaar worden. \nDit is de reden waarom serif-lettertypen een belangrijk onderdeel zijn gebleven in gedrukte media en vandaag de dag nog steeds veel worden gebruikt in zowel digitale als gedrukte formaten."
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Vierkante tekstgenerator | 🅂🅀🅄🄰🅁🄴",
+          "description": "Vierkante tekst is een creatieve manier om tekst te presenteren door elk teken in een vierkante of rechthoekige vorm te plaatsen. \nDeze stijl wordt bereikt met behulp van specifieke Unicode-tekens die oorspronkelijk bedoeld waren voor gebruik in lijsten, tabellen of als gestileerde opsommingstekens. \nDeze tekens zijn echter op een creatieve manier hergebruikt om de tekst een duidelijk, blokachtig uiterlijk te geven dat lijkt op bakstenen, vensters of gepixelde elementen."
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Sans Serif-tekstgenerator  | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Sans-serif-lettertypen hebben een rijke geschiedenis in typografie en evolueren van hun oorsprong in de 19e eeuw naar een hoofdbestanddeel van modern design. \nIn tegenstelling tot schreeflettertypen, die decoratieve strepen aan de uiteinden van letters hebben, worden schreefloze lettertypen gekenmerkt door hun eenvoud en gebrek aan versiering. \nDoor dit minimalistische ontwerp zijn ze zeer goed leesbaar, vooral op schermen, waar helderheid en leesbaarheid voorop staan."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "Cursieve lettertypegenerator | \nMaak online elegante handschriftlettertypen",
+          "description": "Transformeer uw tekst in prachtige cursieve lettertypen met onze gratis Cursive Font Generator. \nCreëer unieke tekst in handschriftstijl voor sociale media, ontwerpen en meer. \nProbeer het nu!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Alternerende lettertypegenerator"
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "bold": "Vetgedrukt",
+        "fancy": "Modieus",
+        "italic": "Cursief",
+        "cool": "Koel",
+        "bold-italic": "Vet cursief",
+        "small": "Klein",
+        "normal": "Normaal",
+        "underline": "Onderstrepen",
+        "bubble-text": "Bellentekst",
+        "square-text": "Vierkante tekst",
+        "cursive": "Cursief",
+        "alternating": "Afwisselend"
+      },
+      "topic": {
+        "handwriting": "Handschrift"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Stijlvolle tekstgenerator voor Facebook, X (Twitter)",
+        "description": "Genereer eenvoudig stijlvolle tekst voor Facebook, X (voorheen Twitter) en andere sociale mediaplatforms. \nPas lettertypen aan met vetgedrukte, cursieve, mooie en coole stijlen om uw berichten te laten opvallen."
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "Verbeter uw Facebook-berichten met onze lettertypegenerator! \nTransformeer uw tekst in opvallende lettertypen voor Facebook, inclusief vetgedrukte, cursieve, cursieve en stijlvolle symbolen. \nVal op in reacties, berichten en biografieën met unieke tekststijlen die de aandacht trekken. \nGemakkelijk te gebruiken, gratis en compatibel met alle apparaten. \nVerhoog vandaag nog uw aanwezigheid op sociale media met onze Facebook Font Generator!",
+          "title": "Facebook-lettertypegenerator"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Onderwerpen voor lettertypegenerator"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "Handschriftlettertypegenerator",
+          "description": "Gratis online handschriftlettertypegenerator. \nConverteer uw tekst naar stijlvolle Unicode-lettertypen en speciale tekens. \nCreëer unieke handgeschreven stijlen voor sociale media en berichtenuitwisseling."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Kopiëren",
+      "copyed": "Gekopieerd!"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "frontend": {
+    "style": {
+      "bold": {
+        "meta": {
+          "title": "Kalın Metin Oluşturucular | 𝐊𝐚𝐥𝐀𝐧 𝐌𝐞𝐭𝐢𝐧 𝐎𝐥𝐮𝐲𝐭𝐮𝐫𝐮𝐜𝐮𝐥𝐚𝐫",
+          "description": "Kalın Metin Oluşturucu, standart metninizi kalın karakterlere dönüştürmek için tasarlanmış çevrimiçi bir araçtır. \nBasitçe yazı tipi stilini değiştirmenin aksine, bu araç, kalın harfleri taklit eden belirli bir Unicode sembolleri kümesini kullanarak kalın metinler oluşturur. \nBu semboller daha sonra çeşitli dijital platformlara kopyalanıp yapıştırılabilir, böylece içeriğiniz daha dikkat çekici ve etkili hale getirilebilir."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Havalı Yazı Tipi Sembolü Kişisel Stil",
+          "description": "Harika Metin Oluşturucu yalnızca önceden ayarlanmış yazı tiplerinden ibaret değildir; \naynı zamanda bir dereceye kadar kişiselleştirme sunar. \nMarkanıza veya kişisel tarzınıza mükemmel şekilde uyum sağlayan bir metin oluşturmak için farklı stilleri deneyebilirsiniz. \nİster cesur, ister zarif veya ilginç bir şey arıyor olun, jeneratörde ihtiyaçlarınızı karşılayabilecek bir yazı tipi vardır."
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Süslü Yazı Tipi Oluşturucu (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Süslü yazı tipleri, esasen standart harf ve sayıların stilize edilmiş versiyonlarına benzeyen bir Unicode sembolleri koleksiyonudur. \nFarklı yazı tipleri olarak görünseler de aslında Unicode standardında farklı karakterlerdirler. \nBu, bunların sosyal medya profillerinden mesajlaşma uygulamalarına kadar çeşitli platformlara kopyalanıp yapıştırılabileceği ve içeriğinizin kalabalığın içinde öne çıkabileceği anlamına gelir."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "İtalik metnin tipografi açısından zengin bir geçmişi vardır ve orijinal olarak basılı olarak belirli kelimeleri veya cümleleri vurgulamak için kullanılır. \nDijital çağda italik metinler bu amaca hizmet etmeye devam ediyor ama aynı zamanda çok daha fazlasını da sunuyor. \nİtalik, bir ses tonunu belirtebilir, yabancı sözcük veya ifadeleri ayırt edebilir veya eserlerin başlıklarını belirtebilir. \nYaratıcı yazımda italik, düşünceleri, iç diyaloğu veya ince nüansları aktararak metne derinlik katabilir. \nTemel olarak italik metin, okunabilirliği artırmak ve kelimelerinize anlam katmak için güçlü bir araçtır.",
+          "title": "İtalik Metin Oluşturucu [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Küçük Metin Oluşturucu (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "Genellikle küçük metin olarak adlandırılan küçük metin, yalnızca metninizin boyutunu küçültmekle ilgili değildir. \nMetninizi, görünüşte doğal olarak daha küçük olan belirli bir Unicode karakter alt kümesine dönüştürmeyi içerir. \nBu karakterler yalnızca normal harflerin küçültülmüş versiyonları değildir; \nbunlar Unicode standardında daha az dikey yer kaplayacak şekilde tasarlanmış farklı sembollerdir. \nBu ayrım önemlidir çünkü bu, bir kelime işlemcide basitçe yeniden boyutlandırılan metnin aksine, küçük metnin farklı platformlara formatını kaybetmeden kopyalanıp yapıştırılabileceği anlamına gelir."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "Kalın italik metin, kalının etkisini italik vurguyla birleştiren melez bir stildir. \nTarihsel olarak, kalın metin önemli kelimeleri veya cümleleri vurgulamak ve onları öne çıkarmak için kullanılırken, italik metin ince bir vurgu ekler veya tonda bir değişikliği belirtir. \nKalın italik metin bu iki stili birleştirerek her ikisini de başarır ve okuyucuyu bunaltmadan kritik içeriğe dikkat çekmek için mükemmel bir seçimdir.",
+          "title": "Kalın ve İtalik Metin Oluşturucular (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Altı Çizili Metin Oluşturucu | 𝗔𝗹𝘁ı 𝗖̧𝗶𝘇𝗶𝗹𝗶 𝗠𝗲𝘁𝗶𝗻 𝗢𝗹𝘂𝘀̧𝘁𝘂𝗿𝘂𝗰𝘂",
+          "description": "Altı çizili italik metin, iki geleneksel metin stilinin birleşimidir: genellikle önemli noktaları vurgulamak veya köprüleri belirtmek için kullanılan altını çizme ve ince bir vurgu ekleyen veya başlıkları, yabancı ifadeleri veya düşünceleri ayırt eden italik. \nBu iki stili birleştirerek, altı çizili italik metin, önemli bilgileri vurgulamanın farklı bir yolunu sağlayarak metni görsel olarak daha çekici hale getirir ve okuyucuların fark etmesini kolaylaştırır."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Kabarcık Yazı Tipi Oluşturucu | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "Kabarcık metni, her karakteri bir balonu andıran yuvarlak veya kare şeklinde çevreleyen metni sunmanın benzersiz bir yoludur. \nBu etki, başlangıçta sıralı listelerde numaralı ve harfli madde işaretleri olarak kullanılması amaçlanan belirli Unicode karakterleri kullanılarak elde edilir. \nZamanla bu karakterler yaratıcı uygulamalar için yeniden tasarlandı ve popüler baloncuklu metin stilinin ortaya çıkmasına neden oldu."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Serif Yazı Tipi Oluşturucu (𝐜𝐨𝐩𝘆)",
+          "description": "Serif yazı tipleri, yazılı iletişimin en eski biçimlerine dayanan uzun bir geçmişe sahiptir. \nYazı tiplerinde seriflerin kullanılması okuyucunun gözünü bir harften diğerine yönlendirmeye yardımcı olur, okuma akışını iyileştirir ve uzun metin bloklarının sindirilmesini kolaylaştırır. \nSerif yazı tiplerinin basılı medyada temel bir malzeme olarak kalmasının ve günümüzde hem dijital hem de basılı formatlarda hala yaygın olarak kullanılmasının nedeni budur."
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Kare Metin Oluşturucu | 🅂🅀🅄🄰🅁🄴",
+          "description": "Kare metin, her karakteri kare veya dikdörtgen bir şekil içine alarak metni sunmanın yaratıcı bir yoludur. \nBu stil, başlangıçta listelerde, tablolarda veya stilize madde işaretleri olarak kullanılması amaçlanan belirli Unicode karakterleri kullanılarak elde edilir. \nAncak bu karakterler, metne tuğlaları, pencereleri veya pikselli öğeleri andıran farklı, bloklu bir görünüm kazandırmak üzere yaratıcı bir şekilde yeniden tasarlandı."
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Sans Serif Metin Oluşturucu  | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Sans serif yazı tipleri, 19. yüzyıldaki kökenlerinden modern tasarımın temel unsuru haline gelen, tipografide zengin bir geçmişe sahiptir. \nHarflerin sonlarında dekoratif çizgiler bulunan serif yazı tiplerinin aksine, sans serif yazı tipleri sadelikleri ve süslemeden yoksun olmaları ile karakterize edilir. \nBu minimalist tasarım, özellikle netlik ve okunabilirliğin çok önemli olduğu ekranlarda onları oldukça okunaklı hale getiriyor."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "El Yazısı Yazı Tipi Oluşturucu | \nÇevrimiçi Zarif El Yazısı Fontları Oluşturun",
+          "description": "Ücretsiz El Yazısı Yazı Tipi Oluşturucumuzla metninizi güzel el yazısı yazı tiplerine dönüştürün. \nSosyal medya, tasarımlar ve daha fazlası için benzersiz, el yazısı stilinde metinler oluşturun. \nŞimdi deneyin!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Alternatif Yazı Tipi Oluşturucu"
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "cursive": "El yazısı",
+        "alternating": "Alternatif"
+      },
+      "topic": {
+        "handwriting": "El yazısı"
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "Yazı Tipi Oluşturucumuzla Facebook Gönderilerinizi Geliştirin! \nMetninizi Facebook için kalın, italik, el yazısı ve şık semboller içeren göz alıcı yazı tiplerine dönüştürün. \nDikkat çeken benzersiz metin stilleriyle yorumlarda, gönderilerde ve biyografilerde öne çıkın. \nKullanımı kolay, ücretsiz ve tüm cihazlarla uyumludur. \nFacebook Yazı Tipi Oluşturucumuzla sosyal medyadaki varlığınızı bugün yükseltin!",
+          "title": "Facebook Yazı Tipi Oluşturucu"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Yazı Tipi Oluşturucu konuları"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "El Yazısı Yazı Tipi Oluşturucu",
+          "description": "Ücretsiz çevrimiçi el yazısı yazı tipi oluşturucu. \nMetninizi şık Unicode yazı tiplerine ve özel karakterlere dönüştürün. \nSosyal medya ve mesajlaşma için benzersiz el yazısı stilleri oluşturun."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Kopyala",
+      "copyed": "Kopyalandı!"
+    }
+  }
+}

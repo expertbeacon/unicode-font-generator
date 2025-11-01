@@ -1,0 +1,137 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "style": {
+      "h1": "Schriftart",
+      "sidebar": {
+        "all": "ALLE"
+      },
+      "bold": {
+        "meta": {
+          "title": "Fettgedruckte Textgeneratoren | 𝐁𝗙𝗲𝘁𝘁𝗴𝗲𝗱𝗿𝘂𝗰𝗸𝘁𝗲 𝗧𝗲𝘅𝘁𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿𝗲𝗻",
+          "description": "Ein Bold Text Generator ist ein Online-Tool, mit dem Sie Ihren Standardtext in Fettschrift umwandeln können. \nIm Gegensatz zur einfachen Änderung des Schriftstils generiert dieses Tool fetten Text mithilfe eines bestimmten Satzes von Unicode-Symbolen, die fette Buchstaben imitieren. \nDiese Symbole können dann kopiert und in verschiedene digitale Plattformen eingefügt werden, wodurch Ihre Inhalte auffälliger und wirkungsvoller werden."
+        }
+      },
+      "cool": {
+        "meta": {
+          "title": "Cooles Schriftsymbol, persönlicher Stil",
+          "description": "Beim Cool Text Generator geht es nicht nur um voreingestellte Schriftarten; \nEs bietet auch ein gewisses Maß an Anpassungsmöglichkeiten. \nSie können mit verschiedenen Stilen experimentieren, um einen Text zu erstellen, der perfekt zu Ihrer Marke oder Ihrem persönlichen Stil passt. \nEgal, ob Sie etwas Mutiges, Elegantes oder Skurriles suchen, im Generator gibt es eine Schriftart, die Ihren Anforderungen entspricht."
+        }
+      },
+      "fancy": {
+        "meta": {
+          "title": "Ausgefallener Schriftartengenerator (𝒞𝑜𝓅𝓎 𝒶𝓃𝒹 𝒫𝒶𝓈𝓉𝑒)",
+          "description": "Ausgefallene Schriftarten sind im Wesentlichen eine Sammlung von Unicode-Symbolen, die stilisierten Versionen von Standardbuchstaben und -zahlen ähneln. \nObwohl sie als unterschiedliche Schriftarten erscheinen, handelt es sich tatsächlich um unterschiedliche Zeichen innerhalb des Unicode-Standards. \nDas bedeutet, dass sie auf verschiedenen Plattformen kopiert und eingefügt werden können, von Social-Media-Profilen bis hin zu Messaging-Apps, sodass Ihre Inhalte aus der Masse hervorstechen."
+        }
+      },
+      "italic": {
+        "meta": {
+          "description": "Kursiver Text hat eine lange Geschichte in der Typografie und wurde ursprünglich in gedruckter Form verwendet, um bestimmte Wörter oder Phrasen hervorzuheben. \nAuch im digitalen Zeitalter erfüllt kursiver Text diesen Zweck, bietet aber noch viel mehr. \nKursivschrift kann auf den Tonfall hinweisen, Fremdwörter oder Phrasen unterscheiden oder Titel von Werken kennzeichnen. \nBeim kreativen Schreiben kann Kursivschrift Gedanken, interne Dialoge oder subtile Nuancen vermitteln und dem Text Tiefe verleihen. \nIm Wesentlichen ist kursiver Text ein leistungsstarkes Werkzeug, um die Lesbarkeit zu verbessern und Ihren Wörtern Bedeutung zu verleihen.",
+          "title": "Kursiver Textgenerator [𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦]"
+        }
+      },
+      "small": {
+        "meta": {
+          "title": "Winziger Textgenerator (ˢᵐᵃˡˡ ᶠᵒⁿᵗ)",
+          "description": "Bei kleinem Text, oft auch als winziger Text bezeichnet, geht es nicht nur darum, Ihren Text zu verkleinern. \nDabei wird Ihr Text in eine bestimmte Teilmenge von Unicode-Zeichen konvertiert, die von Natur aus kleiner aussehen. \nBei diesen Zeichen handelt es sich nicht lediglich um verkleinerte Versionen normaler Buchstaben; \nEs handelt sich dabei um eindeutige Symbole innerhalb des Unicode-Standards, die so konzipiert sind, dass sie weniger vertikalen Platz beanspruchen. \nDiese Unterscheidung ist wichtig, da sie bedeutet, dass kleiner Text auf verschiedenen Plattformen kopiert und eingefügt werden kann, ohne dass seine Formatierung verloren geht, im Gegensatz zu Text, dessen Größe einfach in einem Textverarbeitungsprogramm geändert wird."
+        }
+      },
+      "bold-italic": {
+        "meta": {
+          "description": "Fett-kursiver Text ist ein hybrider Stil, der die Wirkung von Fett mit der Betonung von Kursivschrift verbindet. \nIn der Vergangenheit wurde fetter Text verwendet, um wichtige Wörter oder Phrasen hervorzuheben und sie so hervorzuheben, während kursiver Text eine subtile Betonung hinzufügte oder auf eine Tonänderung hinweist. \nDurch die Kombination dieser beiden Stile erreicht Fett-Kursiv-Text beides und ist somit eine hervorragende Wahl, um die Aufmerksamkeit auf kritische Inhalte zu lenken, ohne den Leser zu überfordern.",
+          "title": "Generatoren für fetten und kursiven Text (𝘾𝙤𝙥𝙮 𝙖𝙣𝙙 𝙋𝙖𝙨𝙩𝙚)"
+        }
+      },
+      "underline": {
+        "meta": {
+          "title": "Unterstreichungstextgenerator | 𝗨̲𝗻̲𝘁̲𝗲̲𝗿̲𝘀̲𝘁̲𝗿̲𝗲̲𝗶̲𝗰̲𝗵̲𝘂̲𝗻̲𝗴̲𝘀̲𝘁̲𝗲̲𝘅̲𝘁̲𝗴̲𝗲̲𝗻̲𝗲̲𝗿̲𝗮̲𝘁̲𝗼̲𝗿̲",
+          "description": "Unterstrichener kursiver Text ist eine Kombination aus zwei traditionellen Textstilen: Unterstreichung, die oft verwendet wird, um wichtige Punkte hervorzuheben oder auf Hyperlinks hinzuweisen, und Kursivschrift, die eine subtile Hervorhebung hinzufügt oder Titel, Fremdphrasen oder Gedanken hervorhebt. \nDurch die Kombination dieser beiden Stile bietet die Unterstreichung von kursivem Text eine besondere Möglichkeit, wichtige Informationen hervorzuheben, wodurch sie optisch ansprechender und für den Leser leichter erkennbar wird."
+        }
+      },
+      "bubble-text": {
+        "meta": {
+          "title": "Blasenschriftgenerator | ⓑⓤⓑⓑⓛⓔ 🅣🅔🅧🅣",
+          "description": "Blasentext ist eine einzigartige Art der Textdarstellung, die jedes Zeichen in einer abgerundeten oder quadratischen Form umschließt und so einer Blase ähnelt. \nDieser Effekt wird durch die Verwendung bestimmter Unicode-Zeichen erreicht, die ursprünglich für die Verwendung als nummerierte und mit Buchstaben versehene Aufzählungszeichen in geordneten Listen gedacht waren. \nIm Laufe der Zeit wurden diese Zeichen für kreative Anwendungen umfunktioniert, wodurch der beliebte Blasentextstil entstand."
+        }
+      },
+      "serif": {
+        "meta": {
+          "title": "Serifenschriftgenerator (𝐜𝐨𝐩𝘆",
+          "description": "Serifenschriften haben eine lange Geschichte, die in den frühesten Formen der schriftlichen Kommunikation verwurzelt ist. \nDie Verwendung von Serifen in Schriftarten hilft, den Blick des Lesers von einem Buchstaben zum nächsten zu leiten, wodurch der Lesefluss verbessert und lange Textblöcke leichter verständlich gemacht werden. \nAus diesem Grund sind Serifenschriften in Printmedien nach wie vor ein fester Bestandteil und werden auch heute noch häufig sowohl in digitalen als auch in gedruckten Formaten verwendet."
+        }
+      },
+      "square-text": {
+        "meta": {
+          "title": "Quadratischer Textgenerator | 🅂🅀🅄🄰🅁🄴",
+          "description": "Quadratischer Text ist eine kreative Möglichkeit, Text zu präsentieren, indem jedes Zeichen in eine quadratische oder rechteckige Form eingeschlossen wird. \nDieser Stil wird durch die Verwendung bestimmter Unicode-Zeichen erreicht, die ursprünglich für die Verwendung in Listen, Tabellen oder als stilisierte Aufzählungszeichen gedacht waren. \nAllerdings wurden diese Zeichen kreativ umgestaltet, um dem Text ein eindeutiges, blockartiges Aussehen zu verleihen, das an Ziegel, Fenster oder pixelige Elemente erinnert."
+        }
+      },
+      "sans-serif": {
+        "meta": {
+          "title": "Sans Serif-Textgenerator | [𝖢𝗈𝗉𝗒 & 𝖯𝖺𝗌𝗍𝖾]",
+          "description": "Serifenlose Schriftarten haben eine lange Geschichte in der Typografie und haben sich von ihren Ursprüngen im 19. Jahrhundert zu einem festen Bestandteil des modernen Designs entwickelt. \nIm Gegensatz zu Serifenschriften, die dekorative Striche am Ende der Buchstaben aufweisen, zeichnen sich serifenlose Schriftarten durch ihre Einfachheit und den Verzicht auf Verzierungen aus. \nDurch dieses minimalistische Design sind sie gut lesbar, insbesondere auf Bildschirmen, wo Klarheit und Lesbarkeit von größter Bedeutung sind."
+        }
+      },
+      "cursive-font": {
+        "meta": {
+          "title": "Generator für kursive Schriftarten | \nErstellen Sie online elegante Handschriftschriften",
+          "description": "Verwandeln Sie Ihren Text mit unserem kostenlosen Generator für kursive Schriftarten in wunderschöne kursive Schriftarten. \nErstellen Sie einzigartige Texte im Handschriftstil für soziale Medien, Designs und mehr. \nProbieren Sie es jetzt aus!"
+        }
+      },
+      "alternating": {
+        "meta": {
+          "title": "Generator für alternierende Schriftarten"
+        }
+      }
+    },
+    "slug": {
+      "menu": {
+        "bold": "Deutlich",
+        "fancy": "Schick",
+        "italic": "Kursiv",
+        "cool": "Cool",
+        "bold-italic": "Fett und kursiv",
+        "small": "Klein",
+        "normal": "Normal",
+        "underline": "Unterstreichen",
+        "bubble-text": "Blasentext",
+        "square-text": "Quadratischer Text",
+        "cursive": "Kursiv",
+        "alternating": "Abwechselnd"
+      },
+      "topic": {
+        "handwriting": "Handschrift"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Stilvoller Textgenerator für Facebook, X (Twitter)",
+        "description": "Generieren Sie ganz einfach stilvolle Texte für Facebook, X (ehemals Twitter) und andere Social-Media-Plattformen. \nPassen Sie Schriftarten mit fetten, kursiven, ausgefallenen und coolen Stilen an, um Ihre Beiträge hervorzuheben."
+      }
+    },
+    "topic": {
+      "facebook": {
+        "meta": {
+          "description": "Werten Sie Ihre Facebook-Beiträge mit unserem Schriftartengenerator auf! \nVerwandeln Sie Ihren Text in auffällige Schriftarten für Facebook, einschließlich Fett-, Kursiv-, Kursivschrift und stilvoller Symbole. \nHeben Sie sich in Kommentaren, Beiträgen und Biografien mit einzigartigen Textstilen hervor, die Aufmerksamkeit erregen. \nEinfach zu bedienen, kostenlos und mit allen Geräten kompatibel. \nSteigern Sie noch heute Ihre Social-Media-Präsenz mit unserem Facebook-Schriftgenerator!",
+          "title": "Facebook-Schriftgenerator"
+        }
+      },
+      "index": {
+        "meta": {
+          "title": "Themen für den Schriftartengenerator"
+        }
+      },
+      "handwriting": {
+        "meta": {
+          "title": "Handschrift-Schriftgenerator",
+          "description": "Kostenloser Online-Generator für Handschriftschriften. \nWandeln Sie Ihren Text in stilvolle Unicode-Schriftarten und Sonderzeichen um. \nErstellen Sie einzigartige handschriftliche Stile für soziale Medien und Nachrichten."
+        }
+      }
+    },
+    "shared": {
+      "copy": "Kopie",
+      "copyed": "Kopiert!"
+    }
+  }
+}
