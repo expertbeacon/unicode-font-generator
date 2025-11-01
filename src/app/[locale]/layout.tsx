@@ -1,7 +1,7 @@
 
 import { appConfig, type LocaleType } from "@/config";
 import { seoConfig } from "@/config/seo";
-import getRequestConfig from "@/i18n";
+import { getMessagesForLocale } from "@/i18n";
 import { cn, createAlternates } from "@/lib/utils";
 import { generateOrganizationSchema, generateWebSiteSchema } from "@/lib/structured-data";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -70,7 +70,7 @@ export default async function RootLayout({
   if (!appConfig.i18n.locales.includes(locale)) {
     notFound();
   }
-  const { messages } = await getRequestConfig({locale});
+  const messages = await getMessagesForLocale(locale);
 
   // Generate structured data
   const websiteSchema = generateWebSiteSchema(

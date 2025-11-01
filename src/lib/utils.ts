@@ -7,18 +7,26 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 export const getOrigin = ({ headers }: { headers: Headers }) => {
-  const url = new URL(headers.get("x-request-url")!);
+  const requestUrl = headers.get("x-request-url") || headers.get("referer") || `https://${appConfig.appDomain}`;
+  const url = new URL(requestUrl);
   return `${url.protocol}//${url.host}`;
 }
 
 export const getCanonical = ({ headers }: { headers: Headers }) => {
-  const url = new URL(headers.get("x-request-url")!);
+  const requestUrl = headers.get("x-request-url") || headers.get("referer") || `https://${appConfig.appDomain}`;
+  const url = new URL(requestUrl);
   return `${url.protocol}//${url.host}${url.pathname}`;
 }
 
 export const createAlternates = ({ headers }: { headers: Headers; }) => {
   let languages = {} as Record<LocaleType, string>;
-  const linkStr = headers.get("Link")!;
+  const linkStr = headers.get("Link");
+  if (!linkStr) {
+    return {
+      canonical: getCanonical({ headers }),
+      languages
+    }
+  }
   const links = linkStr.split(',');
   links.forEach(alternateStr => {
     const match = alternateStr.match(/<(.*)>;.*hreflang="(.*)"/);

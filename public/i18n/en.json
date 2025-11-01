@@ -2,6 +2,15 @@
   "frontend": {
     "go_to_homepage": "Go to homepage",
     "page_not_found": "Page not found",
+    "home": {
+      "popular": {
+        "badge": "TRENDING",
+        "title": "Popular Font Styles",
+        "subtitle": "Discover our most popular font generators, perfect for social media, bios, and creative projects.",
+        "try_now": "Try Now",
+        "explore_all": "Explore All Fonts"
+      }
+    },
     "style": {
       "h1": "Font & Text Generator",
       "sidebar": {

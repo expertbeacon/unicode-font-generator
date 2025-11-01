@@ -29,9 +29,11 @@ export const getMessagesForLocale = async (
   }
 };
 
-export default getRequestConfig(async ({ locale }) => ({
-  messages: await getMessagesForLocale(locale),
-}));
+export default getRequestConfig(async ({ locale }) => {
+  return {
+    messages: await getMessagesForLocale(locale || appConfig.i18n.defaultLocale),
+  };
+});
 
 // I18n Components Markdown
 export const componentsMarkdownFile = "data/generated/components-markdown.json";

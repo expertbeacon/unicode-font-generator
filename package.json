@@ -50,7 +50,6 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.13.2",
     "@cloudflare/workers-types": "^4.20240806.0",
     "@tailwindcss/typography": "^0.5.14",
     "@types/node": "^20",
@@ -71,6 +70,6 @@
     "tsx": "^4.17.0",
     "typescript": "^5",
     "vercel": "^32.3.0",
-    "wrangler": "^3.70.0"
+    "wrangler": "^4.45.3"
   }
 }
