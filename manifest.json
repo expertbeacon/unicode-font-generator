@@ -1,0 +1,6 @@
+{
+  "compatibility_date": "2023-05-18",
+  "compatibility_flags": ["nodejs_compat"],
+  "build_command": "npm run pages:build",
+  "destination_dir": ".vercel/output/static"
+}
