@@ -1,16 +1,17 @@
 import { GradientBackground, GradientSection } from "@/components/ui/gradient-background";
-import { appConfig } from "@/config";
-import { Metadata } from "next";
+import { LocaleType } from "@/config";
+import { aboutMetadata } from "@/metadata";
 import { Type, Heart, Users, Target, Sparkles, Globe } from "lucide-react";
 
 export const runtime = 'edge';
 
-export const metadata: Metadata = {
-  title: `About Us - ${appConfig.appName}`,
-  description: "Learn about Font Generator, our mission to provide free, easy-to-use text styling tools for everyone. Discover our story, values, and commitment to the community.",
-};
+export { aboutMetadata as generateMetadata };
 
-export default function AboutPage() {
+export default function AboutPage({
+  params
+}: Readonly<{
+  params: { locale: LocaleType };
+}>) {
   return (
     <GradientBackground variant="multi">
       <div className="container mx-auto px-4 py-16 max-w-4xl">

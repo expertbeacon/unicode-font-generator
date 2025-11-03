@@ -1,16 +1,17 @@
 import { GradientBackground, GradientSection } from "@/components/ui/gradient-background";
-import { appConfig } from "@/config";
-import { Metadata } from "next";
+import { appConfig, LocaleType } from "@/config";
+import { privacyMetadata } from "@/metadata";
 import { Shield } from "lucide-react";
 
 export const runtime = 'edge';
 
-export const metadata: Metadata = {
-  title: `Privacy Policy - ${appConfig.appName}`,
-  description: "Font Generator Privacy Policy. Learn how we protect your privacy and what data we collect (spoiler: very little!).",
-};
+export { privacyMetadata as generateMetadata };
 
-export default function PrivacyPage() {
+export default function PrivacyPage({
+  params
+}: Readonly<{
+  params: { locale: LocaleType };
+}>) {
   const lastUpdated = "January 2025";
 
   return (

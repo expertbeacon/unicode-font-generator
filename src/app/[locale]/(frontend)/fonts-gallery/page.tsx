@@ -1,21 +1,13 @@
 import { GalleryMain } from "@/components/frontend/page/gallery/main";
 import { GradientBackground } from "@/components/ui/gradient-background";
 import { HeroSection, HeroIcon, HeroTitle, HeroSubtitle } from "@/components/ui/hero-section";
-import { appConfig } from "@/config";
-import { Metadata } from "next";
-import { getTranslations } from "next-intl/server";
+import { fontsGalleryMetadata } from "@/metadata";
 import { headers } from 'next/headers';
 import { Grid3x3 } from "lucide-react";
 
 export const runtime = 'edge';
 
-export async function generateMetadata({ params }:{ params: any }): Promise<Metadata> {
-  const t = await getTranslations(params);
-  return {
-    title: `Font Gallery - All Styles | ${appConfig.appName}`,
-    description: "Explore our complete collection of 100+ font styles. Browse, preview, and copy all available Unicode text styles in one place."
-  };
-}
+export { fontsGalleryMetadata as generateMetadata };
 
 export default async function FontsGalleryPage({
   params,

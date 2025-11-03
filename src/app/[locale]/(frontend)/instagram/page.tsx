@@ -1,19 +1,15 @@
 import { StyleMain } from "@/components/frontend/page/style/main";
 import { SocialMediaSection } from "@/components/frontend/home/social-media-section";
 import { GradientBackground } from "@/components/ui/gradient-background";
-import { appConfig, LocaleType } from "@/config";
+import { LocaleType } from "@/config";
 import { getComponentMarkdown } from "@/i18n";
 import { getOrigin } from "@/lib/utils";
-import { Metadata } from "next";
+import { instagramMetadata } from "@/metadata";
 import { headers } from "next/headers";
 
 export const runtime = 'edge';
 
-export const metadata: Metadata = {
-  title: `Instagram Font Generator - Free Stylish Text for Instagram - ${appConfig.appName}`,
-  description: "Create eye-catching fonts for Instagram posts, stories, bios, and captions. Perfect for making your Instagram content stand out with bold, italic, fancy, and cool Unicode text styles. Free, instant, and works everywhere!",
-  keywords: "instagram font generator, instagram text, stylish text for instagram, instagram bio font, instagram caption text, instagram post font, instagram stories text, instagram username font, instagram profile text",
-};
+export { instagramMetadata as generateMetadata };
 
 export default async function InstagramPage({
   params

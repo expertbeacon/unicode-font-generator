@@ -1,19 +1,15 @@
 import { StyleMain } from "@/components/frontend/page/style/main";
 import { SocialMediaSection } from "@/components/frontend/home/social-media-section";
 import { GradientBackground } from "@/components/ui/gradient-background";
-import { appConfig, LocaleType } from "@/config";
+import { LocaleType } from "@/config";
 import { getComponentMarkdown } from "@/i18n";
 import { getOrigin } from "@/lib/utils";
-import { Metadata } from "next";
+import { tiktokMetadata } from "@/metadata";
 import { headers } from "next/headers";
 
 export const runtime = 'edge';
 
-export const metadata: Metadata = {
-  title: `TikTok Font Generator - Free Stylish Text for TikTok - ${appConfig.appName}`,
-  description: "Create viral-worthy text for TikTok videos, bios, captions, and comments. Perfect for making your TikTok content stand out with bold, italic, fancy, and cool Unicode text styles. Free, instant, and optimized for TikTok success!",
-  keywords: "tiktok font generator, tiktok text, stylish text for tiktok, tiktok bio font, tiktok caption text, tiktok video font, tiktok username font, tiktok profile text, tiktok comment font",
-};
+export { tiktokMetadata as generateMetadata };
 
 export default async function TikTokPage({
   params

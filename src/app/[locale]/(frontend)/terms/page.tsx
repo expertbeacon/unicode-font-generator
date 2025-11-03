@@ -1,16 +1,17 @@
 import { GradientBackground, GradientSection } from "@/components/ui/gradient-background";
-import { appConfig } from "@/config";
-import { Metadata } from "next";
+import { appConfig, LocaleType } from "@/config";
+import { termsMetadata } from "@/metadata";
 import { FileText } from "lucide-react";
 
 export const runtime = 'edge';
 
-export const metadata: Metadata = {
-  title: `Terms of Service - ${appConfig.appName}`,
-  description: "Font Generator Terms of Service. Learn about the terms and conditions for using our free text styling tool.",
-};
+export { termsMetadata as generateMetadata };
 
-export default function TermsPage() {
+export default function TermsPage({
+  params
+}: Readonly<{
+  params: { locale: LocaleType };
+}>) {
   const lastUpdated = "January 2025";
 
   return (

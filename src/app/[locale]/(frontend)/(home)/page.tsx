@@ -8,25 +8,16 @@ import { PopularFontsSection } from "@/components/frontend/home/popular-fonts-se
 import { GradientBackground } from "@/components/ui/gradient-background";
 import { HeroSection, HeroIcon, HeroTitle, HeroSubtitle, HeroStats } from "@/components/ui/hero-section";
 import { FAQStructuredData, HowToStructuredData, WebAppStructuredData } from "@/components/seo/structured-data";
-import { appConfig, LocaleType } from "@/config";
+import { LocaleType, appConfig } from "@/config";
 import { getComponentMarkdown } from "@/i18n";
 import { getOrigin } from "@/lib/utils";
-import { Metadata } from "next";
+import { homeMetadata } from "@/metadata";
 import { getTranslations } from "next-intl/server";
 import { headers } from 'next/headers';
 import { Type } from "lucide-react";
 export const runtime = 'edge';
 
-export async function generateMetadata({ params }:{ params: any }): Promise<Metadata> {
-  const t = await getTranslations(params);
-  return {
-    title: {
-      absolute: `${appConfig.appName}: ${t('frontend.meta.default.title')}`,
-      template: "%s"
-    },
-    description: t('frontend.meta.default.description')
-  };
-}
+export { homeMetadata as generateMetadata };
 
 export default async function Home({
   params
