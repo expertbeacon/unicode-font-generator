@@ -4,6 +4,121 @@
     "desktop": "桌面"
   },
   "frontend": {
+    "go_to_homepage": "返回首页",
+    "page_not_found": "页面未找到",
+    "home": {
+      "hero": {
+        "title": "将您的文本转换为精美字体",
+        "subtitle": "即时生成时尚的 Unicode 字体，适用于社交媒体、消息传递和创意项目",
+        "stats": "被全球超过 100,000 名内容创作者使用"
+      },
+      "features": {
+        "title": "为什么选择我们的字体生成器",
+        "subtitle": "专业级文本样式设计，具有您在其他地方找不到的功能",
+        "instant": {
+          "title": "即时生成",
+          "description": "使用我们快如闪电的生成器实时转换您的文本。输入即可看到结果。"
+        },
+        "unicode": {
+          "title": "真正的 Unicode 字体",
+          "description": "所有字体都使用真正的 Unicode 字符，可在所有平台上使用，无需特殊应用程序。"
+        },
+        "variety": {
+          "title": "100+ 种字体样式",
+          "description": "从粗体和斜体到花式和酷炫——找到适合任何场合的完美风格。"
+        },
+        "copy": {
+          "title": "一键复制",
+          "description": "立即将样式化的文本复制到剪贴板，然后粘贴到任何您想要的地方。"
+        },
+        "free": {
+          "title": "100% 免费",
+          "description": "无需注册，无隐藏费用，无水印。永久免费使用。"
+        },
+        "compatible": {
+          "title": "通用兼容性",
+          "description": "适用于 Facebook、Twitter、Instagram、WhatsApp、Discord 和所有主要平台。"
+        }
+      },
+      "benefits": {
+        "title": "为什么您需要字体生成器",
+        "subtitle": "用能够吸引注意力并表达您独特风格的文本脱颖而出",
+        "visibility": {
+          "title": "提升您的可见度",
+          "description": "时尚的文本在拥挤的社交媒体中吸引注意力，将您的帖子参与度提高多达 300%。",
+          "tag": "更多互动"
+        },
+        "expression": {
+          "title": "表达您的个性",
+          "description": "不同的字体传达不同的情感。选择完美匹配您品牌或个人风格的样式。",
+          "tag": "独特身份"
+        },
+        "professional": {
+          "title": "专业脱颖而出",
+          "description": "通过独特的排版使您的商业资料、简介和内容更加令人难忘。",
+          "tag": "品牌力量"
+        },
+        "creative": {
+          "title": "释放创造力",
+          "description": "非常适合希望为作品增添视觉风格的艺术家、设计师和内容创作者。",
+          "tag": "创意自由"
+        }
+      },
+      "howto": {
+        "title": "如何使用字体生成器",
+        "subtitle": "三个简单步骤创建精美文本",
+        "step1": {
+          "title": "输入您的文本",
+          "description": "在上面的输入框中输入您想要设置样式的任何文本"
+        },
+        "step2": {
+          "title": "选择您的样式",
+          "description": "浏览 100 多种字体样式并选择您喜欢的"
+        },
+        "step3": {
+          "title": "复制并粘贴",
+          "description": "单击复制按钮并将样式化的文本粘贴到任何地方"
+        }
+      },
+      "faq": {
+        "title": "常见问题",
+        "q1": {
+          "question": "这些是真正的字体还是只是图像？",
+          "answer": "这些是真正的 Unicode 字符，而不是图像。它们作为真实文本工作，您可以在任何地方复制、粘贴、编辑和使用，无需特殊软件。"
+        },
+        "q2": {
+          "question": "这些字体在所有设备上都能使用吗？",
+          "answer": "是的！因为我们使用 Unicode 字符，这些字体可以在所有设备（iOS、Android、Windows、Mac、Linux）和所有平台（Facebook、Twitter、Instagram、WhatsApp、Discord 等）上使用，无需任何特殊应用程序。"
+        },
+        "q3": {
+          "question": "这个字体生成器真的免费吗？",
+          "answer": "绝对免费！我们的字体生成器 100% 免费使用，无需注册，无隐藏费用，无水印。随时生成任意数量的时尚文本。"
+        },
+        "q4": {
+          "question": "我可以将这些字体用于商业目的吗？",
+          "answer": "是的！Unicode 字符是 Unicode 标准的一部分，这意味着您可以自由地将它们用于个人和商业项目，没有任何许可限制。"
+        },
+        "q5": {
+          "question": "为什么有些字体显示不正确？",
+          "answer": "虽然我们的字体在大多数平台上都能使用，但某些旧设备或应用程序可能不支持所有 Unicode 字符。这些字体应该在所有现代设备和主要社交媒体平台上完美运行。"
+        },
+        "q6": {
+          "question": "我可以建议新的字体样式吗？",
+          "answer": "我们喜欢反馈！虽然我们只能使用标准中存在的 Unicode 字符，但我们一直在寻找添加新的创意字体组合。请联系我们提出您的建议！"
+        }
+      },
+      "popular": {
+        "title": "热门字体样式",
+        "subtitle": "探索我们社区最喜爱的最受欢迎和最具创意的字体样式",
+        "badge": "热门样式",
+        "try_now": "立即试用",
+        "explore_all": "探索所有字体样式"
+      },
+      "tools": {
+        "title": "更多有用的工具",
+        "subtitle": "面向网页开发人员、设计师和内容创作者的专业工具"
+      }
+    },
     "style": {
       "h1": "字体",
       "sidebar": {
@@ -83,7 +198,86 @@
       },
       "alternating": {
         "meta": {
-          "title": "交替字体生成器"
+          "title": "交替字体生成器",
+          "description": "使用我们的免费生成器创建引人注目的交替文本样式，在不同字体之间交替。"
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "异国字体生成器 | 🌍 独特 Unicode 字体",
+          "description": "使用来自各种书写系统的特殊 Unicode 字符将您的文本转换为异国情调和独特的字体样式。非常适合在社交媒体上脱颖而出。"
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "数学字体生成器 | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "生成数学和科学文本样式，包括双线、脚本和哥特式字体，非常适合方程式和学术内容。"
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "装饰字体生成器 | ✨ 时尚文本",
+          "description": "使用气泡、方块和独特的 Unicode 字符创建漂亮的装饰文本，使您的内容脱颖而出。"
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "复古字体生成器 | 📜 经典文本样式",
+          "description": "生成复古和经典字体样式，包括哥特式、脚本和传统衬线字体，呈现永恒的外观。"
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "现代字体生成器 | 🎯 简洁现代字体",
+          "description": "使用简洁的无衬线和等宽字体创建时尚的现代文本样式，非常适合专业和现代内容。"
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "艺术字体生成器 | 🎨 创意文本样式",
+          "description": "使用脚本、哥特式和独特的字母字符将您的文本转换为艺术和创意字体样式。"
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "圆润字体生成器 | ⭕ 柔和气泡字体",
+          "description": "使用气泡字母和曲线字体生成圆润和柔和的文本样式，让您的文本具有友好、平易近人的外观。"
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "锐利字体生成器 | ⚡ 棱角文本样式",
+          "description": "使用方形和粗体字体创建锐利、棱角分明的文本，非常适合精通技术和现代设计。"
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "手写字体生成器 | ✍️ 脚本文本",
+          "description": "使用脚本和草书字体生成真实的手写风格文本，为您的内容增添个性化的人文气息。"
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "游戏字体生成器 | 🎮 游戏风格文本",
+          "description": "使用像素化、复古和粗体字体创建游戏风格文本，非常适合游戏玩家和游戏内容。"
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "复古字体生成器 | 🕹️ 8 位风格文本",
+          "description": "使用等宽和像素化字体生成复古和怀旧的 8 位风格文本，让人联想起经典计算。"
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "优雅字体生成器 | 💎 精致文本",
+          "description": "使用脚本、衬线斜体和精致字体创建优雅和精致的文本，呈现优雅、高档的外观。"
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "俏皮字体生成器 | 🎪 有趣文本样式",
+          "description": "使用气泡、旋转字符和异想天开的字体生成有趣和俏皮的文本，为您的内容增添欢乐和活力。"
         }
       }
     },
@@ -100,7 +294,20 @@
         "bubble-text": "气泡文字",
         "square-text": "方形文字",
         "cursive": "草书",
-        "alternating": "交替"
+        "alternating": "交替",
+        "exotic": "异国",
+        "mathematical": "数学",
+        "decorative": "装饰",
+        "vintage": "复古",
+        "modern": "现代",
+        "artistic": "艺术",
+        "rounded": "圆润",
+        "sharp": "锐利",
+        "handwritten": "手写",
+        "gaming": "游戏",
+        "retro": "怀旧",
+        "elegant": "优雅",
+        "playful": "俏皮"
       },
       "topic": {
         "handwriting": "手写"
@@ -135,6 +342,88 @@
     "shared": {
       "copy": "复制",
       "copyed": "复制了！"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "在此输入文本，查看精彩的字体转换...",
+        "characters": "个字符",
+        "emptyState": {
+          "title": "开始输入以查看精彩的字体转换！",
+          "subtitle": "在上面输入任何文本，观看它转换为漂亮的样式字体。"
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "复制",
+        "copied": "已复制！",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "生成的字体",
+        "stylesAvailable": "种样式可用",
+        "textEffects": "文本效果",
+        "placeholder": "输入内容以查看转换...",
+        "noFonts": {
+          "title": "此样式没有可用字体",
+          "subtitle": "尝试从菜单中选择不同的样式"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "字体生成器",
+        "createStunning": "在几秒钟内创建精美的 {style} 文本。非常适合让您的内容在社交媒体、网站和创意项目上脱颖而出。",
+        "about": "关于 {style} 文本",
+        "perfectFor": "适用于：",
+        "tipsTitle": "最佳效果提示",
+        "tips": {
+          "tip1": "使用简短的短语以获得最大影响",
+          "tip2": "非常适合社交媒体简介和标题",
+          "tip3": "适用于所有主要平台（Facebook、Instagram、Twitter 等）",
+          "tip4": "复制并粘贴到任何地方 - 无需特殊应用程序"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Facebook 帖子和更新",
+            "case2": "Twitter 标题",
+            "case3": "Instagram 标题",
+            "case4": "YouTube 视频标题"
+          },
+          "italic": {
+            "case1": "诗歌和引文",
+            "case2": "书名",
+            "case3": "创意写作",
+            "case4": "优雅签名"
+          },
+          "fancy": {
+            "case1": "社交媒体简介",
+            "case2": "婚礼请柬",
+            "case3": "艺术项目",
+            "case4": "创意品牌"
+          },
+          "cool": {
+            "case1": "游戏用户名",
+            "case2": "社交媒体帖子",
+            "case3": "个人网站",
+            "case4": "创意项目"
+          },
+          "small": {
+            "case1": "社交媒体评论",
+            "case2": "旁注",
+            "case3": "微妙强调",
+            "case4": "紧凑文本"
+          },
+          "underline": {
+            "case1": "重要公告",
+            "case2": "导航元素",
+            "case3": "号召性用语文本",
+            "case4": "强调标记"
+          },
+          "default": {
+            "case1": "社交媒体帖子",
+            "case2": "创意项目",
+            "case3": "个人消息",
+            "case4": "数字签名"
+          }
+        }
+      }
     }
   }
 }

@@ -1,7 +1,120 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Ga naar homepagina",
+    "page_not_found": "Pagina niet gevonden",
+    "home": {
+      "hero": {
+        "title": "Transformeer Uw Tekst In Prachtige Lettertypen",
+        "subtitle": "Genereer direct stijlvolle Unicode-lettertypen voor sociale media, berichten en creatieve projecten",
+        "stats": "Gebruikt door 100.000+ contentcreators wereldwijd"
+      },
+      "features": {
+        "title": "Waarom Kiezen Voor Onze Lettertypegenerator",
+        "subtitle": "Tekststyling van professionele kwaliteit met functies die u nergens anders zult vinden",
+        "instant": {
+          "title": "Directe Generatie",
+          "description": "Transformeer uw tekst in realtime met onze bliksemsnelle generator. Zie resultaten terwijl u typt."
+        },
+        "unicode": {
+          "title": "Echte Unicode-lettertypen",
+          "description": "Alle lettertypen gebruiken echte Unicode-tekens die op alle platforms werken zonder speciale apps."
+        },
+        "variety": {
+          "title": "100+ Lettertypestijlen",
+          "description": "Van vetgedrukt en cursief tot elegant en cool - vind de perfecte stijl voor elke gelegenheid."
+        },
+        "copy": {
+          "title": "Één-klik Kopiëren",
+          "description": "Kopieer direct gestileerde tekst naar uw klembord en plak waar u maar wilt."
+        },
+        "free": {
+          "title": "100% Gratis",
+          "description": "Geen registratie, geen verborgen kosten, geen watermerken. Volledig gratis voor altijd te gebruiken."
+        },
+        "compatible": {
+          "title": "Universele Compatibiliteit",
+          "description": "Werkt op Facebook, Twitter, Instagram, WhatsApp, Discord en alle belangrijke platforms."
+        }
+      },
+      "benefits": {
+        "title": "Waarom U Een Lettertypegenerator Nodig Heeft",
+        "subtitle": "Val op in de menigte met tekst die de aandacht trekt en uw unieke stijl uitdrukt",
+        "visibility": {
+          "title": "Verhoog Uw Zichtbaarheid",
+          "description": "Stijlvolle tekst trekt de aandacht in drukke sociale feeds, wat de betrokkenheid bij uw posts met tot 300% verhoogt.",
+          "tag": "Meer Betrokkenheid"
+        },
+        "expression": {
+          "title": "Express Uw Persoonlijkheid",
+          "description": "Verschillende lettertypen dragen verschillende emoties over. Kies stijlen die perfect passen bij uw merk of persoonlijke sfeer.",
+          "tag": "Unieke Identiteit"
+        },
+        "professional": {
+          "title": "Professioneel Opvallen",
+          "description": "Maak uw bedrijfsprofielen, bio's en content gedenkwaardiger met onderscheidende typografie.",
+          "tag": "Merkkracht"
+        },
+        "creative": {
+          "title": "Geef Creativiteit Vrij Spel",
+          "description": "Perfect voor kunstenaars, ontwerpers en contentcreators die visuele flair aan hun werk willen toevoegen.",
+          "tag": "Creatieve Vrijheid"
+        }
+      },
+      "howto": {
+        "title": "Hoe De Lettertypegenerator Te Gebruiken",
+        "subtitle": "Drie eenvoudige stappen om prachtige tekst te creëren",
+        "step1": {
+          "title": "Typ Uw Tekst",
+          "description": "Voer tekst in die u wilt stylen in het invoervak hierboven"
+        },
+        "step2": {
+          "title": "Kies Uw Stijl",
+          "description": "Blader door 100+ lettertypestijlen en kies uw favoriet"
+        },
+        "step3": {
+          "title": "Kopiëren & Plakken",
+          "description": "Klik op de kopieerknop en plak uw gestileerde tekst overal"
+        }
+      },
+      "faq": {
+        "title": "Veelgestelde Vragen",
+        "q1": {
+          "question": "Zijn dit echte lettertypen of alleen afbeeldingen?",
+          "answer": "Dit zijn echte Unicode-tekens, geen afbeeldingen. Ze werken als echte tekst die u overal kunt kopiëren, plakken, bewerken en gebruiken zonder speciale software."
+        },
+        "q2": {
+          "question": "Werken deze lettertypen op alle apparaten?",
+          "answer": "Ja! Omdat we Unicode-tekens gebruiken, werken deze lettertypen op alle apparaten (iOS, Android, Windows, Mac, Linux) en alle platforms (Facebook, Twitter, Instagram, WhatsApp, Discord, etc.) zonder speciale apps."
+        },
+        "q3": {
+          "question": "Is deze lettertypegenerator echt gratis?",
+          "answer": "Absoluut! Onze lettertypegenerator is 100% gratis te gebruiken, zonder registratie vereist, geen verborgen kosten en geen watermerken. Genereer zoveel stijlvolle teksten als u wilt, wanneer u maar wilt."
+        },
+        "q4": {
+          "question": "Kan ik deze lettertypen voor commerciële doeleinden gebruiken?",
+          "answer": "Ja! De Unicode-tekens maken deel uit van de Unicode-standaard, wat betekent dat u ze vrij kunt gebruiken voor zowel persoonlijke als commerciële projecten zonder licentiebeperkingen."
+        },
+        "q5": {
+          "question": "Waarom worden sommige lettertypen niet correct weergegeven?",
+          "answer": "Hoewel onze lettertypen op de meeste platforms werken, ondersteunen sommige oudere apparaten of apps mogelijk niet alle Unicode-tekens. De lettertypen zouden perfect moeten werken op alle moderne apparaten en belangrijke sociale mediaplatforms."
+        },
+        "q6": {
+          "question": "Kan ik nieuwe lettertypestijlen voorstellen?",
+          "answer": "We houden van feedback! Hoewel we alleen Unicode-tekens kunnen gebruiken die in de standaard bestaan, zijn we altijd op zoek naar het toevoegen van nieuwe en creatieve lettertypecombinaties. Neem contact met ons op met uw suggesties!"
+        }
+      },
+      "popular": {
+        "title": "Trending Lettertypestijlen",
+        "subtitle": "Ontdek de populairste en creatieve lettertypestijlen die door onze gemeenschap worden geliefd",
+        "badge": "Populaire Stijlen",
+        "try_now": "Probeer het nu",
+        "explore_all": "Verken Alle Lettertypestijlen"
+      },
+      "tools": {
+        "title": "Meer Handige Tools",
+        "subtitle": "Professionele tools voor webontwikkelaars, ontwerpers en contentcreators"
+      }
+    },
     "style": {
       "h1": "Lettertype",
       "sidebar": {
@@ -81,7 +194,86 @@
       },
       "alternating": {
         "meta": {
-          "title": "Alternerende lettertypegenerator"
+          "title": "Alternerende Lettertypegenerator",
+          "description": "Creëer opvallende alternerende tekststijlen die wisselen tussen verschillende lettertypen met onze gratis generator."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Exotische Lettertypegenerator | 🌍 Unieke Unicode-lettertypen",
+          "description": "Transformeer uw tekst in exotische en unieke lettertypestijlen met behulp van speciale Unicode-tekens uit verschillende schriftsystemen. Perfect om op sociale media op te vallen."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Wiskundige Lettertypegenerator | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Genereer wiskundige en wetenschappelijke tekststijlen inclusief dubbelgestreken, script en fraktuur-lettertypen perfect voor vergelijkingen en academische content."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Decoratieve Lettertypegenerator | ✨ Stijlvolle Tekst",
+          "description": "Creëer prachtige decoratieve tekst met bubbels, vierkanten en unieke Unicode-tekens die uw content laten opvallen."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Vintage Lettertypegenerator | 📜 Klassieke Tekststijlen",
+          "description": "Genereer vintage en klassieke lettertypestijlen inclusief fraktuur, script en traditionele serif-lettertypen voor een tijdloze uitstraling."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Moderne Lettertypegenerator | 🎯 Strakke Hedendaagse Lettertypen",
+          "description": "Creëer strakke, moderne tekststijlen met schone sans-serif en monospace-lettertypen perfect voor professionele en hedendaagse content."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Artistieke Lettertypegenerator | 🎨 Creatieve Tekststijlen",
+          "description": "Transformeer uw tekst in artistieke en creatieve lettertypestijlen met script, fraktuur en unieke letter-achtige tekens."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Ronde Lettertypegenerator | ⭕ Zachte Bubbellettertypen",
+          "description": "Genereer afgeronde en zachte tekststijlen met bubbelletters en gekromde lettertypen die uw tekst een vriendelijke, benaderbare uitstraling geven."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Scherpe Lettertypegenerator | ⚡ Hoekige Tekststijlen",
+          "description": "Creëer scherpe, hoekige tekst met vierkante en vetgedrukte lettertypen perfect voor tech-savvy en moderne ontwerpen."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Handgeschreven Lettertypegenerator | ✍️ Script Tekst",
+          "description": "Genereer authentieke handgeschreven stijl tekst met script en cursieve lettertypen die een persoonlijke, menselijke touch aan uw content toevoegen."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Gaming Lettertypegenerator | 🎮 Game-Style Tekst",
+          "description": "Creëer gaming-stijl tekst met gepixelde, retro en vetgedrukte lettertypen perfect voor gamers en gaming content."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Retro Lettertypegenerator | 🕹️ 8-bit Stijl Tekst",
+          "description": "Genereer retro en vintage 8-bit stijl tekst met monospace en gepixelde lettertypen die herinneren aan klassiek computergebruik."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Elegante Lettertypegenerator | 💎 Verfijnde Tekst",
+          "description": "Creëer elegante en verfijnde tekst met script, serif cursief en geraffineerde lettertypen voor een chique, luxe uitstraling."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Speelse Lettertypegenerator | 🎪 Leuke Tekststijlen",
+          "description": "Genereer leuke en speelse tekst met bubbels, gedraaide tekens en fantasierijke lettertypen die vreugde en energie aan uw content toevoegen."
         }
       }
     },
@@ -98,7 +290,20 @@
         "bubble-text": "Bellentekst",
         "square-text": "Vierkante tekst",
         "cursive": "Cursief",
-        "alternating": "Afwisselend"
+        "alternating": "Afwisselend",
+        "exotic": "Exotisch",
+        "mathematical": "Wiskundig",
+        "decorative": "Decoratief",
+        "vintage": "Vintage",
+        "modern": "Modern",
+        "artistic": "Artistiek",
+        "rounded": "Rond",
+        "sharp": "Scherp",
+        "handwritten": "Handgeschreven",
+        "gaming": "Gaming",
+        "retro": "Retro",
+        "elegant": "Elegant",
+        "playful": "Speels"
       },
       "topic": {
         "handwriting": "Handschrift"
@@ -133,6 +338,88 @@
     "shared": {
       "copy": "Kopiëren",
       "copyed": "Gekopieerd!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Typ hier tekst om geweldige lettertypeconversies te zien...",
+        "characters": "karakters",
+        "emptyState": {
+          "title": "Begin met typen om geweldige lettertypeconversies te zien!",
+          "subtitle": "Typ tekst hierboven en bekijk hoe deze wordt omgezet in prachtige gestileerde lettertypen."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Kopiëren",
+        "copied": "Gekopieerd!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Gegenereerde lettertypen",
+        "stylesAvailable": "stijlen beschikbaar",
+        "textEffects": "Teksteffecten",
+        "placeholder": "Typ om conversie te zien...",
+        "noFonts": {
+          "title": "Geen lettertypen beschikbaar voor deze stijl",
+          "subtitle": "Probeer een andere stijl te selecteren in het menu"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Lettertypegenerator",
+        "createStunning": "Creëer in enkele seconden prachtige {style} tekst. Perfect om uw content te laten opvallen op sociale media, websites en creatieve projecten.",
+        "about": "Over {style} tekst",
+        "perfectFor": "Perfect voor:",
+        "tipsTitle": "Tips voor beste resultaten",
+        "tips": {
+          "tip1": "Gebruik korte zinnen voor maximale impact",
+          "tip2": "Perfect voor sociale media bio's en koppen",
+          "tip3": "Werkt op alle belangrijke platforms (Facebook, Instagram, Twitter, etc.)",
+          "tip4": "Kopiëren en plakken overal - geen speciale apps nodig"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Facebook posts en updates",
+            "case2": "Twitter koppen",
+            "case3": "Instagram bio's",
+            "case4": "YouTube video titels"
+          },
+          "italic": {
+            "case1": "Gedichten en citaten",
+            "case2": "Boektitels",
+            "case3": "Creatief schrijven",
+            "case4": "Elegante handtekeningen"
+          },
+          "fancy": {
+            "case1": "Sociale media bio's",
+            "case2": "Huwelijksuitnodigingen",
+            "case3": "Kunstprojecten",
+            "case4": "Creatief branding"
+          },
+          "cool": {
+            "case1": "Gaming gebruikersnamen",
+            "case2": "Sociale media posts",
+            "case3": "Persoonlijke websites",
+            "case4": "Creatieve projecten"
+          },
+          "small": {
+            "case1": "Sociale media comments",
+            "case2": "Voetnoten",
+            "case3": "Subtiele nadruk",
+            "case4": "Compacte tekst"
+          },
+          "underline": {
+            "case1": "Belangrijke aankondigingen",
+            "case2": "Navigatie elementen",
+            "case3": "Call-to-action tekst",
+            "case4": "Nadruk markeringen"
+          },
+          "default": {
+            "case1": "Sociale media posts",
+            "case2": "Creatieve projecten",
+            "case3": "Persoonlijke berichten",
+            "case4": "Digitale handtekeningen"
+          }
+        }
+      }
     }
   }
 }

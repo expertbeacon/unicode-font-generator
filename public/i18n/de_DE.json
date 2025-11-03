@@ -1,7 +1,120 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Zur Startseite",
+    "page_not_found": "Seite nicht gefunden",
+    "home": {
+      "hero": {
+        "title": "Verwandeln Sie Ihren Text in beeindruckende Schriftarten",
+        "subtitle": "Generieren Sie sofort stilvolle Unicode-Schriftarten für soziale Medien, Messaging und kreative Projekte",
+        "stats": "Wird von über 100.000 Content-Erstellern weltweit genutzt"
+      },
+      "features": {
+        "title": "Warum unseren Schriftartengenerator wählen",
+        "subtitle": "Professionelle Textgestaltung mit Funktionen, die Sie nirgendwo anders finden",
+        "instant": {
+          "title": "Sofortige Generierung",
+          "description": "Verwandeln Sie Ihren Text in Echtzeit mit unserem blitzschnellen Generator. Sehen Sie Ergebnisse beim Tippen."
+        },
+        "unicode": {
+          "title": "Echte Unicode-Schriftarten",
+          "description": "Alle Schriftarten verwenden echte Unicode-Zeichen, die auf allen Plattformen ohne spezielle Apps funktionieren."
+        },
+        "variety": {
+          "title": "100+ Schriftstile",
+          "description": "Von Fett und Kursiv bis zu Ausgefallen und Cool - finden Sie den perfekten Stil für jeden Anlass."
+        },
+        "copy": {
+          "title": "Ein-Klick-Kopieren",
+          "description": "Kopieren Sie stilvollen Text sofort in Ihre Zwischenablage und fügen Sie ihn überall ein."
+        },
+        "free": {
+          "title": "100% Kostenlos",
+          "description": "Keine Registrierung, keine versteckten Gebühren, keine Wasserzeichen. Dauerhaft kostenlos nutzbar."
+        },
+        "compatible": {
+          "title": "Universelle Kompatibilität",
+          "description": "Funktioniert auf Facebook, Twitter, Instagram, WhatsApp, Discord und allen wichtigen Plattformen."
+        }
+      },
+      "benefits": {
+        "title": "Warum Sie einen Schriftartengenerator brauchen",
+        "subtitle": "Heben Sie sich von der Masse ab mit Text, der Aufmerksamkeit erregt und Ihren einzigartigen Stil ausdrückt",
+        "visibility": {
+          "title": "Steigern Sie Ihre Sichtbarkeit",
+          "description": "Stilvoller Text erregt Aufmerksamkeit in überfüllten Social-Media-Feeds und erhöht die Interaktion auf Ihren Beiträgen um bis zu 300%.",
+          "tag": "Mehr Interaktion"
+        },
+        "expression": {
+          "title": "Drücken Sie Ihre Persönlichkeit aus",
+          "description": "Verschiedene Schriftarten vermitteln unterschiedliche Emotionen. Wählen Sie Stile, die perfekt zu Ihrer Marke oder Ihrem persönlichen Vibe passen.",
+          "tag": "Einzigartige Identität"
+        },
+        "professional": {
+          "title": "Heben Sie sich professionell ab",
+          "description": "Machen Sie Ihre Geschäftsprofile, Bios und Inhalte mit unverwechselbarer Typografie unvergesslicher.",
+          "tag": "Markenmacht"
+        },
+        "creative": {
+          "title": "Entfesseln Sie Ihre Kreativität",
+          "description": "Perfekt für Künstler, Designer und Content-Ersteller, die ihren Werken visuelle Reize verleihen möchten.",
+          "tag": "Kreative Freiheit"
+        }
+      },
+      "howto": {
+        "title": "Wie man den Schriftartengenerator verwendet",
+        "subtitle": "Drei einfache Schritte zur Erstellung beeindruckender Texte",
+        "step1": {
+          "title": "Geben Sie Ihren Text ein",
+          "description": "Geben Sie einen beliebigen Text ein, den Sie gestalten möchten, in das Eingabefeld oben"
+        },
+        "step2": {
+          "title": "Wählen Sie Ihren Stil",
+          "description": "Durchsuchen Sie über 100 Schriftstile und wählen Sie Ihren Favoriten"
+        },
+        "step3": {
+          "title": "Kopieren & Einfügen",
+          "description": "Klicken Sie auf die Kopieren-Schaltfläche und fügen Sie Ihren gestalteten Text überall ein"
+        }
+      },
+      "faq": {
+        "title": "Häufig gestellte Fragen",
+        "q1": {
+          "question": "Sind das echte Schriftarten oder nur Bilder?",
+          "answer": "Das sind echte Unicode-Zeichen, keine Bilder. Sie funktionieren als echter Text, den Sie überall kopieren, einfügen, bearbeiten und verwenden können, ohne spezielle Software."
+        },
+        "q2": {
+          "question": "Funktionieren diese Schriftarten auf allen Geräten?",
+          "answer": "Ja! Da wir Unicode-Zeichen verwenden, funktionieren diese Schriftarten auf allen Geräten (iOS, Android, Windows, Mac, Linux) und allen Plattformen (Facebook, Twitter, Instagram, WhatsApp, Discord usw.) ohne spezielle Apps."
+        },
+        "q3": {
+          "question": "Ist dieser Schriftartengenerator wirklich kostenlos?",
+          "answer": "Absolut! Unser Schriftartengenerator ist 100% kostenlos nutzbar, ohne Registrierung, ohne versteckte Gebühren und ohne Wasserzeichen. Generieren Sie so viele stilvolle Texte wie Sie wollen, wann immer Sie wollen."
+        },
+        "q4": {
+          "question": "Kann ich diese Schriftarten für kommerzielle Zwecke verwenden?",
+          "answer": "Ja! Die Unicode-Zeichen sind Teil des Unicode-Standards, was bedeutet, dass Sie sie frei für persönliche und kommerzielle Projekte ohne Lizenzbeschränkungen verwenden können."
+        },
+        "q5": {
+          "question": "Warum werden einige Schriftarten nicht korrekt angezeigt?",
+          "answer": "Obwohl unsere Schriftarten auf den meisten Plattformen funktionieren, unterstützen einige ältere Geräte oder Apps möglicherweise nicht alle Unicode-Zeichen. Die Schriftarten sollten auf allen modernen Geräten und wichtigen Social-Media-Plattformen perfekt funktionieren."
+        },
+        "q6": {
+          "question": "Kann ich neue Schriftstile vorschlagen?",
+          "answer": "Wir lieben Feedback! Während wir nur Unicode-Zeichen verwenden können, die im Standard existieren, suchen wir immer nach neuen und kreativen Schriftkombinationen. Kontaktieren Sie uns mit Ihren Vorschlägen!"
+        }
+      },
+      "popular": {
+        "title": "Trending Schriftstile",
+        "subtitle": "Entdecken Sie die beliebtesten und kreativsten Schriftstile, die von unserer Community geliebt werden",
+        "badge": "Beliebte Stile",
+        "try_now": "Jetzt probieren",
+        "explore_all": "Alle Schriftstile erkunden"
+      },
+      "tools": {
+        "title": "Mehr nützliche Tools",
+        "subtitle": "Professionelle Tools für Web-Entwickler, Designer und Content-Ersteller"
+      }
+    },
     "style": {
       "h1": "Schriftart",
       "sidebar": {
@@ -81,24 +194,116 @@
       },
       "alternating": {
         "meta": {
-          "title": "Generator für alternierende Schriftarten"
+          "title": "Generator für alternierende Schriftarten",
+          "description": "Erstellen Sie auffällige alternative Textstile, die zwischen verschiedenen Schriftarten wechseln, mit unserem kostenlosen Generator."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Exotischer Schriftartengenerator | 🌍 Einzigartige Unicode-Schriftarten",
+          "description": "Verwandeln Sie Ihren Text in exotische und einzigartige Schriftstile mit speziellen Unicode-Zeichen aus verschiedenen Schriftsystemen. Perfekt um auf Social Media aufzufallen."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Mathematischer Schriftartengenerator | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Generieren Sie mathematische und wissenschaftliche Textstile, einschließlich Double-Struck, Script und Fraktur-Schriftarten, perfekt für Gleichungen und akademische Inhalte."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Dekorativer Schriftartengenerator | ✨ Stilvoller Text",
+          "description": "Erstellen Sie schöne dekorative Texte mit Blasen, Quadraten und einzigartigen Unicode-Zeichen, die Ihre Inhalte hervorheben."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Vintage-Schriftartengenerator | 📜 Klassische Textstile",
+          "description": "Generieren Sie Vintage- und klassische Schriftstile, einschließlich Fraktur, Script und traditionelle Serifenschriften für ein zeitloses Aussehen."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Moderner Schriftartengenerator | 🎯 Klare zeitgenössische Schriftarten",
+          "description": "Erstellen Sie schicke, moderne Textstile mit klaren serifenlosen und Monospace-Schriftarten, perfekt für professionelle und zeitgenössische Inhalte."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Künstlerischer Schriftartengenerator | 🎨 Kreative Textstile",
+          "description": "Verwandeln Sie Ihren Text in künstlerische und kreative Schriftstile mit Script, Fraktur und einzigartigen buchstabenähnlichen Zeichen."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Abgerundeter Schriftartengenerator | ⭕ Weiche Blasenschriftarten",
+          "description": "Generieren Sie abgerundete und weiche Textstile mit Blasenbuchstaben und geschwungenen Schriftarten, die Ihrem Text ein freundliches, zugängliches Aussehen verleihen."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Scharfer Schriftartengenerator | ⚡ Eckige Textstile",
+          "description": "Erstellen Sie scharfe, eckige Texte mit quadratischen und fetten Schriftarten, perfekt für technisch versierte und moderne Designs."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Handgeschriebener Schriftartengenerator | ✍️ Script-Text",
+          "description": "Generieren Sie authentische handgeschriebene Texte mit Script- und Kursivschriftarten, die Ihren Inhalten eine persönliche, menschliche Note verleihen."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Gaming-Schriftartengenerator | 🎮 Spielstil-Text",
+          "description": "Erstellen Sie Gaming-Stil-Texte mit pixelierten, Retro- und fetten Schriftarten, perfekt für Gamer und Gaming-Inhalte."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Retro-Schriftartengenerator | 🕹️ 8-Bit-Stil-Text",
+          "description": "Generieren Sie Retro- und Vintage-8-Bit-Stil-Texte mit Monospace- und pixelierten Schriftarten, die an klassisches Computing erinnern."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Eleganter Schriftartengenerator | 💎 Raffinierter Text",
+          "description": "Erstellen Sie elegante und raffinierte Texte mit Script, Serif-Kursiv und verfeinerten Schriftarten für ein klassisches, gehobenes Erscheinungsbild."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Verspielter Schriftartengenerator | 🎪 Lustige Textstile",
+          "description": "Generieren Sie lustige und verspielte Texte mit Blasen, gedrehten Zeichen und verspielten Schriftarten, die Ihren Inhalt mit Freude und Energie bereichern."
         }
       }
     },
     "slug": {
       "menu": {
-        "bold": "Deutlich",
-        "fancy": "Schick",
+        "bold": "Fett",
+        "fancy": "Ausgefallen",
         "italic": "Kursiv",
         "cool": "Cool",
-        "bold-italic": "Fett und kursiv",
+        "bold-italic": "Fett Kursiv",
         "small": "Klein",
         "normal": "Normal",
-        "underline": "Unterstreichen",
+        "underline": "Unterstrichen",
         "bubble-text": "Blasentext",
-        "square-text": "Quadratischer Text",
+        "square-text": "Quadrattext",
         "cursive": "Kursiv",
-        "alternating": "Abwechselnd"
+        "alternating": "Alternierend",
+        "exotic": "Exotisch",
+        "mathematical": "Mathematisch",
+        "decorative": "Dekorativ",
+        "vintage": "Vintage",
+        "modern": "Modern",
+        "artistic": "Künstlerisch",
+        "rounded": "Abgerundet",
+        "sharp": "Scharf",
+        "handwritten": "Handgeschrieben",
+        "gaming": "Gaming",
+        "retro": "Retro",
+        "elegant": "Elegant",
+        "playful": "Verspielt"
       },
       "topic": {
         "handwriting": "Handschrift"
@@ -131,8 +336,90 @@
       }
     },
     "shared": {
-      "copy": "Kopie",
+      "copy": "Kopieren",
       "copyed": "Kopiert!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Text hier eingeben, um fantastische Schriftart-Umwandlungen zu sehen...",
+        "characters": "Zeichen",
+        "emptyState": {
+          "title": "Beginnen Sie mit der Eingabe, um fantastische Schriftart-Umwandlungen zu sehen!",
+          "subtitle": "Geben Sie oben einen beliebigen Text ein und sehen Sie, wie er sich in wunderschöne stilvolle Schriftarten verwandelt."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Kopieren",
+        "copied": "Kopiert!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Generierte Schriftarten",
+        "stylesAvailable": "Stile verfügbar",
+        "textEffects": "Texteffekte",
+        "placeholder": "Text eingeben zur Umwandlung...",
+        "noFonts": {
+          "title": "Für diesen Stil sind keine Schriftarten verfügbar",
+          "subtitle": "Versuchen Sie, einen anderen Stil aus dem Menü auszuwählen"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Schriftartengenerator",
+        "createStunning": "Erstellen Sie in Sekunden wunderschöne {style}-Texte. Perfekt, damit Ihre Inhalte auf Social Media, Websites und kreativen Projekten hervorstechen.",
+        "about": "Über {style}-Text",
+        "perfectFor": "Perfekt für:",
+        "tipsTitle": "Tipps für beste Ergebnisse",
+        "tips": {
+          "tip1": "Kurze Phrasen für maximale Wirkung verwenden",
+          "tip2": "Perfekt für Social-Media-Profile und Überschriften",
+          "tip3": "Funktioniert auf allen wichtigen Plattformen (Facebook, Instagram, Twitter usw.)",
+          "tip4": "Überall kopieren und einfügen - keine speziellen Apps erforderlich"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Facebook-Beiträge und -Updates",
+            "case2": "Twitter-Überschriften",
+            "case3": "Instagram-Bildunterschriften",
+            "case4": "YouTube-Video-Titel"
+          },
+          "italic": {
+            "case1": "Gedichte und Zitate",
+            "case2": "Buchtitel",
+            "case3": "Kreatives Schreiben",
+            "case4": "Elegante Signaturen"
+          },
+          "fancy": {
+            "case1": "Social-Media-Profile",
+            "case2": "Hochzeitseinladungen",
+            "case3": "Kunstprojekte",
+            "case4": "Kreative Markenbildung"
+          },
+          "cool": {
+            "case1": "Gaming-Benutzernamen",
+            "case2": "Social-Media-Beiträge",
+            "case3": "Persönliche Websites",
+            "case4": "Kreative Projekte"
+          },
+          "small": {
+            "case1": "Social-Media-Kommentare",
+            "case2": "Seitennotizen",
+            "case3": "Subtile Betonungen",
+            "case4": "Kompakter Text"
+          },
+          "underline": {
+            "case1": "Wichtige Ankündigungen",
+            "case2": "Navigationselemente",
+            "case3": "Call-to-Action-Texte",
+            "case4": "Hervorhebungen"
+          },
+          "default": {
+            "case1": "Social-Media-Beiträge",
+            "case2": "Kreative Projekte",
+            "case3": "Persönliche Nachrichten",
+            "case4": "Digitale Signaturen"
+          }
+        }
+      }
     }
   }
 }

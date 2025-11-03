@@ -1,7 +1,120 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Aller à la page d'accueil",
+    "page_not_found": "Page non trouvée",
+    "home": {
+      "hero": {
+        "title": "Transformez votre texte en polices magnifiques",
+        "subtitle": "Générez des polices Unicode stylées instantanément pour les réseaux sociaux, la messagerie et les projets créatifs",
+        "stats": "Utilisé par plus de 100 000 créateurs de contenu dans le monde entier"
+      },
+      "features": {
+        "title": "Pourquoi choisir notre générateur de polices",
+        "subtitle": "Style de texte de qualité professionnelle avec des fonctionnalités que vous ne trouverez nulle part ailleurs",
+        "instant": {
+          "title": "Génération instantanée",
+          "description": "Transformez votre texte en temps réel avec notre générateur ultra-rapide. Voyez les résultats pendant que vous tapez."
+        },
+        "unicode": {
+          "title": "Vraies polices Unicode",
+          "description": "Toutes les polices utilisent de vrais caractères Unicode qui fonctionnent sur toutes les plateformes sans applications spéciales."
+        },
+        "variety": {
+          "title": "100+ styles de polices",
+          "description": "Du gras et de l'italique à l'élégant et au cool : trouvez le style parfait pour n'importe quelle occasion."
+        },
+        "copy": {
+          "title": "Copie en un clic",
+          "description": "Copiez instantanément le texte stylisé dans votre presse-papiers et collez-le où vous voulez."
+        },
+        "free": {
+          "title": "100% gratuit",
+          "description": "Aucune inscription, aucuns frais cachés, aucune filigrane. Entièrement gratuit à utiliser pour toujours."
+        },
+        "compatible": {
+          "title": "Compatibilité universelle",
+          "description": "Fonctionne sur Facebook, Twitter, Instagram, WhatsApp, Discord et toutes les plateformes principales."
+        }
+      },
+      "benefits": {
+        "title": "Pourquoi vous avez besoin d'un générateur de polices",
+        "subtitle": "Démarquez-vous avec du texte qui attire l'attention et exprime votre style unique",
+        "visibility": {
+          "title": "Augmentez votre visibilité",
+          "description": "Le texte stylisé attire l'attention dans les flux de réseaux sociaux encombrés, augmentant l'engagement sur vos publications jusqu'à 300%.",
+          "tag": "Plus d'engagement"
+        },
+        "expression": {
+          "title": "Exprimez votre personnalité",
+          "description": "Différentes polices transmettent différentes émotions. Choisissez des styles qui correspondent parfaitement à votre marque ou à votre ambiance personnelle.",
+          "tag": "Identité unique"
+        },
+        "professional": {
+          "title": "Démarquez-vous professionnellement",
+          "description": "Rendez vos profils commerciaux, biographies et contenu plus mémorables avec une typographie distinctive.",
+          "tag": "Puissance de marque"
+        },
+        "creative": {
+          "title": "Libérez votre créativité",
+          "description": "Parfait pour les artistes, designers et créateurs de contenu qui veulent ajouter un éclat visuel à leur travail.",
+          "tag": "Liberté créative"
+        }
+      },
+      "howto": {
+        "title": "Comment utiliser le générateur de polices",
+        "subtitle": "Trois étapes simples pour créer un texte magnifique",
+        "step1": {
+          "title": "Tapez votre texte",
+          "description": "Entrez n'importe quel texte que vous voulez styliser dans la zone de saisie ci-dessus"
+        },
+        "step2": {
+          "title": "Choisissez votre style",
+          "description": "Parcourez plus de 100 styles de polices et choisissez votre préféré"
+        },
+        "step3": {
+          "title": "Copiez et collez",
+          "description": "Cliquez sur le bouton de copie et collez votre texte stylisé n'importe où"
+        }
+      },
+      "faq": {
+        "title": "Questions fréquentes",
+        "q1": {
+          "question": "Est-ce que ce sont de vraies polices ou juste des images ?",
+          "answer": "Ce sont de vrais caractères Unicode, pas des images. Ils fonctionnent comme du texte réel que vous pouvez copier, coller, éditer et utiliser n'importe où sans logiciel spécial."
+        },
+        "q2": {
+          "question": "Est-ce que ces polices fonctionneront sur tous les appareils ?",
+          "answer": "Oui ! Parce que nous utilisons des caractères Unicode, ces polices fonctionnent sur tous les appareils (iOS, Android, Windows, Mac, Linux) et toutes les plateformes (Facebook, Twitter, Instagram, WhatsApp, Discord, etc.) sans aucune application spéciale."
+        },
+        "q3": {
+          "question": "Est-ce que ce générateur de polices est vraiment gratuit ?",
+          "answer": "Absolument ! Notre générateur de polices est 100% gratuit à utiliser sans inscription requise, sans frais cachés et sans filigrane. Générez autant de textes stylisés que vous voulez, quand vous voulez."
+        },
+        "q4": {
+          "question": "Puis-je utiliser ces polices à des fins commerciales ?",
+          "answer": "Oui ! Les caractères Unicode font partie du Standard Unicode, ce qui signifie que vous pouvez les utiliser librement pour des projets personnels et commerciaux sans aucune restriction de licence."
+        },
+        "q5": {
+          "question": "Pourquoi certaines polices ne s'affichent-elles pas correctement ?",
+          "answer": "Bien que nos polices fonctionnent sur la plupart des plateformes, certains appareils ou applications plus anciens peuvent ne pas prendre en charge tous les caractères Unicode. Les polices devraient fonctionner parfaitement sur tous les appareils modernes et les principales plateformes de réseaux sociaux."
+        },
+        "q6": {
+          "question": "Puis-je suggérer de nouveaux styles de polices ?",
+          "answer": "Nous adorons les retours ! Bien que nous ne puissions utiliser que les caractères Unicode qui existent dans le standard, nous cherchons toujours à ajouter de nouvelles et créatives combinaisons de polices. Contactez-nous avec vos suggestions !"
+        }
+      },
+      "popular": {
+        "title": "Styles de polices tendance",
+        "subtitle": "Découvrez les styles de polices les plus populaires et créatifs aimés par notre communauté",
+        "badge": "Styles populaires",
+        "try_now": "Essayez maintenant",
+        "explore_all": "Explorer tous les styles de polices"
+      },
+      "tools": {
+        "title": "Plus d'outils utiles",
+        "subtitle": "Outils professionnels pour les développeurs web, designers et créateurs de contenu"
+      }
+    },
     "style": {
       "h1": "Fonte",
       "sidebar": {
@@ -81,7 +194,86 @@
       },
       "alternating": {
         "meta": {
-          "title": "Générateur de polices alternées"
+          "title": "Générateur de polices alternées",
+          "description": "Créez des styles de texte alternants accrocheurs qui alternent entre différentes polices avec notre générateur gratuit."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Générateur de polices exotiques | 🌍 Polices Unicode uniques",
+          "description": "Transformez votre texte en styles de polices exotiques et uniques en utilisant des caractères Unicode spéciaux de divers systèmes d'écriture. Parfait pour se démarquer sur les réseaux sociaux."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Générateur de polices mathématiques | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Générez des styles de texte mathématiques et scientifiques incluant les polices double barre, script et gothiques parfaites pour les équations et le contenu académique."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Générateur de polices décoratives | ✨ Texte stylé",
+          "description": "Créez un texte décoratif magnifique avec des bulles, des carrés et des caractères Unicode uniques qui font que votre contenu se démarque."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Générateur de polices vintage | 📜 Styles de texte classiques",
+          "description": "Générez des styles de polices vintage et classiques incluant les polices gothiques, script et serif traditionnelles pour une apparence intemporelle."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Générateur de polices modernes | 🎯 Polices contemporaines épurées",
+          "description": "Créez des styles de texte modernes et élégants avec des polices sans-serif et monospacées épurées parfaites pour le contenu professionnel et contemporain."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Générateur de polices artistiques | 🎨 Styles de texte créatifs",
+          "description": "Transformez votre texte en styles de polices artistiques et créatives avec script, gothiques et des caractères uniques ressemblant à des lettres."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Générateur de polices arrondies | ⭕ Polices bulles douces",
+          "description": "Générez des styles de texte arrondis et doux avec des lettres bulles et des polices courbes qui donnent à votre texte une apparence amicale et accessible."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Générateur de polices tranchantes | ⚡ Styles de texte angulaires",
+          "description": "Créez du texte tranchant et angulaire avec des polices carrées et grasses parfaites pour les designs modernes et axés sur la technologie."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Générateur de polices manuscrites | ✍️ Texte script",
+          "description": "Générez du texte style manuscrit authentique avec des polices script et cursives qui ajoutent une touche personnelle et humaine à votre contenu."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Générateur de polices gaming | 🎮 Texte style jeu",
+          "description": "Créez du texte style gaming avec des polices pixelisées, retro et grasses parfaites pour les gamers et le contenu gaming."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Générateur de polices retro | 🕹️ Texte style 8-bit",
+          "description": "Générez du texte retro et vintage style 8-bit avec des polices monospacées et pixelisées rappelant l'informatique classique."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Générateur de polices élégantes | 💎 Texte sophistiqué",
+          "description": "Créez du texte élégant et sophistiqué avec des polices script, serif italiques et raffinées pour une apparence classe et haut de gamme."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Générateur de polices ludiques | 🎪 Styles de texte amusants",
+          "description": "Générez du texte amusant et ludique avec des bulles, des caractères rotatifs et des polices fantaisistes qui ajoutent de la joie et de l'énergie à votre contenu."
         }
       }
     },
@@ -98,7 +290,20 @@
         "bubble-text": "Texte à bulles",
         "square-text": "Texte carré",
         "cursive": "Cursive",
-        "alternating": "En alternance"
+        "alternating": "En alternance",
+        "exotic": "Exotique",
+        "mathematical": "Mathématique",
+        "decorative": "Décoratif",
+        "vintage": "Vintage",
+        "modern": "Moderne",
+        "artistic": "Artistique",
+        "rounded": "Arrondi",
+        "sharp": "Tranchant",
+        "handwritten": "Manuscrit",
+        "gaming": "Gaming",
+        "retro": "Retro",
+        "elegant": "Élégant",
+        "playful": "Ludique"
       },
       "topic": {
         "handwriting": "Écriture"
@@ -133,6 +338,88 @@
     "shared": {
       "copy": "Copie",
       "copyed": "Copié!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Tapez du texte ici pour voir d'incroyables conversions de polices...",
+        "characters": "caractères",
+        "emptyState": {
+          "title": "Commencez à taper pour voir d'incroyables conversions de polices !",
+          "subtitle": "Tapez n'importe quel texte ci-dessus et regardez-le se transformer en belles polices stylisées."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Copie",
+        "copied": "Copié!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Polices générées",
+        "stylesAvailable": "styles disponibles",
+        "textEffects": "Effets de texte",
+        "placeholder": "Tapez pour voir la conversion...",
+        "noFonts": {
+          "title": "Aucune police disponible pour ce style",
+          "subtitle": "Essayez de sélectionner un style différent dans le menu"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Générateur de polices",
+        "createStunning": "Créez un texte {style} magnifique en quelques secondes. Parfait pour faire ressortir votre contenu sur les réseaux sociaux, les sites web et les projets créatifs.",
+        "about": "À propos du texte {style}",
+        "perfectFor": "Parfait pour :",
+        "tipsTitle": "Conseils pour de meilleurs résultats",
+        "tips": {
+          "tip1": "Utilisez des phrases courtes pour un impact maximum",
+          "tip2": "Parfait pour les biographies et titres de réseaux sociaux",
+          "tip3": "Fonctionne sur toutes les plateformes principales (Facebook, Instagram, Twitter, etc.)",
+          "tip4": "Copiez et collez n'importe où : aucune application spéciale requise"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Publications et mises à jour Facebook",
+            "case2": "Titres Twitter",
+            "case3": "Légendes Instagram",
+            "case4": "Titres de vidéos YouTube"
+          },
+          "italic": {
+            "case1": "Poésie et citations",
+            "case2": "Titres de livres",
+            "case3": "Écriture créative",
+            "case4": "Signatures élégantes"
+          },
+          "fancy": {
+            "case1": "Biographies de réseaux sociaux",
+            "case2": "Invitations de mariage",
+            "case3": "Projets artistiques",
+            "case4": "Branding créatif"
+          },
+          "cool": {
+            "case1": "Noms d'utilisateur gaming",
+            "case2": "Publications de réseaux sociaux",
+            "case3": "Sites web personnels",
+            "case4": "Projets créatifs"
+          },
+          "small": {
+            "case1": "Commentaires de réseaux sociaux",
+            "case2": "Notes de bas de page",
+            "case3": "Mise en évidence subtile",
+            "case4": "Texte compact"
+          },
+          "underline": {
+            "case1": "Annonces importantes",
+            "case2": "Éléments de navigation",
+            "case3": "Texte d'appel à l'action",
+            "case4": "Marques d'emphase"
+          },
+          "default": {
+            "case1": "Publications de réseaux sociaux",
+            "case2": "Projets créatifs",
+            "case3": "Messages personnels",
+            "case4": "Signatures numériques"
+          }
+        }
+      }
     }
   }
 }

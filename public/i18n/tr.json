@@ -1,6 +1,12 @@
 {
   "frontend": {
+    "go_to_homepage": "Ana sayfaya git",
+    "page_not_found": "Sayfa bulunamadı",
     "style": {
+      "h1": "Yazı Tipi",
+      "sidebar": {
+        "all": "TÜMÜ"
+      },
       "bold": {
         "meta": {
           "title": "Kalın Metin Oluşturucular | 𝐊𝐚𝐥𝐀𝐧 𝐌𝐞𝐭𝐢𝐧 𝐎𝐥𝐮𝐲𝐭𝐮𝐫𝐮𝐜𝐮𝐥𝐚𝐫",
@@ -75,17 +81,238 @@
       },
       "alternating": {
         "meta": {
-          "title": "Alternatif Yazı Tipi Oluşturucu"
+          "title": "Alternatif Yazı Tipi Oluşturucu",
+          "description": "Dikkat çekici alternatif metin stilleri oluşturun farklı yazı tipleri arasında geçiş yapan ücretsiz oluşturucumuzla."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Egzotik Yazı Tipi Oluşturucu | 🌍 Benzersiz Unicode Yazı Tipleri",
+          "description": "Metninizi çeşitli yazı sistemlerinden özel Unicode karakterler kullanarak egzotik ve benzersiz yazı tipi stillerine dönüştürün. Sosyal medyada öne çıkmak için mükemmel."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Matematiksel Yazı Tipi Oluşturucu | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Denklemler ve akademik içerikler için mükemmel olan çift çizgili, el yazısı ve fraktur yazı tipleri dahil matematiksel ve bilimsel metin stilleri oluşturun."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Dekoratif Yazı Tipi Oluşturucu | ✨ Şık Metin",
+          "description": "İçeriğinizi öne çıkaran baloncuklar, kareler ve benzersiz Unicode karakterler ile güzel dekoratif metin oluşturun."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Vintage Yazı Tipi Oluşturucu | 📜 Klasik Metin Stilleri",
+          "description": "Zamansız bir görünüm için fraktur, el yazısı ve geleneksel serif yazı tipleri dahil vintage ve klasik yazı tipi stilleri oluşturun."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Modern Yazı Tipi Oluşturucu | 🎯 Temiz Çağdaş Yazı Tipleri",
+          "description": "Profesyonel ve çağdaş içerik için mükemmel olan temiz sans-serif ve monospace yazı tipleri ile şık modern metin stilleri oluşturun."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Artistik Yazı Tipi Oluşturucu | 🎨 Yaratıcı Metin Stilleri",
+          "description": "El yazısı, fraktur ve benzersiz harf benzeri karakterler ile metninizi artistik ve yaratıcı yazı tipi stillerine dönüştürün."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Yuvarlak Yazı Tipi Oluşturucu | ⭕ Yumuşak Baloncuk Yazı Tipleri",
+          "description": "Metninize dost, erişilebilir bir görünüm kazandıran baloncuk harfler ve kavisli yazı tipleri ile yuvarlak ve yumuşak metin stilleri oluşturun."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Keskin Yazı Tipi Oluşturucu | ⚡ Açısal Metin Stilleri",
+          "description": "Teknoloji meraklıları ve modern tasarımlar için mükemmel olan kare ve kalın yazı tipleri ile keskin, açılı metin oluşturun."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "El Yazısı Yazı Tipi Oluşturucu | ✍️ El Yazısı Metin",
+          "description": "İçeriğinize kişisel, insani bir dokunuş katan el yazısı ve kursiv yazı tipleri ile otantik el yazısı tarzı metin oluşturun."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Oyun Yazı Tipi Oluşturucu | 🎮 Oyun Tarzı Metin",
+          "description": "Oyuncular ve oyun içerikleri için mükemmel olan piksel, retro ve kalın yazı tipleri ile oyun tarzı metin oluşturun."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Retro Yazı Tipi Oluşturucu | 🕹️ 8-bit Tarzı Metin",
+          "description": "Klasik bilgisayar kullanımını anımsatan monospace ve piksel yazı tipleri ile retro ve vintage 8-bit tarzı metin oluşturun."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Zarif Yazı Tipi Oluşturucu | 💎 Sofistike Metin",
+          "description": "Şık, üst sınıf bir görünüm için el yazısı, italik serif ve rafine yazı tipleri ile zarif ve sofistike metin oluşturun."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Oyuncu Yazı Tipi Oluşturucu | 🎪 Eğlenceli Metin Stilleri",
+          "description": "İçeriğinize neşe ve enerji katan baloncuklar, döndürülmüş karakterler ve capcanlı yazı tipleri ile eğlenceli ve oyuncu metin oluşturun."
         }
       }
     },
     "slug": {
       "menu": {
+        "bold": "Kalın",
+        "fancy": "Şık",
+        "italic": "İtalik",
+        "cool": "Havalı",
+        "bold-italic": "Kalın İtalik",
+        "small": "Küçük",
+        "normal": "Normal",
+        "underline": "Altı Çizili",
+        "bubble-text": "Balon Metin",
+        "square-text": "Kare Metin",
         "cursive": "El yazısı",
-        "alternating": "Alternatif"
+        "alternating": "Alternatif",
+        "exotic": "Egzotik",
+        "mathematical": "Matematiksel",
+        "decorative": "Dekoratif",
+        "vintage": "Vintage",
+        "modern": "Modern",
+        "artistic": "Sanatsal",
+        "rounded": "Yuvarlak",
+        "sharp": "Keskin",
+        "handwritten": "El Yazısı",
+        "gaming": "Oyun",
+        "retro": "Retro",
+        "elegant": "Zarif",
+        "playful": "Oyuncu"
       },
       "topic": {
         "handwriting": "El yazısı"
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Metninizi Harika Yazı Tiplerine Dönüştürün",
+        "subtitle": "Sosyal medya, mesajlaşma ve yaratıcı projeler için anında şık Unicode yazı tipleri oluşturun",
+        "stats": "Dünyada 100.000'den fazla içerik oluşturucu tarafından kullanılıyor"
+      },
+      "features": {
+        "title": "Neden Yazı Tipi Oluşturucumuzu Seçmelisiniz",
+        "subtitle": "Başka hiçbir yerde bulamayacağınız özelliklerle profesyonel metin stilizasyonu",
+        "instant": {
+          "title": "Anında Oluşturma",
+          "description": "Şimşek hızındaki oluşturucumuzla metninizi gerçek zamanda dönüştürün. Yazarken sonuçları görün."
+        },
+        "unicode": {
+          "title": "Gerçek Unicode Yazı Tipleri",
+          "description": "Tüm yazı tipleri özel uygulamalar olmadan tüm platformlarda çalışan gerçek Unicode karakterler kullanır."
+        },
+        "variety": {
+          "title": "100+ Yazı Tipi Stili",
+          "description": "Kalın ve italikten şık ve havalıya kadar - her durum için mükemmel stil bulun."
+        },
+        "copy": {
+          "title": "Tek Tıklama Kopyalama",
+          "description": "Şekillendirilmiş metni anında panonuza kopyalayın ve istediğiniz yere yapıştırın."
+        },
+        "free": {
+          "title": "%100 Ücretsiz",
+          "description": "Kayıt gerektirmeyen, gizli ücret olmayan, filigran olmayan. Sonsuza dek ücretsiz kullanın."
+        },
+        "compatible": {
+          "title": "Evrensel Uyumluluk",
+          "description": "Facebook, Twitter, Instagram, WhatsApp, Discord ve tüm major platformlarda çalışır."
+        }
+      },
+      "benefits": {
+        "title": "Neden Yazı Tipi Oluşturucuya İhtiyacınız Var",
+        "subtitle": "Dikkat çeken ve benzersiz tarzınızı ifade eden metinle kalabalıkta öne çıkın",
+        "visibility": {
+          "title": "Görünürlüğünüzü Artırın",
+          "description": "Şık metin, kalabalık sosyal medya akışlarında dikkat çeker, gönderilerinizdeki etkileşimi %300'e kadar artırır.",
+          "tag": "Daha Fazla Etkileşim"
+        },
+        "expression": {
+          "title": "Kişiliğinizi İfade Edin",
+          "description": "Farklı yazı tipleri farklı duygular iletir. Markanıza veya kişisel vibinize mükemmel uyan stilleri seçin.",
+          "tag": "Benzersiz Kimlik"
+        },
+        "professional": {
+          "title": "Profesyonel Olarak Öne Çıkın",
+          "description": "Ayırt edici tipografi ile iş profillerinizi, biyografilerinizi ve içeriğinizi daha akılda kalıcı hale getirin.",
+          "tag": "Marka Gücü"
+        },
+        "creative": {
+          "title": "Yaratıcılığı Serbest Bırakın",
+          "description": "Çalışmalarına görsel zarafet katmak isteyen sanatçılar, tasarımcılar ve içerik oluşturucular için mükemmel.",
+          "tag": "Yaratıcı Özgürlük"
+        }
+      },
+      "howto": {
+        "title": "Yazı Tipi Oluşturucu Nasıl Kullanılır",
+        "subtitle": "Harika metin oluşturmak için üç basit adım",
+        "step1": {
+          "title": "Metninizi Yazın",
+          "description": "Şekillendirmek istediğiniz herhangi bir metni yukarıdaki giriş kutusuna girin"
+        },
+        "step2": {
+          "title": "Stilinizi Seçin",
+          "description": "100+ yazı tipi stilini gözden geçirin ve favorinizi seçin"
+        },
+        "step3": {
+          "title": "Kopyalayın & Yapıştırın",
+          "description": "Kopyala düğmesine tıklayın ve şekillendirilmiş metni istediğiniz yere yapıştırın"
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "Bunlar gerçek yazı tipleri mi yoksa sadece resimler mi?",
+          "answer": "Bunlar gerçek Unicode karakterler, resimler değil. Özel yazılım olmadan her yerde kopyalayabileceğiniz, yapıştırabileceğiniz, düzenleyebileceğiniz ve kullanabileceğiniz gerçek metin olarak çalışırlar."
+        },
+        "q2": {
+          "question": "Bu yazı tipleri tüm cihazlarda çalışacak mı?",
+          "answer": "Evet! Unicode karakterler kullandığımız için, bu yazı tipleri tüm cihazlarda (iOS, Android, Windows, Mac, Linux) ve tüm platformlarda (Facebook, Twitter, Instagram, WhatsApp, Discord vb.) özel uygulamalar olmadan çalışır."
+        },
+        "q3": {
+          "question": "Bu yazı tipi oluşturucu gerçekten ücretsiz mi?",
+          "answer": "Kesinlikle! Yazı tipi oluşturucumuz kayıt gerektirmeyen, gizli ücret olmayan, filigran olmayan %100 ücretsiz kullanım için. İstediğiniz kadar stil metin oluşturun, istediğiniz zaman."
+        },
+        "q4": {
+          "question": "Bu yazı tiplerini ticari amaçlar için kullanabilir miyim?",
+          "answer": "Evet! Unicode karakterleri Unicode Standardı'nın bir parçasıdır, bu da onları herhangi bir lisans kısıtlaması olmadan hem kişisel hem de ticari projeler için serbestçe kullanabileceğiniz anlamına gelir."
+        },
+        "q5": {
+          "question": "Neden bazı yazı tipleri doğru görüntülenmiyor?",
+          "answer": "Yazı tiplerimizin çoğu platformda çalışmasına rağmen, bazı eski cihazlar veya uygulamalar tüm Unicode karakterleri desteklemeyebilir. Yazı tipleri tüm modern cihazlarda ve major sosyal medya platformlarında mükemmel çalışmalıdır."
+        },
+        "q6": {
+          "question": "Yeni yazı tipi stilleri önerebilir miyim?",
+          "answer": "Geri bildirimi seviyoruz! Yalnızca standartta mevcut olan Unicode karakterleri kullanabilmemize rağmen, her zaman yeni yaratıcı yazı tipi kombinasyonları eklemeyi arıyoruz. Önerilerinizle bize ulaşın!"
+        }
+      },
+      "popular": {
+        "title": "Trend Yazı Tipi Stilleri",
+        "subtitle": "Topluluğumuz tarafından sevilen en popüler ve yaratıcı yazı tipi stillerini keşfedin",
+        "badge": "Popüler Stiller",
+        "try_now": "Şimdi dene",
+        "explore_all": "Tüm Yazı Tipi Stillerini Keşfet"
+      },
+      "tools": {
+        "title": "Daha Fazla Yardımcı Araçlar",
+        "subtitle": "Web geliştiricileri, tasarımcılar ve içerik oluşturucular için profesyonel araçlar"
+      }
+    },
+    "meta": {
+      "default": {
+        "title": "Facebook, X (Twitter) için Şık Metin Oluşturucu",
+        "description": "Facebook, X (eski adıyla Twitter) ve diğer sosyal medya platformları için kolayca şık metin oluşturun. Gönderilerinizi öne çıkarmak için kalın, italik, şık ve havalı stillerle yazı tiplerini özelleştirin."
       }
     },
     "topic": {
@@ -111,6 +338,88 @@
     "shared": {
       "copy": "Kopyala",
       "copyed": "Kopyalandı!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Harika yazı tipi dönüşümlerini görmek için metin buraya yazın...",
+        "characters": "karakter",
+        "emptyState": {
+          "title": "Harika yazı tipi dönüşümlerini görmek için yazmaya başlayın!",
+          "subtitle": "Yukarıya herhangi bir metin yazın ve şık yazı tiplerine dönüştüğünü görün."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Kopyala",
+        "copied": "Kopyalandı!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Oluşturulan yazı tipleri",
+        "stylesAvailable": "mevcut stil",
+        "textEffects": "Metin efektleri",
+        "placeholder": "Dönüşümleri görmek için yazın...",
+        "noFonts": {
+          "title": "Bu stil için mevcut yazı tipi yok",
+          "subtitle": "Menüden farklı bir stil seçmeyi deneyin"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Yazı Tipi Oluşturucu",
+        "createStunning": "Saniyeler içinde harika {style} metni oluşturun. Sosyal medyada, web sitelerinde ve yaratıcı projelerde içeriğinizin öne çıkması için mükemmel.",
+        "about": "{style} metin hakkında",
+        "perfectFor": "Mükemmel için:",
+        "tipsTitle": "En iyi sonuçlar için ipuçları",
+        "tips": {
+          "tip1": "Maksimum etki için kısa ifadeler kullanın",
+          "tip2": "Sosyal medya biyografileri ve başlıkları için mükemmel",
+          "tip3": "Tüm major platformlarda çalışır (Facebook, Instagram, Twitter vb.)",
+          "tip4": "Her yere kopyalayın ve yapıştırın - özel uygulamalar gerekmez"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Facebook gönderileri ve güncellemeleri",
+            "case2": "Twitter başlıkları",
+            "case3": "Instagram başlıkları",
+            "case4": "YouTube video başlıkları"
+          },
+          "italic": {
+            "case1": "Şiir ve alıntılar",
+            "case2": "Kitap başlıkları",
+            "case3": "Yaratıcı yazma",
+            "case4": "Zarif imzalar"
+          },
+          "fancy": {
+            "case1": "Sosyal medya profilleri",
+            "case2": "Düğün davetiyeleri",
+            "case3": "Sanat projeleri",
+            "case4": "Yaratıcı markalaşma"
+          },
+          "cool": {
+            "case1": "Oyun kullanıcı adları",
+            "case2": "Sosyal medya gönderileri",
+            "case3": "Kişisel web siteleri",
+            "case4": "Yaratıcı projeler"
+          },
+          "small": {
+            "case1": "Sosyal medya yorumları",
+            "case2": "Dipnotlar",
+            "case3": "Zarif vurgu",
+            "case4": "Kompakt metin"
+          },
+          "underline": {
+            "case1": "Önem duyuruları",
+            "case2": "Navigasyon elemanları",
+            "case3": "Harekete geçirici metin",
+            "case4": "Vurgu işaretleri"
+          },
+          "default": {
+            "case1": "Sosyal medya gönderileri",
+            "case2": "Yaratıcı projeler",
+            "case3": "Kişisel mesajlar",
+            "case4": "Dijital imzalar"
+          }
+        }
+      }
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Gå till startsidan",
+    "page_not_found": "Sidan hittades inte",
     "style": {
       "h1": "Font",
       "sidebar": {
@@ -81,24 +81,229 @@
       },
       "alternating": {
         "meta": {
-          "title": "Alternerande teckensnittsgenerator"
+          "title": "Alternerande Teckensnittsgenerator",
+          "description": "Skapa uppmärksammande växlande textstilar som alternerar mellan olika teckensnitt med vår gratis generator."
         }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Exotisk Teckensnittsgenerator | 🌍 Unika Unicode-teckensnitt",
+          "description": "Transformera din text till exotiska och unika teckensnittsstilar med special-Unicode-tecken från olika skriftsystem. Perfekt för att sticka ut på sociala medier."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Matematisk Teckensnittsgenerator | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Generera matematiska och vetenskapliga textstilar inklusive dubbelsidig, skript och fraktur-teckensnitt perfekta för ekvationer och akademiskt innehåll."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Dekorativ Teckensnittsgenerator | ✨ Stilig Text",
+          "description": "Skapa vacker dekorativ text med bubblor, rutor och unika Unicode-tecken som gör ditt innehåll sticka ut."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Vintage Teckensnittsgenerator | 📜 Klassiska Textstilar",
+          "description": "Generera vintage- och klassiska teckensnittsstilar inklusive fraktur, skript och traditionella serif-teckensnitt för en tidlös look."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Modern Teckensnittsgenerator | 🎯 Rena Samtida Teckensnitt",
+          "description": "Skapa snygga, moderna textstilar med rena sans-serif och monospace-teckensnitt perfekta för professionellt och samtida innehåll."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Artystisk Teckensnittsgenerator | 🎨 Kreativa Textstilar",
+          "description": "Transformera din text till artystiska och kreativa teckensnittsstilar med skript, fraktur och unika bokstavsliknande tecken."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Rundad Teckensnittsgenerator | ⭕ Mjuka Bubbla-teckensnitt",
+          "description": "Generera runda och mjuka textstilar med bubbla-bokstäver och kurvade teckensnitt som ger din text en vänlig, tillgänglig look."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Skarp Teckensnittsgenerator | ⚡ Vinklade Textstilar",
+          "description": "Skapa skarp, vinklad text med fyrkantiga och fetstil teckensnitt perfekta för teknikintresserade och moderna design."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Handskriven Teckensnittsgenerator | ✍️ Skript-text",
+          "description": "Generera äkta handskrift-stilad text med skript- och kursivteckensnitt som lägger till en personlig, mänsklig touch till ditt innehåll."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Spel-teckensnittsgenerator | 🎮 Spel-stilad Text",
+          "description": "Skapa spel-stilad text med pixliga, retro och fetstil teckensnitt perfekta för gamers och spel-innehåll."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Retro Teckensnittsgenerator | 🕹️ 8-bit-stilad Text",
+          "description": "Generera retro- och vintage 8-bit-stilad text med monospace- och pixliga teckensnitt som påminner om klassisk datoranvändning."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Elegant Teckensnittsgenerator | 💎 Sofistikerad Text",
+          "description": "Skapa elegant och sofistikerad text med skript, serif-kursiv och förädlade teckensnitt för en klassy, högkvalitativ look."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Lekfull Teckensnittsgenerator | 🎪 Roliga Textstilar",
+          "description": "Generera rolig och lekfull text med bubblor, roterade tecken och fantasifulla teckensnitt som lägger till glädje och energi till ditt innehåll."
+        }
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Förvandla Din Text till Fantastiska Typsnitt",
+        "subtitle": "Generera stiliga Unicode-typsnitt direkt för sociala medier, meddelanden och kreativa projekt",
+        "stats": "Används av över 100 000 innehållsskapare världen över"
+      },
+      "features": {
+        "title": "Varför Välja Vår Typsnittsgenerator",
+        "subtitle": "Professionell textstilisering med funktioner du inte hittar någon annanstans",
+        "instant": {
+          "title": "Omedelbar Generering",
+          "description": "Transformera din text i realtid med vår blixtsnabba generator. Se resultat medan du skriver."
+        },
+        "unicode": {
+          "title": "Äkta Unicode-typsnitt",
+          "description": "Alla typsnitt använder äkta Unicode-tecken som fungerar på alla plattformar utan specialappar."
+        },
+        "variety": {
+          "title": "100+ Typsnittsstile",
+          "description": "Från fet och kursiv till snygg och cool - hitta den perfekta stilen för alla tillfällen."
+        },
+        "copy": {
+          "title": "Ett-Klicks Kopiering",
+          "description": "Kopiera omedelbart stiliserad text till urklipp och klistra in var du vill."
+        },
+        "free": {
+          "title": "100% Gratis",
+          "description": "Ingen registrering, inga dolda avgifter, inga vattenmärken. Helt gratis att använda för alltid."
+        },
+        "compatible": {
+          "title": "Universell Kompatibilitet",
+          "description": "Fungerar på Facebook, Twitter, Instagram, WhatsApp, Discord och alla större plattformar."
+        }
+      },
+      "benefits": {
+        "title": "Varför Du Behöver en Typsnittsgenerator",
+        "subtitle": "Stick ut i mängden med text som fångar uppmärksamhet och uttrycker din unika stil",
+        "visibility": {
+          "title": "Öka Din Synlighet",
+          "description": "Stiliga text fångar uppmärksamhet i trånga sociala medie-flöden, ökar engagemang på dina inlägg med upp till 300%.",
+          "tag": "Mer Engagemang"
+        },
+        "expression": {
+          "title": "Uttryck Din Personlighet",
+          "description": "Olika typsnitt förmedlar olika känslor. Välj stilar som matchar ditt varumärke eller personliga vibb perfekt.",
+          "tag": "Unik Identitet"
+        },
+        "professional": {
+          "title": "Stick Ut Professionellt",
+          "description": "Gör dina företagsprofiler, biografier och innehåll mer minnesvärt med distinkt typografi.",
+          "tag": "Varumärkeskraft"
+        },
+        "creative": {
+          "title": "Frigör Kreativiteten",
+          "description": "Perfekt för artister, designers och innehållsskapare som vill lägga till visuell flair till sitt arbete.",
+          "tag": "Kreativ Frihet"
+        }
+      },
+      "howto": {
+        "title": "Hur Man Använder Typsnittsgeneratorn",
+        "subtitle": "Tre enkla steg för att skapa fantastisk text",
+        "step1": {
+          "title": "Skriv Din Text",
+          "description": "Ange valfri text du vill stilisera i inmatningsrutan ovan"
+        },
+        "step2": {
+          "title": "Välj Din Stil",
+          "description": "Bläddra igenom 100+ typsnittsstile och välj din favorit"
+        },
+        "step3": {
+          "title": "Kopiera & Klistra in",
+          "description": "Klicka på kopieringsknappen och klistra in din stiliserade text var som helst"
+        }
+      },
+      "faq": {
+        "title": "Vanliga Frågor",
+        "q1": {
+          "question": "Är detta äkta typsnitt eller bara bilder?",
+          "answer": "Detta är äkta Unicode-tecken, inte bilder. De fungerar som riktig text som du kan kopiera, klistra in, redigera och använda var som helst utan specialprogramvara."
+        },
+        "q2": {
+          "question": "Kommer dessa typsnitt att fungera på alla enheter?",
+          "answer": "Ja! Eftersom vi använder Unicode-tecken fungerar dessa typsnitt på alla enheter (iOS, Android, Windows, Mac, Linux) och alla plattformar (Facebook, Twitter, Instagram, WhatsApp, Discord, etc.) utan några specialappar."
+        },
+        "q3": {
+          "question": "Är denna typsnittsgenerator verkligen gratis?",
+          "answer": "Absolut! Vår typsnittsgenerator är 100% gratis att använda utan registrering krävs, inga dolda avgifter och inga vattenmärken. Generera så många stiliga texter du vill, när du vill."
+        },
+        "q4": {
+          "question": "Kan jag använda dessa typsnitt för kommersiella ändamål?",
+          "answer": "Ja! Unicode-tecknen är en del av Unicode-standarden, vilket innebär att du kan använda dem fritt för både personliga och kommersiella projekt utan några licensbegränsningar."
+        },
+        "q5": {
+          "question": "Varför visas vissa typsnitt inte korrekt?",
+          "answer": "Även om våra typsnitt fungerar på de flesta plattformar kan vissa äldre enheter eller appar inte stödja alla Unicode-tecken. Typsnitten bör fungera perfekt på alla moderna enheter och större sociala medie-plattformar."
+        },
+        "q6": {
+          "question": "Kan jag föreslå nya typsnittsstilar?",
+          "answer": "Vi älskar feedback! Även om vi bara kan använda Unicode-tecken som finns i standarden, letar vi alltid efter att lägga till nya kreativa typsnittskombinationer. Kontakta oss med dina förslag!"
+        }
+      },
+      "popular": {
+        "title": "Trendande Typsnittsstilar",
+        "subtitle": "Upptäck de mest populära och kreativa typsnittsstilarna som älskas av vår community",
+        "badge": "Populära Stilar",
+        "try_now": "Prova nu",
+        "explore_all": "Utforska Alla Typsnittsstilar"
+      },
+      "tools": {
+        "title": "Mer Hjälpsamma Verktyg",
+        "subtitle": "Professionella verktyg för webbutvecklare, designers och innehållsskapare"
       }
     },
     "slug": {
       "menu": {
         "bold": "Djärv",
-        "fancy": "Lust",
+        "fancy": "Snygg",
         "italic": "Kursiv",
-        "cool": "Sval",
+        "cool": "Cool",
         "bold-italic": "Fet kursiv",
         "small": "Små",
         "normal": "Normal",
-        "underline": "Betona",
+        "underline": "Understruken",
         "bubble-text": "Bubbla text",
         "square-text": "Fyrkantig text",
         "cursive": "Kursiv",
-        "alternating": "Omväxlande"
+        "alternating": "Alternerande",
+        "exotic": "Exotisk",
+        "mathematical": "Matematisk",
+        "decorative": "Dekorativ",
+        "vintage": "Vintage",
+        "modern": "Modern",
+        "artistic": "Artystisk",
+        "rounded": "Rundad",
+        "sharp": "Skarp",
+        "handwritten": "Handskriven",
+        "gaming": "Spel",
+        "retro": "Retro",
+        "elegant": "Elegant",
+        "playful": "Lekfull"
       },
       "topic": {
         "handwriting": "Handstil"
@@ -133,6 +338,88 @@
     "shared": {
       "copy": "Kopiera",
       "copyed": "Kopierade!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Skriv text här för att se fantastiska typsnittskonverteringar...",
+        "characters": "tecken",
+        "emptyState": {
+          "title": "Börja skriva för att se fantastiska typsnittskonverteringar!",
+          "subtitle": "Skriv valfri text ovan och se den förvandlas till vackra teckensnittsstilar."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Kopiera",
+        "copied": "Kopierat!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Genererade typsnitt",
+        "stylesAvailable": "stilar tillgängliga",
+        "textEffects": "Texteffekter",
+        "placeholder": "Skriv för att se konverteringar...",
+        "noFonts": {
+          "title": "Inga typsnitt tillgängliga för denna stil",
+          "subtitle": "Försök välja en annan stil från menyn"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Typsnittsgenerator",
+        "createStunning": "Skapa fantastisk {style}-text på sekunder. Perfekt för att få ditt innehåll att sticka ut på sociala medier, webbplatser och kreativa projekt.",
+        "about": "Om {style}-text",
+        "perfectFor": "Perfekt för:",
+        "tipsTitle": "Tips för bästa resultat",
+        "tips": {
+          "tip1": "Använd korta fraser för maximal effekt",
+          "tip2": "Perfekt för sociala medie-bios och rubriker",
+          "tip3": "Fungerar på alla större plattformar (Facebook, Instagram, Twitter, etc.)",
+          "tip4": "Kopiera och klistra in var som helst - inga specialappar behövs"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Facebook-inlägg och uppdateringar",
+            "case2": "Twitter-rubriker",
+            "case3": "Instagram-bildtexter",
+            "case4": "YouTube-videotitlar"
+          },
+          "italic": {
+            "case1": "Poesi och citat",
+            "case2": "Boktitlar",
+            "case3": "Kreativt skrivande",
+            "case4": "Eleganta signaturer"
+          },
+          "fancy": {
+            "case1": "Sociala medie-profiler",
+            "case2": "Bröllopsinbjudningar",
+            "case3": "Konstprojekt",
+            "case4": "Kreativt varumärke"
+          },
+          "cool": {
+            "case1": "Spel-användarnamn",
+            "case2": "Sociala medie-inlägg",
+            "case3": "Personliga webbplatser",
+            "case4": "Kreativa projekt"
+          },
+          "small": {
+            "case1": "Sociala medie-kommentarer",
+            "case2": "Fotnoter",
+            "case3": "Subtil betoning",
+            "case4": "Kompakt text"
+          },
+          "underline": {
+            "case1": "Viktiga meddelanden",
+            "case2": "Navigeringselement",
+            "case3": "Call-to-action-text",
+            "case4": "Betoningmarkörer"
+          },
+          "default": {
+            "case1": "Sociala medie-inlägg",
+            "case2": "Kreativa projekt",
+            "case3": "Personliga meddelanden",
+            "case4": "Digitala signaturer"
+          }
+        }
+      }
     }
   }
 }

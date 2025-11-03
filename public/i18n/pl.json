@@ -1,7 +1,120 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Przejdź do strony głównej",
+    "page_not_found": "Strona nie znaleziona",
+    "home": {
+      "hero": {
+        "title": "Przekształć Swój Tekst W Piękne Czcionki",
+        "subtitle": "Natychmiast generuj stylowe czcionki Unicode dla mediów społecznościowych, wiadomości i projektów kreatywnych",
+        "stats": "Używany przez 100 000+ twórców treści na całym świecie"
+      },
+      "features": {
+        "title": "Dlaczego Warto Wybrać Nasz Generator Czcionek",
+        "subtitle": "Stylizacja tekstu o profesjonalnej jakości z funkcjami, których nie znajdziesz nigdzie indziej",
+        "instant": {
+          "title": "Natychmiastowe Generowanie",
+          "description": "Przekształć swój tekst w czasie rzeczywistym za pomocą naszego błyskawicznego generatora. Zobacz wyniki podczas pisania."
+        },
+        "unicode": {
+          "title": "Prawdziwe Czcionki Unicode",
+          "description": "Wszystkie czcionki używają prawdziwych znaków Unicode, które działają na wszystkich platformach bez specjalnych aplikacji."
+        },
+        "variety": {
+          "title": "100+ Stylów Czcionek",
+          "description": "Od pogrubionych i kursywy po fantazyjne i fajne - znajdź idealny styl na każdą okazję."
+        },
+        "copy": {
+          "title": "Kopiowanie Jednym Kliknięciem",
+          "description": "Natychmiast skopiuj stylizowany tekst do schowka i wklej gdzie chcesz."
+        },
+        "free": {
+          "title": "100% Darmowy",
+          "description": "Bez rejestracji, bez ukrytych opłat, bez znaków wodnych. Całkowicie darmowy na zawsze."
+        },
+        "compatible": {
+          "title": "Uniwersalna Zgodność",
+          "description": "Działa na Facebooku, Twitterze, Instagramie, WhatsApp, Discord i wszystkich głównych platformach."
+        }
+      },
+      "benefits": {
+        "title": "Dlaczego Potrzebujesz Generatora Czcionek",
+        "subtitle": "Wyróżnij się w tłumie tekstem, który przyciąga uwagę i wyraża Twój unikalny styl",
+        "visibility": {
+          "title": "Zwiększ Swoją Widoczność",
+          "description": "Stylowy tekst przyciąga uwagę w zatłoczonych social media feedach, zwiększając zaangażowanie w Twoich postach nawet o 300%.",
+          "tag": "Więcej Interakcji"
+        },
+        "expression": {
+          "title": "Wyraź Swoją Osobowość",
+          "description": "Różne czcionki przekazują różne emocje. Wybierz style, które idealnie pasują do Twojej marki lub osobistego wibracji.",
+          "tag": "Unikalna Tożsamość"
+        },
+        "professional": {
+          "title": "Wyróżnij się Profesjonalnie",
+          "description": "Spraw, aby Twoje profile firmowe, biografie i treści były bardziej zapadające w pamięć dzięki odważnej typografii.",
+          "tag": "Siła Marki"
+        },
+        "creative": {
+          "title": "Uwolnij Kreatywność",
+          "description": "Idealny dla artystów, projektantów i twórców treści, którzy chcą dodać wizualny pazur swoim dziełom.",
+          "tag": "Kreatywna Wolność"
+        }
+      },
+      "howto": {
+        "title": "Jak Używać Generatora Czcionek",
+        "subtitle": "Trzy proste kroki, aby stworzyć piękny tekst",
+        "step1": {
+          "title": "Wpisz Swój Tekst",
+          "description": "Wpisz dowolny tekst, który chcesz stylizować w polu wejściowym powyżej"
+        },
+        "step2": {
+          "title": "Wybierz Swoj Styl",
+          "description": "Przeglądaj 100+ stylów czcionek i wybierz swój ulubiony"
+        },
+        "step3": {
+          "title": "Kopiuj i Wklej",
+          "description": "Kliknij przycisk kopiowania i wklej swój stylizowany tekst gdziekolwiek chcesz"
+        }
+      },
+      "faq": {
+        "title": "Najczęściej Zadawane Pytania",
+        "q1": {
+          "question": "Czy to prawdziwe czcionki czy tylko obrazy?",
+          "answer": "To są prawdziwe znaki Unicode, a nie obrazy. Działają jako prawdziwy tekst, który możesz kopiować, wklejać, edytować i używać wszędzie bez specjalnego oprogramowania."
+        },
+        "q2": {
+          "question": "Czy te czcionki działają na wszystkich urządzeniach?",
+          "answer": "Tak! Ponieważ używamy znaków Unicode, te czcionki działają na wszystkich urządzeniach (iOS, Android, Windows, Mac, Linux) i wszystkich platformach (Facebook, Twitter, Instagram, WhatsApp, Discord itp.) bez specjalnych aplikacji."
+        },
+        "q3": {
+          "question": "Czy ten generator czcionek jest naprawdę darmowy?",
+          "answer": "Absolutnie! Nasz generator czcionek jest 100% darmowy w użyciu bez rejestracji, bez ukrytych opłat i bez znaków wodnych. Generuj tyle stylowych tekstów, ile chcesz, kiedy chcesz."
+        },
+        "q4": {
+          "question": "Czy mogę używać tych czcionek do celów komercyjnych?",
+          "answer": "Tak! Znaki Unicode są częścią Standardu Unicode, co oznacza, że możesz je swobodnie używać zarówno do projektów osobistych, jak i komercyjnych bez żadnych ograniczeń licencyjnych."
+        },
+        "q5": {
+          "question": "Dlaczego niektóre czcionki nie wyświetlają się poprawnie?",
+          "answer": "Chociaż nasze czcionki działają na większości platform, niektóre starsze urządzenia lub aplikacje mogą nie obsługiwać wszystkich znaków Unicode. Czcionki powinny działać idealnie na wszystkich nowoczesnych urządzeniach i głównych platformach mediów społecznościowych."
+        },
+        "q6": {
+          "question": "Czy mogę sugerować nowe style czcionek?",
+          "answer": "Uwielbiamy opinie! Chociaż możemy używać tylko istniejących w standardzie znaków Unicode, zawsze szukamy dodawania nowych i kreatywnych kombinacji czcionek. Skontaktuj się z nami ze swoimi sugestiami!"
+        }
+      },
+      "popular": {
+        "title": "Trendingowe Style Czcionek",
+        "subtitle": "Odkryj najpopularniejsze i kreatywne style czcionek uwielbiane przez naszą społeczność",
+        "badge": "Popularne Style",
+        "try_now": "Wypróbuj teraz",
+        "explore_all": "Odkryj Wszystkie Style Czcionek"
+      },
+      "tools": {
+        "title": "Więcej Przydatnych Narzędzi",
+        "subtitle": "Profesjonalne narzędzia dla deweloperów internetowych, projektantów i twórców treści"
+      }
+    },
     "style": {
       "h1": "Chrzcielnica",
       "sidebar": {
@@ -81,7 +194,86 @@
       },
       "alternating": {
         "meta": {
-          "title": "Generator czcionek przemiennych"
+          "title": "Generator Czcionek Przemiennych",
+          "description": "Twórz przyciągające wzrok style tekstu przemiennego, które przełączają się między różnymi czcionkami za pomocą naszego darmowego generatora."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Egzotyczny Generator Czcionek | 🌍 Unikalne Czcionki Unicode",
+          "description": "Przekształć swój tekst w egzotyczne i unikalne style czcionek używając specjalnych znaków Unicode z różnych systemów pisma. Idealny do wyróżnienia się w mediach społecznościowych."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Matematyczny Generator Czcionek | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Generuj matematyczne i naukowe style tekstu, w tym czcionki podwójnie kreślone, skryptowe i frakturowe, idealne do równań i treści akademickich."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Dekoracyjny Generator Czcionek | ✨ Stylowy Tekst",
+          "description": "Twórz piękny dekoracyjny tekst z bąbelkami, kwadratami i unikalnymi znakami Unicode, które sprawią, że Twoja treść się wyróżni."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Vintage Generator Czcionek | 📜 Klasyczne Style Tekstu",
+          "description": "Generuj vintage i klasyczne style czcionek, włączając frakturę, skrypt i tradycyjne czcionki szeryfowe dla ponadczasowego wyglądu."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Nowoczesny Generator Czcionek | 🎯 Czyste Współczesne Czcionki",
+          "description": "Twórz eleganckie, nowoczesne style tekstu z czystymi czcionkami bezszeryfowymi i o stałej szerokości, idealne dla profesjonalnych i współczesnych treści."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Artystyczny Generator Czcionek | 🎨 Kreatywne Style Tekstu",
+          "description": "Przekształć swój tekst w artystyczne i kreatywne style czcionek z użyciem skryptów, fraktury i unikalnych znaków przypominających litery."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Okrągły Generator Czcionek | ⭕ Miękkie Czcionki Bąbelkowe",
+          "description": "Generuj zaokrąglone i miękkie style tekstu z czcionkami bąbelkowymi i zaokrąglonymi, które nadają Twojemu tekstowi przyjazny, dostępny wygląd."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Ostry Generator Czcionek | ⚡ Kanciaste Style Tekstu",
+          "description": "Twórz ostry, kanciasty tekst z czcionkami kwadratowymi i pogrubionymi, idealnymi dla technologicznie świadomych i nowoczesnych projektów."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Ręcznie Pisany Generator Czcionek | ✍️ Tekst Skryptowy",
+          "description": "Generuj autentyczny tekst w stylu ręcznego pisma z czcionkami skryptowymi i kursywą, które dodają osobisty, ludzki akcent do Twojej treści."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Gamingowy Generator Czcionek | 🎮 Tekst w Stylu Gry",
+          "description": "Twórz tekst w stylu gamingowym z pikselowymi, retro i pogrubionymi czcionkami, idealnymi dla graczy i treści gamingowych."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Retro Generator Czcionek | 🕹️ Tekst w Stylu 8-bit",
+          "description": "Generuj retro i vintage tekst w stylu 8-bit z czcionkami o stałej szerokości i pikselowymi, przypominającymi klasyczne komputery."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Elegancki Generator Czcionek | 💎 Wyrafinowany Tekst",
+          "description": "Twórz elegancki i wyrafinowany tekst z czcionkami skryptowymi, szeryfowymi kursywą i dopracowanymi, dla klasycznego, luksusowego wyglądu."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Zabawny Generator Czcionek | 🎪 Śmieszne Style Tekstu",
+          "description": "Generuj zabawny i pełen życia tekst z bąbelkami, obróconymi znakami i fantazyjnymi czcionkami, które dodają radość i energię do Twojej treści."
         }
       }
     },
@@ -89,19 +281,32 @@
       "menu": {
         "bold": "Pogrubiony",
         "fancy": "Wymyślny",
-        "italic": "italski",
+        "italic": "Kursywa",
         "cool": "Fajny",
         "bold-italic": "Pogrubiona kursywa",
         "small": "Mały",
-        "normal": "Normalna",
-        "underline": "Podkreślać",
+        "normal": "Normalny",
+        "underline": "Podkreślenie",
         "bubble-text": "Tekst bąbelkowy",
         "square-text": "Kwadratowy tekst",
         "cursive": "Kursywny",
-        "alternating": "Zmienny"
+        "alternating": "Przemienny",
+        "exotic": "Egzotyczny",
+        "mathematical": "Matematyczny",
+        "decorative": "Dekoracyjny",
+        "vintage": "Vintage",
+        "modern": "Nowoczesny",
+        "artistic": "Artystyczny",
+        "rounded": "Okrągły",
+        "sharp": "Ostry",
+        "handwritten": "Ręcznie pisany",
+        "gaming": "Gamingowy",
+        "retro": "Retro",
+        "elegant": "Elegancki",
+        "playful": "Zabawny"
       },
       "topic": {
-        "handwriting": "Pismo"
+        "handwriting": "Pismo ręczne"
       }
     },
     "meta": {
@@ -131,8 +336,90 @@
       }
     },
     "shared": {
-      "copy": "Kopia",
+      "copy": "Kopiuj",
       "copyed": "Skopiowano!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Wpisz tutaj tekst, aby zobaczyć wspaniałe konwersje czcionek...",
+        "characters": "znaków",
+        "emptyState": {
+          "title": "Zacznij pisać, aby zobaczyć wspaniałe konwersje czcionek!",
+          "subtitle": "Wpisz tekst powyżej i zobacz, jak zamienia się w piękne stylizowane czcionki."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Kopiuj",
+        "copied": "Skopiowano!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Wygenerowane czcionki",
+        "stylesAvailable": "stylów dostępnych",
+        "textEffects": "Efekty tekstu",
+        "placeholder": "Wpisz, aby zobaczyć konwersję...",
+        "noFonts": {
+          "title": "Brak dostępnych czcionek dla tego stylu",
+          "subtitle": "Spróbuj wybrać inny styl z menu"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Generator Czcionek",
+        "createStunning": "Twórz wspaniały tekst {style} w kilka sekund. Idealny, aby Twoja treść wyróżniała się w mediach społecznościowych, na stronach internetowych i w projektach kreatywnych.",
+        "about": "O tekście {style}",
+        "perfectFor": "Idealny dla:",
+        "tipsTitle": "Wskazówki dla najlepszych efektów",
+        "tips": {
+          "tip1": "Używaj krótkich zwrotów dla maksymalnego efektu",
+          "tip2": "Idealny do biogramów i nagłówków w mediach społecznościowych",
+          "tip3": "Działa na wszystkich głównych platformach (Facebook, Instagram, Twitter itp.)",
+          "tip4": "Kopiuj i wklejaj wszędzie - nie są potrzebne specjalne aplikacje"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Posty i aktualizacje na Facebooku",
+            "case2": "Nagłówki na Twitterze",
+            "case3": "Biogramy na Instagramie",
+            "case4": "Tytuły filmów na YouTube"
+          },
+          "italic": {
+            "case1": "Wiersze i cytaty",
+            "case2": "Tytuły książek",
+            "case3": "Pisanie kreatywne",
+            "case4": "Eleganckie podpisy"
+          },
+          "fancy": {
+            "case1": "Biogramy w mediach społecznościowych",
+            "case2": "Zaproszenia ślubne",
+            "case3": "Projekty artystyczne",
+            "case4": "Kreatywne branding"
+          },
+          "cool": {
+            "case1": "Nazwy użytkowników w grach",
+            "case2": "Posty w mediach społecznościowych",
+            "case3": "Osobiste strony internetowe",
+            "case4": "Projekty kreatywne"
+          },
+          "small": {
+            "case1": "Komentarze w mediach społecznościowych",
+            "case2": "Przypisy",
+            "case3": "Subtelne podkreślenia",
+            "case4": "Zwarty tekst"
+          },
+          "underline": {
+            "case1": "Ważne ogłoszenia",
+            "case2": "Elementy nawigacyjne",
+            "case3": "Tekst wezwań do działania",
+            "case4": "Znaczniki podkreśleń"
+          },
+          "default": {
+            "case1": "Posty w mediach społecznościowych",
+            "case2": "Projekty kreatywne",
+            "case3": "Wiadomości osobiste",
+            "case4": "Cyfrowe podpisy"
+          }
+        }
+      }
     }
   }
 }

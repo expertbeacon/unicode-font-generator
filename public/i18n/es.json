@@ -1,11 +1,124 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Ir a la página de inicio",
+    "page_not_found": "Página no encontrada",
+    "home": {
+      "hero": {
+        "title": "Transforma tu texto en fuentes impresionantes",
+        "subtitle": "Genera fuentes Unicode elegantes al instante para redes sociales, mensajería y proyectos creativos",
+        "stats": "Utilizado por más de 100,000 creadores de contenido en todo el mundo"
+      },
+      "features": {
+        "title": "Por qué elegir nuestro generador de fuentes",
+        "subtitle": "Estilizado de texto de nivel profesional con características que no encontrarás en ningún otro lugar",
+        "instant": {
+          "title": "Generación instantánea",
+          "description": "Transforma tu texto en tiempo real con nuestro generador ultrarrápido. Ve los resultados mientras escribes."
+        },
+        "unicode": {
+          "title": "Fuentes Unicode reales",
+          "description": "Todas las fuentes usan caracteres Unicode genuinos que funcionan en todas las plataformas sin aplicaciones especiales."
+        },
+        "variety": {
+          "title": "100+ estilos de fuentes",
+          "description": "Desde negrita y cursiva hasta elegante y genial: encuentra el estilo perfecto para cualquier ocasión."
+        },
+        "copy": {
+          "title": "Copiar con un clic",
+          "description": "Copia instantáneamente el texto estilizado a tu portapapeles y pégalo donde quieras."
+        },
+        "free": {
+          "title": "100% gratis",
+          "description": "Sin registro, sin tarifas ocultas, sin marcas de agua. Completamente gratis para usar siempre."
+        },
+        "compatible": {
+          "title": "Compatibilidad universal",
+          "description": "Funciona en Facebook, Twitter, Instagram, WhatsApp, Discord y todas las plataformas principales."
+        }
+      },
+      "benefits": {
+        "title": "Por qué necesitas un generador de fuentes",
+        "subtitle": "Destaca en la multitud con texto que capta la atención y expresa tu estilo único",
+        "visibility": {
+          "title": "Aumenta tu visibilidad",
+          "description": "El texto elegante llama la atención en feeds de redes sociales abarrotados, aumentando la participación en tus publicaciones hasta en un 300%.",
+          "tag": "Más interacción"
+        },
+        "expression": {
+          "title": "Expresa tu personalidad",
+          "description": "Diferentes fuentes transmiten diferentes emociones. Elige estilos que coincidan perfectamente con tu marca o vibes personales.",
+          "tag": "Identidad única"
+        },
+        "professional": {
+          "title": "Destaca profesionalmente",
+          "description": "Haz que tus perfiles comerciales, biografías y contenido sean más memorables con tipografía distintiva.",
+          "tag": "Poder de marca"
+        },
+        "creative": {
+          "title": "Libera tu creatividad",
+          "description": "Perfecto para artistas, diseñadores y creadores de contenido que quieren añadir brillo visual a su trabajo.",
+          "tag": "Libertad creativa"
+        }
+      },
+      "howto": {
+        "title": "C��mo usar el generador de fuentes",
+        "subtitle": "Tres simples pasos para crear texto impresionante",
+        "step1": {
+          "title": "Escribe tu texto",
+          "description": "Ingresa cualquier texto que quieras estilizar en el cuadro de entrada de arriba"
+        },
+        "step2": {
+          "title": "Elige tu estilo",
+          "description": "Navega por más de 100 estilos de fuentes y elige tu favorito"
+        },
+        "step3": {
+          "title": "Copia y pega",
+          "description": "Haz clic en el botón de copiar y pega tu texto estilizado en cualquier lugar"
+        }
+      },
+      "faq": {
+        "title": "Preguntas frecuentes",
+        "q1": {
+          "question": "¿Estas son fuentes reales o solo imágenes?",
+          "answer": "Estos son caracteres Unicode genuinos, no imágenes. Funcionan como texto real que puedes copiar, pegar, editar y usar en cualquier lugar sin software especial."
+        },
+        "q2": {
+          "question": "¿Funcionarán estas fuentes en todos los dispositivos?",
+          "answer": "¡Sí! Porque usamos caracteres Unicode, estas fuentes funcionan en todos los dispositivos (iOS, Android, Windows, Mac, Linux) y todas las plataformas (Facebook, Twitter, Instagram, WhatsApp, Discord, etc.) sin ninguna aplicación especial."
+        },
+        "q3": {
+          "question": "¿Es realmente gratis este generador de fuentes?",
+          "answer": "¡Absolutamente! Nuestro generador de fuentes es 100% gratis para usar sin registro requerido, sin tarifas ocultas y sin marcas de agua. Genera tantos textos elegantes como quieras, cuando quieras."
+        },
+        "q4": {
+          "question": "¿Puedo usar estas fuentes para fines comerciales?",
+          "answer": "¡Sí! Los caracteres Unicode son parte del Estándar Unicode, lo que significa que puedes usarlos libremente tanto para proyectos personales como comerciales sin ninguna restricción de licencia."
+        },
+        "q5": {
+          "question": "¿Por qué algunas fuentes no se muestran correctamente?",
+          "answer": "Aunque nuestras fuentes funcionan en la mayoría de plataformas, algunos dispositivos o aplicaciones más antiguas pueden no soportar todos los caracteres Unicode. Las fuentes deberían funcionar perfectamente en todos los dispositivos modernos y plataformas principales de redes sociales."
+        },
+        "q6": {
+          "question": "¿Puedo sugerir nuevos estilos de fuentes?",
+          "answer": "¡Nos encanta el feedback! Aunque solo podemos usar caracteres Unicode que existan en el estándar, siempre buscamos añadir nuevas y creativas combinaciones de fuentes. ¡Contáctanos con tus sugerencias!"
+        }
+      },
+      "popular": {
+        "title": "Estilos de fuentes en tendencia",
+        "subtitle": "Descubre los estilos de fuentes más populares y creativos amados por nuestra comunidad",
+        "badge": "Estilos populares",
+        "try_now": "Pruébalo ahora",
+        "explore_all": "Explorar todos los estilos de fuentes"
+      },
+      "tools": {
+        "title": "Más herramientas útiles",
+        "subtitle": "Herramientas profesionales para desarrolladores web, diseñadores y creadores de contenido"
+      }
+    },
     "style": {
       "h1": "Fuente",
       "sidebar": {
-        "all": "TODO"
+        "all": "TODAS"
       },
       "bold": {
         "meta": {
@@ -81,7 +194,86 @@
       },
       "alternating": {
         "meta": {
-          "title": "Generador de fuentes alternas"
+          "title": "Generador de fuentes alternas",
+          "description": "Crea estilos de texto alternantes llamativos que alternan entre diferentes fuentes con nuestro generador gratuito."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Generador de fuentes exóticas | 🌍 Fuentes Unicode únicas",
+          "description": "Transforma tu texto en estilos de fuentes exóticas y únicas usando caracteres especiales Unicode de varios sistemas de escritura. Perfecto para destacar en redes sociales."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Generador de fuentes matemáticas | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Genera estilos de texto matemáticos y científicos incluyendo fuentes de doble trazo, script y góticas perfectas para ecuaciones y contenido académico."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Generador de fuentes decorativas | ✨ Texto elegante",
+          "description": "Crea texto decorativo hermoso con burbujas, cuadrados y caracteres Unicode únicos que hacen que tu contenido destaque."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Generador de fuentes vintage | 📜 Estilos de texto clásicos",
+          "description": "Genera estilos de fuentes vintage y clásicas incluyendo góticas, script y fuentes serif tradicionales para una apariencia atemporal."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Generador de fuentes modernas | 🎯 Fuentes contemporáneas limpias",
+          "description": "Crea estilos de texto modernos y elegantes con fuentes sans-serif y monoespaciadas limpias perfectas para contenido profesional y contemporáneo."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Generador de fuentes artísticas | 🎨 Estilos de texto creativos",
+          "description": "Transforma tu texto en estilos de fuentes artísticas y creativas con script, góticas y caracteres similares a letras únicas."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Generador de fuentes redondeadas | ⭕ Fuentes de burbuja suaves",
+          "description": "Genera estilos de texto redondeados y suaves con letras de burbuja y fuentes curvas que le dan a tu texto una apariencia amigable y accesible."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Generador de fuentes afiladas | ⚡ Estilos de texto angulares",
+          "description": "Crea texto afilado y angular con fuentes cuadradas y negritas perfectas para diseños modernos y expertos en tecnología."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Generador de fuentes manuscritas | ✍️ Texto script",
+          "description": "Genera texto estilo manuscrito auténtico con fuentes script y cursivas que añaden un toque personal y humano a tu contenido."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Generador de fuentes de gaming | 🎮 Texto estilo juego",
+          "description": "Crea texto estilo gaming con fuentes pixeladas, retro y negritas perfectas para gamers y contenido de gaming."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Generador de fuentes retro | 🕹️ Texto estilo 8-bit",
+          "description": "Genera texto retro y vintage estilo 8-bit con fuentes monoespaciadas y pixeladas que recuerdan a la computación clásica."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Generador de fuentes elegantes | 💎 Texto sofisticado",
+          "description": "Crea texto elegante y sofisticado con fuentes script, serif itálicas y refinadas para una apariencia de clase y exclusiva."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Generador de fuentes divertidas | 🎪 Estilos de texto divertidos",
+          "description": "Genera texto divertido y juguetón con burbujas, caracteres rotados y fuentes caprichosas que añaden alegría y energía a tu contenido."
         }
       }
     },
@@ -98,7 +290,20 @@
         "bubble-text": "Texto de burbuja",
         "square-text": "Texto cuadrado",
         "cursive": "Cursivo",
-        "alternating": "Alterno"
+        "alternating": "Alterno",
+        "exotic": "Exótico",
+        "mathematical": "Matemático",
+        "decorative": "Decorativo",
+        "vintage": "Vintage",
+        "modern": "Moderno",
+        "artistic": "Artístico",
+        "rounded": "Redondeado",
+        "sharp": "Afilado",
+        "handwritten": "Manuscrito",
+        "gaming": "Gaming",
+        "retro": "Retro",
+        "elegant": "Elegante",
+        "playful": "Divertido"
       },
       "topic": {
         "handwriting": "Escritura"
@@ -133,6 +338,88 @@
     "shared": {
       "copy": "Copiar",
       "copyed": "¡Copiado!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Escribe texto aquí para ver increíbles conversiones de fuentes...",
+        "characters": "caracteres",
+        "emptyState": {
+          "title": "¡Comienza a escribir para ver increíbles conversiones de fuentes!",
+          "subtitle": "Escribe cualquier texto arriba y mira cómo se convierte en hermosas fuentes estilizadas."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Copiar",
+        "copied": "¡Copiado!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Fuentes generadas",
+        "stylesAvailable": "estilos disponibles",
+        "textEffects": "Efectos de texto",
+        "placeholder": "Escribe para ver la conversión...",
+        "noFonts": {
+          "title": "No hay fuentes disponibles para este estilo",
+          "subtitle": "Intenta seleccionar un estilo diferente del menú"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Generador de fuentes",
+        "createStunning": "Crea impresionante texto {style} en segundos. Perfecto para destacar tu contenido en redes sociales, sitios web y proyectos creativos.",
+        "about": "Acerca del texto {style}",
+        "perfectFor": "Perfecto para:",
+        "tipsTitle": "Consejos para mejores resultados",
+        "tips": {
+          "tip1": "Usa frases cortas para máximo impacto",
+          "tip2": "Perfecto para biografías y títulos de redes sociales",
+          "tip3": "Funciona en todas las plataformas principales (Facebook, Instagram, Twitter, etc.)",
+          "tip4": "Copia y pega en cualquier lugar: no se necesitan aplicaciones especiales"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Publicaciones y actualizaciones de Facebook",
+            "case2": "Titulares de Twitter",
+            "case3": "Subtítulos de Instagram",
+            "case4": "Títulos de videos de YouTube"
+          },
+          "italic": {
+            "case1": "Poesía y citas",
+            "case2": "Títulos de libros",
+            "case3": "Escritura creativa",
+            "case4": "Firmas elegantes"
+          },
+          "fancy": {
+            "case1": "Biografías de redes sociales",
+            "case2": "Invitaciones de boda",
+            "case3": "Proyectos artísticos",
+            "case4": "Branding creativo"
+          },
+          "cool": {
+            "case1": "Nombres de usuario de gaming",
+            "case2": "Publicaciones de redes sociales",
+            "case3": "Sitios web personales",
+            "case4": "Proyectos creativos"
+          },
+          "small": {
+            "case1": "Comentarios de redes sociales",
+            "case2": "Notas al pie",
+            "case3": "Énfasis sutil",
+            "case4": "Texto compacto"
+          },
+          "underline": {
+            "case1": "Anuncios importantes",
+            "case2": "Elementos de navegación",
+            "case3": "Texto de llamada a la acción",
+            "case4": "Marcas de énfasis"
+          },
+          "default": {
+            "case1": "Publicaciones de redes sociales",
+            "case2": "Proyectos creativos",
+            "case3": "Mensajes personales",
+            "case4": "Firmas digitales"
+          }
+        }
+      }
     }
   }
 }

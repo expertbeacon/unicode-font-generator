@@ -1,7 +1,120 @@
 {
   "frontend": {
-    "go_to_homepage": "Go to homepage",
-    "page_not_found": "Page not found",
+    "go_to_homepage": "Vai alla homepage",
+    "page_not_found": "Pagina non trovata",
+    "home": {
+      "hero": {
+        "title": "Trasforma il tuo testo in caratteri fantastici",
+        "subtitle": "Genera istantaneamente caratteri Unicode eleganti per social media, messaggistica e progetti creativi",
+        "stats": "Utilizzato da oltre 100.000 creatori di contenuti in tutto il mondo"
+      },
+      "features": {
+        "title": "Perché scegliere il nostro generatore di caratteri",
+        "subtitle": "Stile di testo professionale con funzionalità che non troverai altrove",
+        "instant": {
+          "title": "Generazione istantanea",
+          "description": "Trasforma il tuo testo in tempo reale con il nostro generatore velocissimo. Vedi i risultati mentre scrivi."
+        },
+        "unicode": {
+          "title": "Veri caratteri Unicode",
+          "description": "Tutti i caratteri usano veri caratteri Unicode che funzionano su tutte le piattaforme senza app speciali."
+        },
+        "variety": {
+          "title": "100+ stili di caratteri",
+          "description": "Da grassetto e corsivo a fantasia e cool - trova lo stile perfetto per ogni occasione."
+        },
+        "copy": {
+          "title": "Copia con un clic",
+          "description": "Copia istantaneamente il testo stilizzato negli appunti e incollalo ovunque tu voglia."
+        },
+        "free": {
+          "title": "100% Gratuito",
+          "description": "Nessuna registrazione, nessun costo nascosto, nessun watermark. Completamente gratuito da usare per sempre."
+        },
+        "compatible": {
+          "title": "Compatibilità universale",
+          "description": "Funziona su Facebook, Twitter, Instagram, WhatsApp, Discord e tutte le principali piattaforme."
+        }
+      },
+      "benefits": {
+        "title": "Perché hai bisogno di un generatore di caratteri",
+        "subtitle": "Distinguiti dalla massa con testo che cattura l'attenzione ed esprime il tuo stile unico",
+        "visibility": {
+          "title": "Aumenta la tua visibilità",
+          "description": "Il testo stilizzato cattura l'attenzione nei feed social affollati, aumentando l'engagement sui tuoi post fino al 300%.",
+          "tag": "Più engagement"
+        },
+        "expression": {
+          "title": "Esprimi la tua personalità",
+          "description": "Caratteri diversi trasmettono emozioni diverse. Scegli stili che corrispondono perfettamente al tuo brand o al tuo stile personale.",
+          "tag": "Identità unica"
+        },
+        "professional": {
+          "title": "Distinguiti professionalmente",
+          "description": "Rendi i tuoi profili aziendali, bio e contenuti più memorabili con una tipografia distintiva.",
+          "tag": "Potenza del brand"
+        },
+        "creative": {
+          "title": "Libera la creatività",
+          "description": "Perfetto per artisti, designer e creator di contenuti che vogliono aggiungere un tocco visivo ai loro lavori.",
+          "tag": "Libertà creativa"
+        }
+      },
+      "howto": {
+        "title": "Come usare il generatore di caratteri",
+        "subtitle": "Tre semplici passaggi per creare testo fantastico",
+        "step1": {
+          "title": "Digita il tuo testo",
+          "description": "Inserisci qualsiasi testo che vuoi stilizzare nella casella di input qui sopra"
+        },
+        "step2": {
+          "title": "Scegli il tuo stile",
+          "description": "Sfoglia oltre 100 stili di caratteri e scegli il tuo preferito"
+        },
+        "step3": {
+          "title": "Copia e incolla",
+          "description": "Clicca il pulsante di copia e incolla il tuo testo stilizzato ovunque"
+        }
+      },
+      "faq": {
+        "title": "Domande frequenti",
+        "q1": {
+          "question": "Questi sono veri caratteri o solo immagini?",
+          "answer": "Questi sono veri caratteri Unicode, non immagini. Funzionano come testo vero che puoi copiare, incollare, modificare e usare ovunque senza software speciale."
+        },
+        "q2": {
+          "question": "Questi caratteri funzionano su tutti i dispositivi?",
+          "answer": "Sì! Poiché usiamo caratteri Unicode, questi caratteri funzionano su tutti i dispositivi (iOS, Android, Windows, Mac, Linux) e tutte le piattaforme (Facebook, Twitter, Instagram, WhatsApp, Discord, ecc.) senza app speciali."
+        },
+        "q3": {
+          "question": "Questo generatore di caratteri è davvero gratuito?",
+          "answer": "Assolutamente! Il nostro generatore di caratteri è 100% gratuito da usare senza registrazione richiesta, nessun costo nascosto e nessun watermark. Genera tutti i testi stilizzati che vuoi, quando vuoi."
+        },
+        "q4": {
+          "question": "Posso usare questi caratteri per scopi commerciali?",
+          "answer": "Sì! I caratteri Unicode sono parte dello Standard Unicode, il che significa che puoi usarli liberamente sia per progetti personali che commerciali senza restrizioni di licenza."
+        },
+        "q5": {
+          "question": "Perché alcuni caratteri non vengono visualizzati correttamente?",
+          "answer": "Sebbene i nostri caratteri funzionino sulla maggior parte delle piattaforme, alcuni dispositivi o app più vecchie potrebbero non supportare tutti i caratteri Unicode. I caratteri dovrebbero funzionare perfettamente su tutti i dispositivi moderni e le principali piattaforme di social media."
+        },
+        "q6": {
+          "question": "Posso suggerire nuovi stili di caratteri?",
+          "answer": "Amiamo i feedback! Sebbene possiamo usare solo caratteri Unicode che esistono nello standard, stiamo sempre cercando di aggiungere nuove e creative combinazioni di caratteri. Contattaci con i tuoi suggerimenti!"
+        }
+      },
+      "popular": {
+        "title": "Stili di caratteri di tendenza",
+        "subtitle": "Scopri gli stili di caratteri più popolari e creativi amati dalla nostra community",
+        "badge": "Stili popolari",
+        "try_now": "Provalo ora",
+        "explore_all": "Esplora tutti gli stili di caratteri"
+      },
+      "tools": {
+        "title": "Altri strumenti utili",
+        "subtitle": "Strumenti professionali per sviluppatori web, designer e creator di contenuti"
+      }
+    },
     "style": {
       "h1": "Font",
       "sidebar": {
@@ -81,7 +194,86 @@
       },
       "alternating": {
         "meta": {
-          "title": "Generatore di caratteri alternati"
+          "title": "Generatore di caratteri alternati",
+          "description": "Crea stili di testo alternati accattivanti che alternano tra diversi caratteri con il nostro generatore gratuito."
+        }
+      },
+      "exotic": {
+        "meta": {
+          "title": "Generatore di caratteri esotici | 🌍 Caratteri Unicode unici",
+          "description": "Trasforma il tuo testo in stili di carattere esotici e unici utilizzando caratteri Unicode speciali di vari sistemi di scrittura. Perfetto per distinguersi sui social media."
+        }
+      },
+      "mathematical": {
+        "meta": {
+          "title": "Generatore di caratteri matematici | 𝔐𝔞𝔱𝔥 𝔖𝔶𝔪𝔟𝔬𝔩𝔰",
+          "description": "Genera stili di testo matematici e scientifici inclusi caratteri double-struck, script e fraktur perfetti per equazioni e contenuti accademici."
+        }
+      },
+      "decorative": {
+        "meta": {
+          "title": "Generatore di caratteri decorativi | ✨ Testo di stile",
+          "description": "Crea bellissimi testi decorativi con bolle, quadrati e caratteri Unicode unici che rendono i tuoi contenuti distintivi."
+        }
+      },
+      "vintage": {
+        "meta": {
+          "title": "Generatore di caratteri vintage | 📜 Stili di testo classici",
+          "description": "Genera stili di carattere vintage e classici inclusi fraktur, script e caratteri serif tradizionali per un look senza tempo."
+        }
+      },
+      "modern": {
+        "meta": {
+          "title": "Generatore di caratteri moderni | 🎯 Caratteri contemporanei puliti",
+          "description": "Crea eleganti stili di testo moderni con caratteri sans-serif e monospace puliti, perfetti per contenuti professionali e contemporanei."
+        }
+      },
+      "artistic": {
+        "meta": {
+          "title": "Generatore di caratteri artistici | 🎨 Stili di testo creativi",
+          "description": "Trasforma il tuo testo in stili di carattere artistici e creativi con script, fraktur e caratteri simili a lettere uniche."
+        }
+      },
+      "rounded": {
+        "meta": {
+          "title": "Generatore di caratteri arrotondati | ⭕ Caratteri a bolla morbidi",
+          "description": "Genera stili di testo arrotondati e morbidi con lettere a bolla e caratteri curvi che danno al tuo testo un aspetto amichevole e accessibile."
+        }
+      },
+      "sharp": {
+        "meta": {
+          "title": "Generatore di caratteri appuntiti | ⚡ Stili di testo angolari",
+          "description": "Crea testi appuntiti e angolari con caratteri quadrati e in grassetto, perfetti per design moderni e tech-savvy."
+        }
+      },
+      "handwritten": {
+        "meta": {
+          "title": "Generatore di caratteri scritti a mano | ✍️ Testo script",
+          "description": "Genera testi scritti a mano autentici con caratteri script e corsivi che aggiungono un tocco personale e umano ai tuoi contenuti."
+        }
+      },
+      "gaming": {
+        "meta": {
+          "title": "Generatore di caratteri gaming | 🎮 Testo in stile gioco",
+          "description": "Crea testo in stile gaming con caratteri pixelati, retrò e in grassetto, perfetto per gamer e contenuti gaming."
+        }
+      },
+      "retro": {
+        "meta": {
+          "title": "Generatore di caratteri retrò | 🕹️ Testo in stile 8-bit",
+          "description": "Genera testo retrò e vintage in stile 8-bit con caratteri monospace e pixelati che richiamano il computing classico."
+        }
+      },
+      "elegant": {
+        "meta": {
+          "title": "Generatore di caratteri eleganti | 💎 Testo sofisticato",
+          "description": "Crea testi eleganti e sofisticati con script, serif corsivo e caratteri raffinati per un aspetto di classe e di alta gamma."
+        }
+      },
+      "playful": {
+        "meta": {
+          "title": "Generatore di caratteri giocosi | 🎪 Stili di testo divertenti",
+          "description": "Genera testo divertente e giocoso con bolle, caratteri ruotati e font stravaganti che aggiungono gioia ed energia ai tuoi contenuti."
         }
       }
     },
@@ -98,7 +290,20 @@
         "bubble-text": "Testo a bolle",
         "square-text": "Testo quadrato",
         "cursive": "Corsivo",
-        "alternating": "Alternato"
+        "alternating": "Alternato",
+        "exotic": "Esotico",
+        "mathematical": "Matematico",
+        "decorative": "Decorativo",
+        "vintage": "Vintage",
+        "modern": "Moderno",
+        "artistic": "Artistico",
+        "rounded": "Arrotondato",
+        "sharp": "Appuntito",
+        "handwritten": "Scritto a mano",
+        "gaming": "Gaming",
+        "retro": "Retro",
+        "elegant": "Elegante",
+        "playful": "Giocoso"
       },
       "topic": {
         "handwriting": "Grafia"
@@ -133,6 +338,88 @@
     "shared": {
       "copy": "Copia",
       "copyed": "Copiato!"
+    },
+    "components": {
+      "styleMain": {
+        "placeholder": "Digita qui il testo per vedere fantastiche conversioni di caratteri...",
+        "characters": "caratteri",
+        "emptyState": {
+          "title": "Inizia a digitare per vedere fantastiche conversioni di caratteri!",
+          "subtitle": "Inserisci qualsiasi testo qui sopra e guardalo trasformarsi in bellissimi caratteri stilizzati."
+        }
+      },
+      "enhancedFonts": {
+        "copyButton": "Copia",
+        "copied": "Copiato!",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "tiktok": "TikTok",
+        "generatedFonts": "Caratteri generati",
+        "stylesAvailable": "stili disponibili",
+        "textEffects": "Effetti di testo",
+        "placeholder": "Digita per vedere la conversione...",
+        "noFonts": {
+          "title": "Nessun carattere disponibile per questo stile",
+          "subtitle": "Prova a selezionare uno stile diverso dal menu"
+        }
+      },
+      "styleSection": {
+        "fontGenerator": "Generatore di caratteri",
+        "createStunning": "Crea fantastici testi {style} in pochi secondi. Perfetto per far risaltare i tuoi contenuti sui social media, siti web e progetti creativi.",
+        "about": "Informazioni sul testo {style}",
+        "perfectFor": "Perfetto per:",
+        "tipsTitle": "Consigli per i migliori risultati",
+        "tips": {
+          "tip1": "Usa frasi brevi per massima efficacia",
+          "tip2": "Perfetto per profili social media e titoli",
+          "tip3": "Funziona su tutte le piattaforme principali (Facebook, Instagram, Twitter, ecc.)",
+          "tip4": "Copia e incolla ovunque - nessuna app speciale richiesta"
+        },
+        "useCases": {
+          "bold": {
+            "case1": "Post e aggiornamenti Facebook",
+            "case2": "Titoli Twitter",
+            "case3": "Didascalie Instagram",
+            "case4": "Titoli video YouTube"
+          },
+          "italic": {
+            "case1": "Poesie e citazioni",
+            "case2": "Titoli di libri",
+            "case3": "Scrittura creativa",
+            "case4": "Firme eleganti"
+          },
+          "fancy": {
+            "case1": "Profili social media",
+            "case2": "Inviti di nozze",
+            "case3": "Progetti artistici",
+            "case4": "Branding creativo"
+          },
+          "cool": {
+            "case1": "Nome utente gaming",
+            "case2": "Post social media",
+            "case3": "Siti web personali",
+            "case4": "Progetti creativi"
+          },
+          "small": {
+            "case1": "Commenti social media",
+            "case2": "Note a margine",
+            "case3": "Enfasi sottile",
+            "case4": "Testo compatto"
+          },
+          "underline": {
+            "case1": "Annunci importanti",
+            "case2": "Elementi di navigazione",
+            "case3": "Testi call-to-action",
+            "case4": "Evidenziazioni"
+          },
+          "default": {
+            "case1": "Post social media",
+            "case2": "Progetti creativi",
+            "case3": "Messaggi personali",
+            "case4": "Firme digitali"
+          }
+        }
+      }
     }
   }
 }
